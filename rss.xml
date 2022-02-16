@@ -1,66 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://vuepress-theme-hope-demo.mrhope.site/rss.xml" rel="self" type="application/rss+xml"/>
     <title>RiverCold</title>
-    <link>https://vuepress-theme-hope-demo.mrhope.site/vue/</link>
+    <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
     <description>Welcome to RiverCold's blog!</description>
     <language>en-US</language>
-    <pubDate>Wed, 16 Feb 2022 11:24:50 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Feb 2022 11:24:50 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Feb 2022 12:47:19 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Feb 2022 12:47:19 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
     <category>使用指南</category>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/code/C++/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/code/C++/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/code/C++/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/code/C++/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>C++!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/code/Java/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/code/Java/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/code/Java/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/code/Java/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Java!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/code/Python/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/code/Python/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/code/Python/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/code/Python/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Python!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/code/SQL/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/code/SQL/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/code/SQL/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/code/SQL/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>SQL!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Component disabled</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/disable/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/disable/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Component disabled</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/disable/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/disable/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Component disabled</source>
       <description>&amp;lt;p&amp;gt;You can disable some functions on the page by setting the Frontmatter of the page.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 
 <p>These should be disabled on this page:</p>
@@ -81,11 +81,11 @@
     </item>
     <item>
       <title>Encryption article</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/encrypt/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Encryption article</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/encrypt/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Encryption article</source>
       <category>Guide</category>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -94,13 +94,13 @@
     </item>
     <item>
       <title>Markdown Enhance</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/markdown/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/markdown/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Markdown Enhance</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/markdown/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/markdown/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Markdown Enhance</source>
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; enables more syntax in Markdown via the built-in &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt; plugin.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 
 <h2 id="enable-all"> Enable all</h2>
@@ -552,9 +552,9 @@ A custom details container
     </item>
     <item>
       <title>page config</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/page/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/page/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">page config</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/page/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">page config</source>
       <category>Guide</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="page-information"> Page information</h2>
@@ -601,11 +601,11 @@ A custom details container
     </item>
     <item>
       <title>Guides</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Guides</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/guide/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/guide/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Guides</source>
       <category>Guide</category>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -625,10 +625,10 @@ A custom details container
     </item>
     <item>
       <title>Project home</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/home/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/home/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Project home</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/home/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/home/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Project home</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
@@ -636,20 +636,20 @@ A custom details container
     </item>
     <item>
       <title>Intro Page</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/intro/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/intro/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Intro Page</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/intro/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/intro/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Intro Page</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Custom Layout</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/layout/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/layout/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Custom Layout</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/layout/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/layout/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Custom Layout</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -671,68 +671,68 @@ A custom details container
     </item>
     <item>
       <title>Blog Home</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Blog Home</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Blog Home</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/school/high-school/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/school/high-school/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/school/high-school/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/school/high-school/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Hello High-School!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/school/junior-high-school/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/school/junior-high-school/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/school/junior-high-school/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/school/junior-high-school/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Hello Junior-High-School!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>readme in school</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/school/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/school/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">readme in school</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/school/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/school/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">readme in school</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme-in-school"> readme in school</h1>
 ]]></content:encoded>
     </item>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/school/university/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/school/university/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/school/university/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/school/university/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Hello University!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Slide page</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/slides/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/slides/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Slide page</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/slides/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/slides/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Slide page</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vue/logo.svg" type="image/svg+xml"/>
+      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
       <title>剑指offer</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/solution/leetcode/CodingInterview/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/solution/leetcode/CodingInterview/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">剑指offer</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/solution/leetcode/CodingInterview/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/solution/leetcode/CodingInterview/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">剑指offer</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="剑指offer"> 剑指offer</h1>
 <ul>
 <li><a href="./二维数组中的查找.html">二维数组中的查找</a></li>
@@ -741,10 +741,10 @@ A custom details container
     </item>
     <item>
       <title>二维数组中的查找</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">二维数组中的查找</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">二维数组中的查找</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="二维数组中的查找"> <a href="https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&amp;&amp;tqId=11154&amp;rp=1&amp;ru=/ta/coding-interviews&amp;qru=/ta/coding-interviews/question-ranking" target="_blank" rel="noopener noreferrer">二维数组中的查找</a></h1>
 <h2 id="题目描述"> 题目描述</h2>
 <p>在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。</p>
@@ -837,33 +837,33 @@ A custom details container
     </item>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/solution/leetcode/Cracking-the-Coding-Interview/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/solution/leetcode/Cracking-the-Coding-Interview/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/solution/leetcode/Cracking-the-Coding-Interview/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/solution/leetcode/Cracking-the-Coding-Interview/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Cracking-the-Coding-Interview!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/solution/nowcoder/sql-advanced/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/solution/nowcoder/sql-advanced/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">1.md</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/solution/nowcoder/sql-advanced/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/solution/nowcoder/sql-advanced/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">1.md</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>sql-advanced!</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>组件禁用</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/disable/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/disable/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">组件禁用</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/disable/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">组件禁用</source>
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -884,11 +884,11 @@ A custom details container
     </item>
     <item>
       <title>密码加密的文章</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/encrypt/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/encrypt/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">密码加密的文章</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/encrypt/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -897,13 +897,13 @@ A custom details container
     </item>
     <item>
       <title>Markdown 增强</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/markdown/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/markdown/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">Markdown 增强</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/markdown/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/markdown/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">Markdown 增强</source>
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -1355,9 +1355,9 @@ $$
     </item>
     <item>
       <title>页面配置</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/page/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/page/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">页面配置</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/page/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">页面配置</source>
       <category>使用指南</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="页面信息"> 页面信息</h2>
@@ -1404,11 +1404,11 @@ $$
     </item>
     <item>
       <title>主要功能与配置演示</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">主要功能与配置演示</source>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/guide/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1428,10 +1428,10 @@ $$
     </item>
     <item>
       <title>项目主页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/home/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/home/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">项目主页</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/home/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">项目主页</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -1439,10 +1439,10 @@ $$
     </item>
     <item>
       <title>自定义布局</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/layout/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/layout/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">自定义布局</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/layout/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/layout/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">自定义布局</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>Note</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -1464,10 +1464,10 @@ $$
     </item>
     <item>
       <title>博客主页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">博客主页</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">博客主页</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -1475,13 +1475,13 @@ $$
     </item>
     <item>
       <title>幻灯片页</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/slides/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vue/zh/slides/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vue/rss.xml">幻灯片页</source>
-      <pubDate>Wed, 16 Feb 2022 11:22:13 GMT</pubDate>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/zh/slides/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/zh/slides/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/rss.xml">幻灯片页</source>
+      <pubDate>Wed, 16 Feb 2022 12:43:04 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vue/logo.svg" type="image/svg+xml"/>
+      <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/logo.svg" type="image/svg+xml"/>
     </item>
   </channel>
 </rss>

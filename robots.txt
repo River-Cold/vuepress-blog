@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://vuepress-theme-hope-demo.mrhope.site/vue/sitemap.xml
+Sitemap: https://vuepress-theme-hope-demo.mrhope.site/sitemap.xml
