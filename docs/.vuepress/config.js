@@ -36,6 +36,7 @@ module.exports = config({
 
   themeConfig: {
     breadcrumb: true,
+    sidebarDepth: 2,
 
     copyCode: {
       showInMobile: true,

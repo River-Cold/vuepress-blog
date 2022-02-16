@@ -5,13 +5,15 @@ module.exports = [
         children: [
             {
                 title: "年度总结",
+                path: "Annual-Summary/",
                 prefix: "Annual-Summary/",
-                children: ["", "1"],
+                children: ["readme"],
             },
             {
                 title: "旅行记录",
+                path: "Travel-Records/",
                 prefix: "Travel-Records/",
-                children: ["", "1"],
+                children: ["readme"],
             },
         ]
     },
@@ -21,18 +23,21 @@ module.exports = [
         children: [
             {
                 title: "初中",
+                path: "junior-high-school/",
                 prefix: "junior-high-school/",
-                children: ["", "1"],
+                children: ["readme"],
             },
             {
                 title: "高中",
+                path: "high-school/",
                 prefix: "high-school/",
-                children: ["", "1"],
+                children: ["readme"],
             },
             {
                 title: "大学",
+                path: "university/",
                 prefix: "university/",
-                children: ["", "1"],
+                children: ["readme"],
             },
         ]
     },
@@ -42,23 +47,27 @@ module.exports = [
         children: [
             {
                 title: "C++",
+                path: "C++/",
                 prefix: "C++/",
-                children: ["", "1"],
+                children: ["readme"],
             },
             {
                 title: "Java",
+                path: "Java/",
                 prefix: "Java/",
-                children: ["", "1"],
+                children: ["readme"],
             },
             {
                 title: "Python",
+                path: "Python/",
                 prefix: "Python/",
-                children: ["", "1"],
+                children: ["readme"],
             },
             {
                 title: "SQL",
+                path: "SQL/",
                 prefix: "SQL/",
-                children: ["", "1"],
+                children: ["readme"],
             },
         ]
     },
@@ -72,13 +81,15 @@ module.exports = [
                 children: [
                     {
                         title: '剑指Offer',
+                        path: 'CodingInterview/',
                         prefix: 'CodingInterview/',
-                        children: ["", "1", "jz1"],
+                        children: ["readme", "二维数组中的查找"],
                     },
                     {
                         title: '程序员面试宝典',
+                        path: 'Cracking-the-Coding-Interview/',
                         prefix: 'Cracking-the-Coding-Interview/',
-                        children: ["", "1"],
+                        children: ["readme"],
                     }
                 ],
             },
@@ -88,8 +99,9 @@ module.exports = [
                 children: [
                     {
                         title: 'SQL进阶挑战',
+                        path: 'sql-advanced/',
                         prefix: 'sql-advanced/',
-                        children: ["", "1"],
+                        children: ["readme"],
                     },
                 ],
             },
