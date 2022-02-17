@@ -36,7 +36,6 @@ module.exports = config({
   },
 
   themeConfig: {
-    breadcrumb: true,
     sidebarDepth: 2,
 
     copyCode: {
@@ -153,7 +152,8 @@ module.exports = config({
 
     comment: {
       type: "waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      serverURL: "https://vuepress-blog-comment-nbossxmqm-river-cold.vercel.app",
     },
 
     copyright: {
