@@ -3,6 +3,7 @@ const { config } = require("vuepress-theme-hope");
 module.exports = config({
   title: "RiverCold",
   description: "Welcome to RiverCold's blog!",
+  base: "/vuepress-blog/",
   // dest: "./dist",
   dest : "./docs/.vuepress/dist",
 
