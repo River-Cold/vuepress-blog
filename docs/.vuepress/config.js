@@ -36,6 +36,12 @@ module.exports = config({
   },
 
   themeConfig: {
+    algolia: {
+      apiKey: '5fbbc2241e7296988a2a1eff2c428a17',
+      indexName: 'vuepress-blog',
+      appId: 'DJW7YH4ZL1',
+    },
+
     sidebarDepth: 2,
 
     copyCode: {
