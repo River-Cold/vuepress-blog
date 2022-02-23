@@ -42,6 +42,24 @@ module.exports = [
         ]
     },
     {
+        title: '面试指南',
+        prefix: '/interview/',
+        children: [
+            {   
+                title: '八股文',
+                prefix: 'basics/', 
+                children: [
+                    {
+                        title: '计算机网络', 
+                        prefix: 'network/',
+                        path: 'network/',
+                        children: ["/", "计算机网络面试突击"],
+                    },
+                ]
+            },
+        ],
+    },
+    {
         title: "编程语言",
         prefix: "/code/",
         children: [

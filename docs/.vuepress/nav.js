@@ -20,6 +20,19 @@ module.exports = [
         ],
     },
     {
+        text: '面试指南',
+        prefix: '/interview/',
+        items: [
+            {   
+                text: '八股文',
+                prefix: 'basics/', 
+                items: [
+                    { text: '计算机网络', link: 'network/' },
+                ]
+            },
+        ],
+    },
+    {
         text: '编程语言',
         prefix: '/code/',
         items: [
