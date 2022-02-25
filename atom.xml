@@ -6,7 +6,7 @@
   <author>
     <name>RiverCold</name>
   </author>
-  <updated>2022-02-23T14:13:43.703Z</updated>
+  <updated>2022-02-25T14:09:20.260Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/"/>
@@ -22,7 +22,7 @@
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>C++!</p>
 ]]></content>
@@ -32,14 +32,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Java!</p>
 ]]></content>
@@ -49,14 +49,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Python!</p>
 ]]></content>
@@ -66,14 +66,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>SQL!</p>
 ]]></content>
@@ -83,14 +83,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Component disabled</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/disable/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <summary type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
@@ -117,14 +117,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Encryption article</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -137,14 +137,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Markdown Enhance</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/markdown/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
@@ -602,14 +602,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">page config</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/page/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h2 id="page-information"> Page information</h2>
 <p>You can set page information in Markdown’s Frontmatter.</p>
 <ul>
@@ -665,7 +665,7 @@ A custom details container
     <title type="html">Guides</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -689,14 +689,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Project home</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
@@ -707,14 +707,52 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
+    <rights>Copyright by RiverCold</rights>
+  </entry>
+  <entry>
+    <title type="html">数据库知识手册</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/"/>
+    <updated>2022-02-25T14:07:08.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="数据库知识手册"> 数据库知识手册</h1>
+<h2 id="数据库基础概念"> 数据库基础概念</h2>
+<h3 id="什么是数据库"> 什么是数据库？</h3>
+<p>::: detail answer</p>
+<p>数据库（Database）是保存有组织的数据的容器（通常是一个文件或一组文件），是通过数据库管理系统（DataBase-Management System，DBMS）创建和操纵的容器。</p>
+<p>:::</p>
+<h3 id="什么是数据库管理系统"> 什么是数据库管理系统？</h3>
+<p>::: detail answer</p>
+<p>一种操纵和管理数据库的大型软件，简称DBMS</p>
+<p>:::</p>
+<h3 id="为什么要使用数据库"> 为什么要使用数据库？</h3>
+<p>::: detail answer</p>
+<ol>
+<li>数据可永久保存且数据安全性高</li>
+<li>使用SQL语句，查询方便效率高</li>
+<li>便于数据管理和数据分析</li>
+</ol>
+<p>:::</p>
+<h3 id="sql和mysql有什么区别"> SQL和MySQL有什么区别？</h3>
+<p>::: detail answer</p>
+<p>SQL是一种结构化查询语言，用于在数据库上执行各种操作。</p>
+<p>MySQL是一个关系型数据库管理系统（RDBMS），使用SQL执行所有数据库操作。</p>
+<p>:::</p>
+]]></content>
+    <author>
+      <name>RiverCold</name>
+    </author>
+    <contributor>
+      <name>RiverCold</name>
+    </contributor>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">计算机网络</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./计算机网络面试突击.html">计算机网络面试突击</a></li>
@@ -726,14 +764,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">计算机网络面试突击</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="计算机网络面试突击"> 计算机网络面试突击</h1>
 <h2 id="第三部分-传输层"> 第三部分：传输层</h2>
 <h3 id="三次握手和四次挥手机制"> 三次握手和四次挥手机制</h3>
@@ -827,14 +865,15 @@ A custom details container
 </details>
 <h3 id="tcp协议如何保证可靠传输"> TCP协议如何保证可靠传输？</h3>
 <details><summary>answer</summary>
+<p>（<strong>校序重流拥</strong>）</p>
 <ol>
 <li>数据分块：应用数据被分割成TCP认为最合适发送的数据块</li>
-<li>序列号和确认应答：TCP给发送的每一个字节进行编号，在传输的过程中，每次接收方收到数据后，都会对传输方进行确认应答，即发送ACK报文，这个ACK报文中有对应的确认序列号，告诉发送方成功接收了哪些数据以及下一次的数据从哪里开始发。除此之外，接收方可以根据序列号对数据报进行排序，把有序数据传送给应用层，并丢弃重复的数据。</li>
-<li>检验和：</li>
-<li>流量控制：TCP连接的双方都有一个固定大小的缓冲空间，发送方发送的数据不能超过接收端缓冲区的大小，当接收方来不及处理发送方的数据，会提示发送方降低发送的速率，防止产生丢包。TCP通过滑动窗口协议来支持流量控制机制。</li>
+<li>校验和：TCP将保持它首部和数据的校验和。这是一个端到端的校验和，**目的是检测数据在传输过程中的任何变化。**如果接收端的校验和有差错，TCP将丢弃这个报文段和不确认收到此报文段。</li>
+<li>序列号和确认应答：**TCP给发送的每一个字节进行编号，在传输的过程中，每次接收方收到数据后，都会对传输方进行确认应答，即发送ACK报文，这个ACK报文中有对应的确认序列号ack，告诉发送方成功接收了哪些数据以及下一次的数据从哪里开始发。**除此之外，接收方可以根据序列号对数据报进行排序，把有序数据传送给应用层，并丢弃重复的数据。</li>
+<li>超时重传：**当TCP发出一个报文段后，它启动一个定时器，等待目的端确认收到这个报文段。**如果超过某个时间还没有收到确认，将重发这个报文段。</li>
+<li>流量控制：**TCP连接的双方都有一个固定大小的缓冲空间，发送方发送的数据不能超过接收端缓冲区的大小，**当接收方来不及处理发送方的数据，会提示发送方降低发送的速率，防止产生丢包。<strong>TCP通过滑动窗口协议来支持流量控制机制。</strong></li>
 <li>拥塞控制：当网络中某个节点发生拥塞时，减少数据的发送。</li>
-<li>ARQ协议：</li>
-<li>超时重传：当TCP发出一个报文段后，它启动一个定时器，等待目的端确认收到这个报文段。如果超过某个时间还没有收到确认，将重发这个报文段。</li>
+<li>自动重传请求（Automatic Repeat-reQuest，ARQ）是OSI模型中数据链路层和传输层的错误纠正协议之一。<strong>它通过确认和超时两个机制，基本原理是每发完一个分组就停止发送，等待对方确认。在收到确认后再发下一个分组。</strong></li>
 </ol>
 </details>
 ]]></content>
@@ -844,14 +883,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -861,14 +900,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -893,14 +932,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content>
     <author>
@@ -909,14 +948,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content>
     <author>
@@ -925,14 +964,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Blog Home</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[
 ]]></content>
     <author>
@@ -941,14 +980,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello High-School!</p>
 ]]></content>
@@ -958,14 +997,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello Junior-High-School!</p>
 ]]></content>
@@ -975,14 +1014,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme in school</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme-in-school"> readme in school</h1>
 ]]></content>
     <author>
@@ -991,14 +1030,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello University!</p>
 ]]></content>
@@ -1008,14 +1047,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -1024,14 +1063,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">剑指offer</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="剑指offer"> 剑指offer</h1>
 <ul>
 <li><a href="./二维数组中的查找.html">二维数组中的查找</a></li>
@@ -1043,14 +1082,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">二维数组中的查找</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="二维数组中的查找"> <a href="https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&amp;&amp;tqId=11154&amp;rp=1&amp;ru=/ta/coding-interviews&amp;qru=/ta/coding-interviews/question-ranking" target="_blank" rel="noopener noreferrer">二维数组中的查找</a></h1>
 <h2 id="题目描述"> 题目描述</h2>
 <p>在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。</p>
@@ -1146,14 +1185,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Cracking-the-Coding-Interview!</p>
 ]]></content>
@@ -1163,14 +1202,245 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
+    <rights>Copyright by RiverCold</rights>
+  </entry>
+  <entry>
+    <title type="html">1.两数之和</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/"/>
+    <updated>2022-02-25T14:07:08.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="_1-两数之和"> <a href="https://leetcode-cn.com/problems/two-sum/" target="_blank" rel="noopener noreferrer">1.两数之和</a></h1>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_two-sum_.png" alt="" loading="lazy"></p>
+<h2 id="方法一-哈希表"> 方法一：哈希表</h2>
+<div><p>Tips</p>
+<details><summary>思路</summary>
+<p>创建一个哈希表，对于每一个 <code>x</code>，我们首先查询哈希表中是否存在 <code>target - x</code>，然后将 <code>x</code> 插入到哈希表中，即可保证不会让 <code>x</code> 和自己匹配。</p>
+</details>
+</div>
+<h2 id="参考代码"> 参考代码</h2>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    vector<span>&lt;</span><span>int</span><span>></span> <span>twoSum</span><span>(</span>vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>,</span> <span>int</span> target<span>)</span> <span>{</span>
+        <span>// 使用map记录所有出现过的数字最后一次出现的下标</span>
+        unordered_map<span>&lt;</span><span>int</span><span>,</span> <span>int</span><span>></span> dic<span>;</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>;</span> i<span>++</span><span>)</span><span>{</span>
+            dic<span>[</span>nums<span>[</span>i<span>]</span><span>]</span> <span>=</span> i<span>;</span>
+        <span>}</span>
+        <span>// 然后查找target - num的元素是否在map中出现过</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>;</span> i<span>++</span><span>)</span><span>{</span>
+            <span>int</span> num2 <span>=</span> target <span>-</span> nums<span>[</span>i<span>]</span><span>;</span>
+            <span>// 如果出现过，则返回两个元素的数组下标</span>
+            <span>if</span><span>(</span>dic<span>[</span>num2<span>]</span> <span>&amp;&amp;</span> dic<span>[</span>num2<span>]</span> <span>!=</span> i<span>)</span><span>{</span>
+                <span>return</span> <span>{</span>i<span>,</span> dic<span>[</span>num2<span>]</span><span>}</span><span>;</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> <span>{</span><span>}</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div></CodeGroupItem>
+<CodeGroupItem title="c++" active>
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    vector<span>&lt;</span><span>int</span><span>></span> <span>twoSum</span><span>(</span>vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>,</span> <span>int</span> target<span>)</span> <span>{</span>
+        <span>int</span> n <span>=</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>;</span>
+        <span>// 使用map记录所有出现过的数字出现的下标</span>
+        unordered_map<span>&lt;</span><span>int</span><span>,</span> <span>int</span><span>></span> dic<span>;</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> n<span>;</span> i<span>++</span><span>)</span><span>{</span>
+            <span>int</span> num <span>=</span> target <span>-</span> nums<span>[</span>i<span>]</span><span>;</span>
+            <span>// 查询哈希表中是否存在 target - nums[i]，若存在直接返回下标</span>
+            <span>if</span><span>(</span>dic<span>.</span><span>find</span><span>(</span>num<span>)</span> <span>!=</span> dic<span>.</span><span>end</span><span>(</span><span>)</span><span>)</span><span>{</span>
+                <span>return</span> <span>{</span>i<span>,</span> dic<span>[</span>num<span>]</span><span>}</span><span>;</span>
+            <span>}</span>
+            <span>// 如果不存在则将当前元素和其下标插入哈希表</span>
+            dic<span>[</span>nums<span>[</span>i<span>]</span><span>]</span> <span>=</span> i<span>;</span>
+        <span>}</span>
+        <span>return</span> <span>{</span><span>}</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+]]></content>
+    <author>
+      <name>RiverCold</name>
+    </author>
+    <contributor>
+      <name>RiverCold</name>
+    </contributor>
+    <published>2022-02-25T14:07:08.000Z</published>
+    <rights>Copyright by RiverCold</rights>
+  </entry>
+  <entry>
+    <title type="html">64.最小路径和</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/"/>
+    <updated>2022-02-25T14:07:08.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="_64-最小路径和"> 64.最小路径和</h1>
+<p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_minimum-path-sum.png" alt="" loading="lazy"></p>
+<h2 id="方法一-动态规划"> 方法一：动态规划</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<details><summary>DETAILS</summary>
+<p>状态定义：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>表示从左上角出发到 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>i</span><span>,</span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.05724em;">j</span><span>)</span></span></span></span> 位置的最小路径和</p>
+<p>状态转移方程：</p>
+<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6986em;vertical-align:-0.0391em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span>0</span><span>]</span></span></span></span></p>
+<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6595em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>0</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>0</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>0</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></p>
+<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6986em;vertical-align:-0.0391em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>min</span><span>(</span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span>,</span><span style="margin-right:0.1667em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>])</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></p>
+<p>状态边界</p>
+<p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span></span></span></span></p>
+</details>
+</div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>/*
+第一行和第一列的值在循环外提前初始化
+*/</span>
+<span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>int</span> <span>minPathSum</span><span>(</span>vector<span>&lt;</span>vector<span>&lt;</span><span>int</span><span>>></span><span>&amp;</span> grid<span>)</span> <span>{</span>
+        <span>int</span> m <span>=</span> grid<span>.</span><span>size</span><span>(</span><span>)</span><span>,</span> n <span>=</span> grid<span>[</span><span>0</span><span>]</span><span>.</span><span>size</span><span>(</span><span>)</span><span>;</span>
+        vector<span>&lt;</span>vector<span>&lt;</span><span>int</span><span>>></span> <span>dp</span><span>(</span>m<span>,</span> <span><span>vector</span><span><span>&lt;</span><span>int</span><span>></span></span></span><span>(</span>n<span>)</span><span>)</span><span>;</span>
+        <span>// 初始化边界值</span>
+        dp<span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span> <span>=</span> grid<span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span><span>;</span>
+        <span>// 第一列的值</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>1</span><span>;</span> i <span>&lt;</span> m<span>;</span> i<span>++</span><span>)</span><span>{</span>
+            dp<span>[</span>i<span>]</span><span>[</span><span>0</span><span>]</span> <span>=</span> dp<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>[</span><span>0</span><span>]</span> <span>+</span> grid<span>[</span>i<span>]</span><span>[</span><span>0</span><span>]</span><span>;</span>
+        <span>}</span>
+        <span>// 第一行的值</span>
+        <span>for</span><span>(</span><span>int</span> j <span>=</span> <span>1</span><span>;</span> j <span>&lt;</span> n<span>;</span> j<span>++</span><span>)</span><span>{</span>
+            dp<span>[</span><span>0</span><span>]</span><span>[</span>j<span>]</span> <span>=</span> grid<span>[</span><span>0</span><span>]</span><span>[</span>j<span>]</span> <span>+</span> dp<span>[</span><span>0</span><span>]</span><span>[</span>j <span>-</span> <span>1</span><span>]</span><span>;</span>
+        <span>}</span>
+
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>1</span><span>;</span> i <span>&lt;</span> m<span>;</span> i<span>++</span><span>)</span><span>{</span>
+            <span>for</span><span>(</span><span>int</span> j <span>=</span> <span>1</span><span>;</span> j <span>&lt;</span> n<span>;</span> j<span>++</span><span>)</span><span>{</span>
+                dp<span>[</span>i<span>]</span><span>[</span>j<span>]</span> <span>=</span> <span>min</span><span>(</span>dp<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>[</span>j<span>]</span><span>,</span> dp<span>[</span>i<span>]</span><span>[</span>j <span>-</span> <span>1</span><span>]</span><span>)</span> <span>+</span> grid<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>;</span>
+            <span>}</span>
+        <span>}</span>
+
+        <span>return</span> dp<span>[</span>m <span>-</span> <span>1</span><span>]</span><span>[</span>n <span>-</span> <span>1</span><span>]</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br></div></div></CodeGroupItem>
+<CodeGroupItem title="c++" active>
+<div><pre><code><span>/*
+第一行和第一列的值在循环的同时进行初始化
+*/</span>
+<span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>int</span> <span>minPathSum</span><span>(</span>vector<span>&lt;</span>vector<span>&lt;</span><span>int</span><span>>></span><span>&amp;</span> grid<span>)</span> <span>{</span>
+        <span>int</span> m <span>=</span> grid<span>.</span><span>size</span><span>(</span><span>)</span><span>,</span> n <span>=</span> grid<span>[</span><span>0</span><span>]</span><span>.</span><span>size</span><span>(</span><span>)</span><span>;</span>
+        vector<span>&lt;</span>vector<span>&lt;</span><span>int</span><span>>></span> <span>dp</span><span>(</span>m<span>,</span> <span><span>vector</span><span><span>&lt;</span><span>int</span><span>></span></span></span><span>(</span>n<span>)</span><span>)</span><span>;</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> m<span>;</span> i<span>++</span><span>)</span><span>{</span>
+            <span>for</span><span>(</span><span>int</span> j <span>=</span> <span>0</span><span>;</span> j <span>&lt;</span> n<span>;</span> j<span>++</span><span>)</span><span>{</span>
+                <span>if</span><span>(</span>i <span>==</span> <span>0</span><span>)</span><span>{</span>
+                    <span>if</span><span>(</span>j <span>>=</span> <span>1</span><span>)</span><span>{</span>
+                        dp<span>[</span>i<span>]</span><span>[</span>j<span>]</span> <span>=</span> dp<span>[</span>i<span>]</span><span>[</span>j<span>-</span><span>1</span><span>]</span> <span>+</span> grid<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>;</span>
+                    <span>}</span><span>else</span><span>{</span>
+                        dp<span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span> <span>=</span> grid<span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span><span>;</span>
+                    <span>}</span>
+                <span>}</span><span>else</span><span>{</span>
+                    <span>if</span><span>(</span>j <span>>=</span> <span>1</span><span>)</span><span>{</span>
+                        dp<span>[</span>i<span>]</span><span>[</span>j<span>]</span> <span>=</span> <span>min</span><span>(</span>dp<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>[</span>j<span>]</span><span>,</span> dp<span>[</span>i<span>]</span><span>[</span>j <span>-</span> <span>1</span><span>]</span><span>)</span> <span>+</span> grid<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>;</span>
+                    <span>}</span><span>else</span><span>{</span>
+                        dp<span>[</span>i<span>]</span><span>[</span>j<span>]</span> <span>=</span> dp<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>[</span>j<span>]</span> <span>+</span> grid<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>;</span>
+                    <span>}</span>
+                <span>}</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> dp<span>[</span>m <span>-</span> <span>1</span><span>]</span><span>[</span>n <span>-</span> <span>1</span><span>]</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h2 id="方法二-滚动数组"> 方法二：滚动数组</h2>
+<h3 id="思路分析-2"> 思路分析</h3>
+<div><p>Tips</p>
+<details><summary>DETAILS</summary>
+<p>状态定义：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>表示从左上角出发到 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>i</span><span>,</span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.05724em;">j</span><span>)</span></span></span></span> 位置的最小路径和</p>
+<p>由状态转移方程</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>min</span><span>(</span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span>,</span><span style="margin-right:0.1667em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>])</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></span></p>
+<p>可知<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>只会从<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>（上方行的数据）或者<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span></span></span></span>（左侧列的数据）转移得到，在循环的过程中只会使用到之前已经计算好的值，因此可以使用滚动数组进行优化，将<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>中的行<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6595em;"></span><span>i</span></span></span></span>去掉，使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>替代。得到新的状态转移方程如下：</p>
+<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6986em;vertical-align:-0.0391em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></p>
+<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6595em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></p>
+<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6986em;vertical-align:-0.0391em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>min</span><span>(</span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span>,</span><span style="margin-right:0.1667em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>])</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></p>
+<p>状态边界</p>
+<p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span></span></span></span></p>
+</details>
+</div>
+<h3 id="参考代码-2"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>int</span> <span>minPathSum</span><span>(</span>vector<span>&lt;</span>vector<span>&lt;</span><span>int</span><span>>></span><span>&amp;</span> grid<span>)</span> <span>{</span>
+        <span>int</span> m <span>=</span> grid<span>.</span><span>size</span><span>(</span><span>)</span><span>,</span> n <span>=</span> grid<span>[</span><span>0</span><span>]</span><span>.</span><span>size</span><span>(</span><span>)</span><span>;</span>
+        vector<span>&lt;</span><span>int</span><span>></span> <span>dp</span><span>(</span>n<span>)</span><span>;</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> m<span>;</span> i<span>++</span><span>)</span><span>{</span>
+            <span>for</span><span>(</span><span>int</span> j <span>=</span> <span>0</span><span>;</span> j <span>&lt;</span> n<span>;</span> j<span>++</span><span>)</span><span>{</span>
+                <span>if</span><span>(</span>i <span>==</span> <span>0</span><span>)</span><span>{</span>
+                    <span>if</span><span>(</span>j <span>>=</span> <span>1</span><span>)</span><span>{</span>
+                        dp<span>[</span>j<span>]</span> <span>=</span> dp<span>[</span>j <span>-</span> <span>1</span><span>]</span> <span>+</span> grid<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>;</span> 
+                    <span>}</span><span>else</span><span>{</span>
+                        dp<span>[</span>j<span>]</span> <span>=</span> grid<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>;</span>             
+                    <span>}</span>
+                <span>}</span><span>else</span><span>{</span>
+                    <span>if</span><span>(</span>j <span>>=</span> <span>1</span><span>)</span><span>{</span>
+                        dp<span>[</span>j<span>]</span> <span>=</span> <span>min</span><span>(</span>dp<span>[</span>j<span>]</span><span>,</span> dp<span>[</span>j <span>-</span> <span>1</span><span>]</span><span>)</span> <span>+</span> grid<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>;</span>
+                    <span>}</span><span>else</span><span>{</span>
+                        dp<span>[</span>j<span>]</span> <span>=</span> dp<span>[</span>j<span>]</span> <span>+</span> grid<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>;</span>
+                    <span>}</span>
+                <span>}</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> dp<span>[</span>n <span>-</span> <span>1</span><span>]</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+]]></content>
+    <author>
+      <name>RiverCold</name>
+    </author>
+    <contributor>
+      <name>RiverCold</name>
+    </contributor>
+    <published>2022-02-25T14:07:08.000Z</published>
+    <rights>Copyright by RiverCold</rights>
+  </entry>
+  <entry>
+    <title type="html">LeetCode 热题 HOT 100</title>
+    <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</id>
+    <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/"/>
+    <updated>2022-02-25T14:07:08.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="leetcode-热题-hot-100"> LeetCode 热题 HOT 100</h1>
+<ul>
+<li><a href="./1.两数之和.html">1.两数之和</a></li>
+<li><a href="./64.最小路径和.html">64.最小路径和</a></li>
+</ul>
+]]></content>
+    <author>
+      <name>RiverCold</name>
+    </author>
+    <contributor>
+      <name>RiverCold</name>
+    </contributor>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>sql-advanced!</p>
 ]]></content>
@@ -1180,14 +1450,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">组件禁用</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/disable/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -1214,14 +1484,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/encrypt/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/encrypt/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -1234,14 +1504,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/markdown/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -1699,14 +1969,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/page/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -1762,7 +2032,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -1786,14 +2056,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -1804,14 +2074,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>Note</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -1836,14 +2106,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -1854,14 +2124,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/"/>
-    <updated>2022-02-23T14:11:29.000Z</updated>
+    <updated>2022-02-25T14:07:08.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -1870,7 +2140,7 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-23T14:11:29.000Z</published>
+    <published>2022-02-25T14:07:08.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
 </feed>
