@@ -36,6 +36,11 @@ module.exports = config({
   },
 
   themeConfig: {
+    mdEnhance: {
+      codegroup: true,  //混合代码块
+      mermaid: true,    //绘图工具
+    },
+
     algolia: {
       apiKey: '5fbbc2241e7296988a2a1eff2c428a17',
       indexName: 'vuepress-blog',

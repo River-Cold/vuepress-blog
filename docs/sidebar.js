@@ -50,6 +50,12 @@ module.exports = [
                 prefix: 'basics/', 
                 children: [
                     {
+                        title: '数据库', 
+                        prefix: 'database/',
+                        path: 'database/',
+                        children: ["/", "数据库知识手册"],
+                    },
+                    {
                         title: '计算机网络', 
                         prefix: 'network/',
                         path: 'network/',
@@ -108,7 +114,13 @@ module.exports = [
                         path: 'Cracking-the-Coding-Interview/',
                         prefix: 'Cracking-the-Coding-Interview/',
                         children: ["/"],
-                    }
+                    },
+                    {
+                        title: 'LeetCode 热题 HOT 100',
+                        path: 'LeetCode-hot-topic-HOT-100/',
+                        prefix: 'LeetCode-hot-topic-HOT-100/',
+                        children: ["/", "1. 两数之和", "64. 最小路径和"],
+                    },
                 ],
             },
             {
