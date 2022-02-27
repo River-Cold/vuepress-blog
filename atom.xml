@@ -6,7 +6,7 @@
   <author>
     <name>RiverCold</name>
   </author>
-  <updated>2022-02-27T12:16:43.074Z</updated>
+  <updated>2022-02-27T14:21:50.664Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/atom.xml"/>
   <link rel="alternate" href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/"/>
@@ -22,7 +22,7 @@
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>C++!</p>
 ]]></content>
@@ -32,14 +32,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Java!</p>
 ]]></content>
@@ -49,14 +49,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Python!</p>
 ]]></content>
@@ -66,14 +66,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>SQL!</p>
 ]]></content>
@@ -83,14 +83,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Component disabled</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/disable/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <summary type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
@@ -117,14 +117,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Encryption article</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -137,14 +137,14 @@
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Markdown Enhance</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/markdown/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
@@ -602,14 +602,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">page config</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/page/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h2 id="page-information"> Page information</h2>
 <p>You can set page information in Markdown’s Frontmatter.</p>
 <ul>
@@ -665,7 +665,7 @@ A custom details container
     <title type="html">Guides</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -689,14 +689,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Project home</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
@@ -707,14 +707,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">数据库知识手册</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="数据库知识手册"> 数据库知识手册</h1>
 <h2 id="数据库基础概念"> 数据库基础概念</h2>
 <h3 id="什么是数据库"> 什么是数据库？</h3>
@@ -739,14 +739,17 @@ A custom details container
 <p>MySQL是一个关系型数据库管理系统（RDBMS），使用SQL执行所有数据库操作。</p>
 </details>
 <h3 id="数据库三大范式是什么"> 数据库三大范式是什么？</h3>
+<details><summary>answer</summary>
 <p>数据库范式是设计数据库时，需要遵循的一些规范。越高的范式数据库冗余越小。常用的数据库三大范式为：</p>
 <ul>
 <li>**第一范式（1NF）：**每个列都不可以再拆分，强调列的原子性。第一范式要求数据库中的表都是二维表。</li>
 <li><strong>第二范式（2NF）：<strong>在第一范式的基础上，一个表必须有一个主键，非主键列</strong>完全依赖</strong>于主键，而不能是依赖于主键的一部分。</li>
 <li>**第三范式（3NF）：**在第二范式的基础上，非主键列只依赖于（直接依赖）于主键，不依赖于其他非主键。</li>
 </ul>
+</details>
 <h2 id="索引"> 索引</h2>
 <h3 id="索引的优缺点"> 索引的优缺点</h3>
+<details><summary>answer</summary>
 <p><strong>索引的优点</strong></p>
 <ul>
 <li>通过创建<strong>唯一性索引</strong>，可以<strong>保证每一行数据的唯一性</strong>；</li>
@@ -758,6 +761,54 @@ A custom details container
 <li>时间上，创建和维护索引都需要耗费时间，这种时间随数据量增加而增加</li>
 <li>空间上，索引需要占<strong>物理空间</strong>，除了数据表占数据空间外，每个索引还要占一定的物理空间，如果要建立聚簇索引，需要的空间就更大。</li>
 </ul>
+</details>
+<h3 id="索引的数据结构有哪些"> 索引的数据结构有哪些？</h3>
+<details><summary>answer</summary>
+<p>数据库索引按照结构分类，主要有<strong>B树索引、Hash索引和位图索引</strong>三种</p>
+<p><strong>B树索引</strong></p>
+<p>又称<strong>平衡树索引</strong>。以树结构组织，有一个或多个分支结点，分支结点又指向单级叶结点。其中分支结点用于遍历树，叶结点则保存真正的值和位置信息。</p>
+<p><strong>Hash索引</strong></p>
+<p>哈希索引采取一定的哈希算法（常见哈希算法有直接定址法，平方取中法，折叠法，除数取余法，随机数法），将数据库字段转换成定长的Hash值，与这条数据的行指针一并存入Hash表的对应位置，如果发生Hash冲突（两个不同关键字的Hash值相同），则在对应Hash键下以链表形式存储。</p>
+<p><strong>位图索引</strong></p>
+<p>位图索引为存储在某列中的每一个值生成一个位图。位图索引适合只有几个固定值的列，需要注意位图索引适合静态数据，不适合索引频繁更新的列。</p>
+</details>
+<h3 id="b树的特点"> B树的特点</h3>
+<details><summary>answer</summary>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227215631.png" alt="" loading="lazy"></p>
+<p>B树是所有结点的平衡因子均等于0的多路平衡查找树</p>
+<ul>
+<li>每个节点最多m个子结点（m棵子树），即<strong>至多含有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6667em;vertical-align:-0.0833em;"></span><span>m</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:0.6444em;"></span><span>1</span></span></span></span>个关键字</strong></li>
+<li>如果根节点没有关键字就没有子树，此时B树为空；如果根节点有关键字，则其子树必然大于等于两棵</li>
+<li>除了根节点和叶子结点外，每个结点最多有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈</span><span><span>m</span><span>/2</span><span>⌉</span></span></span></span></span>（向上取整）个子结点</li>
+<li>所有叶子结点位于同一层，按照关键字大小顺序排列</li>
+<li>每个节点既存放关键字信息也存放具体数据</li>
+</ul>
+</details>
+<h3 id="b-树的特点"> B+树的特点</h3>
+<details><summary>answer</summary>
+<p>B+ 树是在 B 树基础上的一种优化，使其更适合实现存储索引结构。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227215703.png" alt="" loading="lazy"></p>
+<ul>
+<li>每个节点最多m个子结点（m棵子树），即<strong>至多含有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>m</span></span></span></span>个关键字</strong></li>
+<li>如果根节点没有关键字就没有子树，此时B树为空；如果根节点有关键字，则其子树必然大于等于两棵</li>
+<li>除了根节点和叶子结点外，每个结点最多有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>⌈</span><span><span>m</span><span>/2</span><span>⌉</span></span></span></span></span>（向上取整）个子结点</li>
+<li>所有叶子结点位于同一层，按照关键字大小顺序排列，<strong>并且相邻叶结点之间有一个链指针</strong></li>
+<li>非叶结点只起到索引作用，只存放关键字，不存放数据，只有叶子结点既存放关键字也存放数据</li>
+</ul>
+</details>
+<h3 id="b-树和b-树的区别"> B+树和B-树的区别？</h3>
+<details><summary>answer</summary>
+<ul>
+<li>B树每个节点的子节点个数=关键字个数+1，B+树每个节点的子节点个数=关键字个数</li>
+<li>B树的相邻叶结点都是独立的，B+树的相邻叶结点之间有链指针</li>
+<li>B树的每个节点既存放关键字也存放数据，B+树的非叶结点只起到索引作用，只存放关键字，不存放数据，只有叶子结点既存放关键字也存放数据</li>
+</ul>
+</details>
+<h3 id="使用b-树的好处"> 使用B+树的好处?</h3>
+<details><summary>answer</summary>
+<p>由于B+树的内部结点只存放键，不存放值，因此，一次读取，可以在同一内存页中获取更多的键，有利于更快的缩小查找范围。</p>
+<p>B+树的叶结点由一条链相连，因此当需要进行一次<strong>全数据遍历</strong>的时候，B+树只需要使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span style="margin-right:0.01968em;">l</span><span>o</span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.10903em;">N</span><span>)</span></span></span></span>时间找到最小结点，然后通过链进行<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span style="margin-right:0.10903em;">N</span><span>)</span></span></span></span>的顺序遍历即可。或者在找<strong>大于某个关键字或者小于某个关键字的数据</strong>的时候，B+树只需要找到该关键字然后沿着链表遍历即可。</p>
+</details>
 ]]></content>
     <author>
       <name>RiverCold</name>
@@ -765,14 +816,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">计算机网络</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./计算机网络面试突击.html">计算机网络面试突击</a></li>
@@ -784,14 +835,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">计算机网络面试突击</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="计算机网络面试突击"> 计算机网络面试突击</h1>
 <h2 id="第三部分-传输层"> 第三部分：传输层</h2>
 <h3 id="三次握手和四次挥手机制"> 三次握手和四次挥手机制</h3>
@@ -903,14 +954,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -920,14 +971,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -952,14 +1003,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content>
     <author>
@@ -968,14 +1019,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content>
     <author>
@@ -984,14 +1035,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Blog Home</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[
 ]]></content>
     <author>
@@ -1000,14 +1051,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello High-School!</p>
 ]]></content>
@@ -1017,14 +1068,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello Junior-High-School!</p>
 ]]></content>
@@ -1034,14 +1085,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme in school</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme-in-school"> readme in school</h1>
 ]]></content>
     <author>
@@ -1050,14 +1101,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">readme</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello University!</p>
 ]]></content>
@@ -1067,14 +1118,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -1083,14 +1134,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">剑指offer</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="剑指offer"> 剑指offer</h1>
 <ul>
 <li><a href="./二维数组中的查找.html">二维数组中的查找</a></li>
@@ -1102,14 +1153,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">二维数组中的查找</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="二维数组中的查找"> <a href="https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&amp;&amp;tqId=11154&amp;rp=1&amp;ru=/ta/coding-interviews&amp;qru=/ta/coding-interviews/question-ranking" target="_blank" rel="noopener noreferrer">二维数组中的查找</a></h1>
 <h2 id="题目描述"> 题目描述</h2>
 <p>在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。</p>
@@ -1205,14 +1256,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Cracking-the-Coding-Interview!</p>
 ]]></content>
@@ -1222,14 +1273,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.两数之和</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-两数之和"> <a href="https://leetcode-cn.com/problems/two-sum/" target="_blank" rel="noopener noreferrer">1.两数之和</a></h1>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_two-sum_.png" alt="" loading="lazy"></p>
 <h2 id="方法一-哈希表"> 方法一：哈希表</h2>
@@ -1291,14 +1342,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">121.买卖股票的最佳时机</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_121-买卖股票的最佳时机"> 121.买卖股票的最佳时机</h1>
 <p>https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227151237.png" alt="" loading="lazy"></p>
@@ -1367,14 +1418,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">64.最小路径和</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_64-最小路径和"> 64.最小路径和</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_minimum-path-sum.png" alt="" loading="lazy"></p>
@@ -1509,14 +1560,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">85.最大矩形</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_85-最大矩形"> 85.最大矩形</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_maximal-rectangle.png" alt="" loading="lazy"></p>
@@ -1579,14 +1630,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">LeetCode 热题 HOT 100</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="leetcode-热题-hot-100"> LeetCode 热题 HOT 100</h1>
 <ul>
 <li><a href="./1.两数之和.html">1.两数之和</a></li>
@@ -1600,14 +1651,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">1.md</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>sql-advanced!</p>
 ]]></content>
@@ -1617,14 +1668,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">组件禁用</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/disable/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/disable/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -1651,14 +1702,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/encrypt/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/encrypt/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -1671,14 +1722,14 @@ A custom details container
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/markdown/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/markdown/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -2136,14 +2187,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/page/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/page/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -2199,7 +2250,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -2223,14 +2274,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -2241,14 +2292,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>Note</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -2273,14 +2324,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -2291,14 +2342,14 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</id>
     <link href="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/"/>
-    <updated>2022-02-27T12:13:58.000Z</updated>
+    <updated>2022-02-27T14:10:16.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -2307,7 +2358,7 @@ $$
     <contributor>
       <name>RiverCold</name>
     </contributor>
-    <published>2022-02-27T12:13:58.000Z</published>
+    <published>2022-02-27T14:10:16.000Z</published>
     <rights>Copyright by RiverCold</rights>
   </entry>
 </feed>
