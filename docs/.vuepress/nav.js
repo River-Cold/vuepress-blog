@@ -28,6 +28,7 @@ module.exports = [
                 prefix: 'basics/', 
                 items: [
                     { text: '计算机网络', link: 'network/' },
+                    { text: '数据库', link: 'database/' },
                 ]
             },
         ],
