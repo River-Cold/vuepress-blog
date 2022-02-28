@@ -52,6 +52,7 @@ module.exports = [
                 items: [
                     { text: '剑指Offer', link: 'CodingInterview/' },
                     { text: '程序员面试宝典', link: 'Cracking-the-Coding-Interview/' },
+                    { text: 'LeetCode 热题 HOT 100', link: 'LeetCode-hot-topic-HOT-100/' },
                 ]
             },
             {
