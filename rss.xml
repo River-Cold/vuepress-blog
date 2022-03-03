@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</link>
     <description>Welcome to RiverCold's blog!</description>
     <language>en-US</language>
-    <pubDate>Mon, 28 Feb 2022 09:08:05 GMT</pubDate>
-    <lastBuildDate>Mon, 28 Feb 2022 09:08:05 GMT</lastBuildDate>
+    <pubDate>Thu, 03 Mar 2022 08:41:51 GMT</pubDate>
+    <lastBuildDate>Thu, 03 Mar 2022 08:41:51 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -17,7 +17,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>C++!</p>
 ]]></content:encoded>
@@ -27,7 +27,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Java!</p>
 ]]></content:encoded>
@@ -37,7 +37,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Python!</p>
 ]]></content:encoded>
@@ -47,7 +47,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>SQL!</p>
 ]]></content:encoded>
@@ -60,7 +60,7 @@
       <description>&amp;lt;p&amp;gt;You can disable some functions on the page by setting the Frontmatter of the page.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 
 <p>These should be disabled on this page:</p>
@@ -85,7 +85,7 @@
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Encryption article</source>
       <category>Guide</category>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -100,7 +100,7 @@
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; enables more syntax in Markdown via the built-in &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt; plugin.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 
 <h2 id="enable-all"> Enable all</h2>
@@ -605,7 +605,7 @@ A custom details container
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Guides</source>
       <category>Guide</category>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -628,7 +628,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Project home</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
@@ -639,7 +639,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./数据库知识手册.html">数据库知识手册</a></li>
@@ -651,7 +651,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">数据库知识手册</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="数据库知识手册"> 数据库知识手册</h1>
 <h2 id="数据库基础概念"> 数据库基础概念</h2>
 <h3 id="什么是数据库"> 什么是数据库？</h3>
@@ -778,6 +778,103 @@ A custom details container
 <li><strong>定义为外键的数据列一定要创建索引</strong>：如果不加索引，则删除主表记录或主子表关联查询，都会进行字表的全表扫描。</li>
 </ul>
 </details>
+<h3 id="聚集索引和非聚集索引"> 聚集索引和非聚集索引</h3>
+<details><summary>answer</summary>
+<p><strong>聚集索引，又称为聚集索引，首先并不是一种索引类型，而是一种数据存储方式，即索引结构和数据一起存放。</strong></p>
+<p>聚集索引的特点</p>
+<ol>
+<li>聚集索引的检索效率更高</li>
+<li>聚集索引的磁盘IO次数更少</li>
+<li>一个数据表只能有一个聚集索引</li>
+<li>一般而言，会在频繁使用、排序的字段上创建聚集索引</li>
+</ol>
+<p><strong>非聚集索引即索引结构和数据分开存放，非聚集索引中并不存放真正的数据行，只包含一个指向数据行的指针。</strong></p>
+<p>非聚簇索引的创建也是以此为根据的，分为<strong>复合索引</strong>和<strong>覆盖索引</strong></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220301195622.png" alt="" loading="lazy"></p>
+</details>
+<h2 id="事务管理"> 事务管理</h2>
+<h3 id="什么是数据库事务"> 什么是数据库事务？</h3>
+<details><summary>answer</summary>
+<p>数据库的<strong>事务</strong>（Transaction）是一种机制、一个操作序列，包含了一组数据库操作命令，其执行的结果必须使数据库从一种一致性状态变到另一种一致性状态。</p>
+<p>事务把所有的命令作为一个整体一起向系统提交或撤销操作请求，即这一组数据库命令要么都执行，要么都不执行，因此事务是一个不可分割的工作逻辑单元。如果任意一个操作失败，那么整组操作即为失败，会回到操作前状态或者上一个节点。</p>
+</details>
+<h3 id="有哪些事务状态"> 有哪些事务状态？</h3>
+<details><summary>answer</summary>
+<p>事务在其生命周期中会经历不同的状态，这些状态被称为<strong>事务状态</strong>。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220301204724.png" alt="" loading="lazy"></p>
+<p><a href="https://www.geeksforgeeks.org/transaction-states-in-dbms/" target="_blank" rel="noopener noreferrer">Transaction States in DBMS - GeeksforGeeks</a></p>
+<p><strong>活跃状态（Active State）</strong>：事务的第一个状态，任何正在执行的事务都处于此状态，所做的<strong>更改</strong>存储在<strong>主内存（本地）的缓冲区</strong>中。</p>
+<p><strong>部分提交状态（Partially Commited State）</strong>：执行操作后，事务进入部分提交状态。之所以是部分提交，是因为所做的更改仍然在<strong>主内存（本地）的缓冲区</strong>中。</p>
+<p><strong>失败状态（Failed State）</strong>：如果事务在活动状态或者部分提交状态发生一些错误，并且事务无法进一步执行，则事务进入失败状态。</p>
+<p><strong>中止状态（Aborted State）</strong>：如果任何事务已达到失败状态，撤销失败事务对当前数据库造成的影响，恢复管理器将数据库回滚到开始执行的原始状态。</p>
+<p><strong>提交状态（Commited State）</strong>：如果所有操作成功执行，数据永久写入到磁盘上的数据库中，则来自部分提交状态的事务进入提交状态，无法从此状态回滚，它是一个新的<strong>一致状态</strong>。</p>
+</details>
+<h3 id="事务的四大特性"> 事务的四大特性？</h3>
+<details><summary>answer</summary>
+<p>事务具有4个特性：原子性（Atomicity）、一致性（Consistency）、隔离性（Isolation）和持久性（Durability），这4个特性通常简称为ACID，<strong>关系型数据库</strong>需要遵循ACID规则。</p>
+<p>**原子性：**事务是最小的执行单位，不可分割的（原子的）。事务的原子性确保动作要么全部执行，要么全部不执行。</p>
+<p>**一致性：**事务执行前后数据的完整性保持一致。</p>
+<p>**隔离性：**并发访问数据库时，一个用户的事务不被其他事务所干扰，各个事务不干涉内部的数据。</p>
+<p>**持久性：**一个事务被提交之后，对数据库中数据的改变是持久的，即使数据库发生故障也不应该对其有任何影响。</p>
+</details>
+<h3 id="如何实现事务的acid特性"> 如何实现事务的ACID特性？</h3>
+<details><summary>answer</summary>
+<p>事务的ACID特性是由关系型数据库管理系统来实现的。</p>
+<p>DBMS采用<strong>日志</strong>来保证事务的<strong>原子性、一致性、持久性</strong>。日志记录了事务对数据库所做的操作，如果某个事务在执行过程中发生错误，就可以根据日志，撤销事务对数据库已做的操作，使数据库退回到执行事务之前的初始状态。</p>
+<p>DBMS采用<strong>锁机制</strong>来保证事务的隔离性。当多个事务同时更新数据库中相同的数据时，只允许<strong>持有锁的事务</strong>能更新该数据，其他事务必须等待，直到前一个事务释放了锁，其他事务才有机会更新该数据。</p>
+<p><a href="https://www.cnblogs.com/kismetv/p/10331633.html" target="_blank" rel="noopener noreferrer">深入学习MySQL事务：ACID特性的实现原理 - 编程迷思 - 博客园 (cnblogs.com)</a></p>
+</details>
+<h3 id="并发事务之间的相互影响"> 并发事务之间的相互影响</h3>
+<details><summary>answer</summary>
+<p><strong>脏读（Dirty Read）</strong>：A事务读取到了B事务还未提交的数据。</p>
+<p><strong>不可重复读（Non-repeatable Read）</strong>：A事务读取到了B事务已经提交的更改数据。在一个事务范围内，两次相同的查询返回两个不同的数据，这是因为在此间隔内有其他事务对数据进行了修改并提交。</p>
+<p><strong>幻读（Phantom Read）</strong>：A事务读取到了B事务提交的新增数据。例如有一个事务对表中的数据进行了修改并提交，这种修改是向表中<strong>插入一行新数据</strong>。那么，当第一个事务的用户发现表中还有没有修改的数据行，就好像发生了幻觉一样。</p>
+<p><strong>丢失更新（Lost Update）</strong>：两个事务同时读取同一条记录，事务A先修改记录，事务B也修改记录（B是不知道A修改过），当B提交数据后，其修改结果覆盖了A的修改结果，导致事务A更新丢失。</p>
+<p>不可重复读的重点是修改，幻读的重点在于新增或删除。</p>
+</details>
+<h3 id="什么是事务的隔离级别"> 什么是事务的隔离级别？</h3>
+<details><summary>answer</summary>
+<p>读取未提交（READ-UNCOMMITTED）</p>
+<p>读取已提交（READ-COMMITTED）</p>
+<p>可重复读（REPEATABLE-READ）</p>
+<p>可串行化（SERIALIZABLE）</p>
+<table>
+<thead>
+<tr>
+<th>隔离级别</th>
+<th>脏读</th>
+<th>不可重复读</th>
+<th>幻读</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>读取未提交</td>
+<td>是</td>
+<td>是</td>
+<td>是</td>
+</tr>
+<tr>
+<td>读取已提交</td>
+<td>否</td>
+<td>是</td>
+<td>是</td>
+</tr>
+<tr>
+<td>可重复读</td>
+<td>否</td>
+<td>否</td>
+<td>是</td>
+</tr>
+<tr>
+<td>可串行化</td>
+<td>否</td>
+<td>否</td>
+<td>否</td>
+</tr>
+</tbody>
+</table>
+</details>
 ]]></content:encoded>
       <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227215631.png" type="image/png"/>
     </item>
@@ -786,7 +883,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./计算机网络面试突击.html">计算机网络面试突击</a></li>
@@ -798,7 +895,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络面试突击</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络面试突击"> 计算机网络面试突击</h1>
 <h2 id="第三部分-传输层"> 第三部分：传输层</h2>
 <h3 id="三次握手和四次挥手机制"> 三次握手和四次挥手机制</h3>
@@ -911,7 +1008,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Intro Page</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -921,7 +1018,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Custom Layout</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -946,7 +1043,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content:encoded>
     </item>
@@ -955,7 +1052,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content:encoded>
     </item>
@@ -964,7 +1061,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Blog Home</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
@@ -973,7 +1070,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello High-School!</p>
 ]]></content:encoded>
@@ -983,7 +1080,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello Junior-High-School!</p>
 ]]></content:encoded>
@@ -993,7 +1090,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme in school</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme-in-school"> readme in school</h1>
 ]]></content:encoded>
     </item>
@@ -1002,7 +1099,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello University!</p>
 ]]></content:encoded>
@@ -1012,7 +1109,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Slide page</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/logo.svg" type="image/svg+xml"/>
@@ -1022,7 +1119,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">剑指offer</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="剑指offer"> 剑指offer</h1>
 <ul>
 <li><a href="./二维数组中的查找.html">二维数组中的查找</a></li>
@@ -1034,7 +1131,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">二维数组中的查找</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="二维数组中的查找"> <a href="https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&amp;&amp;tqId=11154&amp;rp=1&amp;ru=/ta/coding-interviews&amp;qru=/ta/coding-interviews/question-ranking" target="_blank" rel="noopener noreferrer">二维数组中的查找</a></h1>
 <h2 id="题目描述"> 题目描述</h2>
 <p>在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。</p>
@@ -1130,7 +1227,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Cracking-the-Coding-Interview!</p>
 ]]></content:encoded>
@@ -1140,7 +1237,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.两数之和</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-两数之和"> <a href="https://leetcode-cn.com/problems/two-sum/" target="_blank" rel="noopener noreferrer">1.两数之和</a></h1>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_two-sum_.png" alt="" loading="lazy"></p>
 <h2 id="方法一-哈希表"> 方法一：哈希表</h2>
@@ -1201,7 +1298,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">121.买卖股票的最佳时机</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_121-买卖股票的最佳时机"> 121.买卖股票的最佳时机</h1>
 <p>https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227151237.png" alt="" loading="lazy"></p>
@@ -1267,7 +1364,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">139.单词拆分</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_139-单词拆分"> 139.单词拆分</h1>
 <p>https://leetcode-cn.com/problems/word-break/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220228105707.png" alt="" loading="lazy"></p>
@@ -1388,11 +1485,110 @@ A custom details container
       <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220228105707.png" type="image/png"/>
     </item>
     <item>
+      <title>337.打家劫舍III</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">337.打家劫舍III</source>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_337-打家劫舍iii"> 337.打家劫舍III</h1>
+<p>https://leetcode-cn.com/problems/house-robber-iii/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220303104052.png" alt="" loading="lazy"></p>
+<h2 id="方法一-递归-动态规划"> 方法一：递归+动态规划</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<p>一棵二叉树，树上的每个点有两种状态（选中和不选中），问不能同时选中有父子关系的点的情况下，能选中的点的最大权值和是多少。</p>
+<p>用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>o</span><span>)</span></span></span></span>表示选择<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span>节点的情况下，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span>节点的子树上被选择的节点的最大权值和；用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>o</span><span>)</span></span></span></span>表示不选择<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span>节点的情况下，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span>节点的子树上被选择的节点的最大权值和</p>
+<p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6944em;"></span><span style="margin-right:0.01968em;">l</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>分别代表<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span>的左右孩子</p>
+<ul>
+<li>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span>被选中时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span>的左右孩子都不能被选中，故 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span> 被选中情况下子树上被选中点的最大权值和为 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6944em;"></span><span style="margin-right:0.01968em;">l</span></span></span></span> 和 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span> 不被选中的最大权值和相加</li>
+</ul>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>o</span><span>)</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span style="margin-right:0.01968em;">l</span><span>)</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)</span></span></span></span></span></p>
+<ul>
+<li>当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span> 不被选中时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span> 的左右孩子可以被选中，也可以不被选中。对于 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span> 的某个具体的孩子 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>x</span></span></span></span>，它对 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>o</span></span></span></span> 的贡献是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>x</span></span></span></span> 被选中和不被选中情况下权值和的较大值。</li>
+</ul>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>o</span><span>)</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ma</span><span>x</span><span>{</span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.01968em;">l</span><span>)</span><span>,</span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span style="margin-right:0.01968em;">l</span><span>)}</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ma</span><span>x</span><span>{</span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)</span><span>,</span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)}</span></span></span></span></span></p>
+</div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    unordered_map<span>&lt;</span>TreeNode<span>*</span><span>,</span> <span>int</span><span>></span> f<span>,</span> g<span>;</span>
+
+    <span>void</span> <span>dfs</span><span>(</span>TreeNode<span>*</span> root<span>)</span><span>{</span>
+        <span>if</span><span>(</span>root <span>==</span> <span>nullptr</span><span>)</span><span>{</span>
+            <span>return</span><span>;</span>
+        <span>}</span>
+        <span>dfs</span><span>(</span>root<span>-></span>left<span>)</span><span>;</span>
+        <span>dfs</span><span>(</span>root<span>-></span>right<span>)</span><span>;</span>
+        f<span>[</span>root<span>]</span> <span>=</span> root<span>-></span>val <span>+</span> g<span>[</span>root<span>-></span>left<span>]</span> <span>+</span> g<span>[</span>root<span>-></span>right<span>]</span><span>;</span>
+        g<span>[</span>root<span>]</span> <span>=</span> <span>max</span><span>(</span>f<span>[</span>root<span>-></span>left<span>]</span><span>,</span> g<span>[</span>root<span>-></span>left<span>]</span><span>)</span> <span>+</span> <span>max</span><span>(</span>f<span>[</span>root<span>-></span>right<span>]</span><span>,</span> g<span>[</span>root<span>-></span>right<span>]</span><span>)</span><span>;</span>
+    <span>}</span>
+
+    <span>int</span> <span>rob</span><span>(</span>TreeNode<span>*</span> root<span>)</span> <span>{</span>
+        <span>dfs</span><span>(</span>root<span>)</span><span>;</span>
+        <span>return</span> <span>max</span><span>(</span>f<span>[</span>root<span>]</span><span>,</span> g<span>[</span>root<span>]</span><span>)</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h2 id="方法二-递归-记忆化"> 方法二：递归+记忆化</h2>
+<h3 id="思路分析-2"> 思路分析</h3>
+<div><p>Tips</p>
+<p><strong>当前节点的最大偷钱数=max(根节点权值+4个孙子节点最大偷钱数，两个儿子节点的最大偷钱数）</strong></p>
+<p>根节点权值+4个孙子节点最大偷钱数money1：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.7778em;vertical-align:-0.0833em;"></span><span>roo</span><span>t</span><span>.</span><span style="margin-right:0.03588em;">v</span><span>a</span><span style="margin-right:0.01968em;">l</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ro</span><span>b</span><span>(</span><span>roo</span><span>t</span><span>.</span><span style="margin-right:0.01968em;">l</span><span>e</span><span style="margin-right:0.10764em;">f</span><span>t</span><span>.</span><span style="margin-right:0.01968em;">l</span><span>e</span><span style="margin-right:0.10764em;">f</span><span>t</span><span>)</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ro</span><span>b</span><span>(</span><span>roo</span><span>t</span><span>.</span><span style="margin-right:0.01968em;">l</span><span>e</span><span style="margin-right:0.10764em;">f</span><span>t</span><span>.</span><span style="margin-right:0.02778em;">r</span><span>i</span><span style="margin-right:0.03588em;">g</span><span>h</span><span>t</span><span>)</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ro</span><span>b</span><span>(</span><span>roo</span><span>t</span><span>.</span><span style="margin-right:0.02778em;">r</span><span>i</span><span style="margin-right:0.03588em;">g</span><span>h</span><span>t</span><span>.</span><span style="margin-right:0.01968em;">l</span><span>e</span><span style="margin-right:0.10764em;">f</span><span>t</span><span>)</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ro</span><span>b</span><span>(</span><span>roo</span><span>t</span><span>.</span><span style="margin-right:0.02778em;">r</span><span>i</span><span style="margin-right:0.03588em;">g</span><span>h</span><span>t</span><span>.</span><span style="margin-right:0.02778em;">r</span><span>i</span><span style="margin-right:0.03588em;">g</span><span>h</span><span>t</span><span>)</span></span></span></span></span></p>
+<p>两个儿子节点的最大偷钱数money2：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ro</span><span>b</span><span>(</span><span>roo</span><span>t</span><span>.</span><span style="margin-right:0.01968em;">l</span><span>e</span><span style="margin-right:0.10764em;">f</span><span>t</span><span>)</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ro</span><span>b</span><span>(</span><span>roo</span><span>t</span><span>.</span><span style="margin-right:0.02778em;">r</span><span>i</span><span style="margin-right:0.03588em;">g</span><span>h</span><span>t</span><span>)</span></span></span></span></span></p>
+<p>当前节点的最大偷钱数money：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.1944em;"></span><span>m</span><span>o</span><span>n</span><span style="margin-right:0.03588em;">ey</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ma</span><span>x</span><span>(</span><span>m</span><span>o</span><span>n</span><span style="margin-right:0.03588em;">ey</span><span>1</span><span>,</span><span style="margin-right:0.1667em;"></span><span>m</span><span>o</span><span>n</span><span style="margin-right:0.03588em;">ey</span><span>2</span><span>)</span></span></span></span></span></p>
+<p><strong>重复子问题</strong></p>
+<p>根节点在计算自己能偷多少钱的时候，同时计算了 4 个孙子节点能偷多少钱，也计算了 2 个儿子能偷多少钱。这样在儿子当爷爷时，就会产生重复计算一遍孙子节点。</p>
+<p>因此使用哈希表来存储已经计算过的结果，使用记忆化解决重复子问题。</p>
+</div>
+<h3 id="参考代码-2"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    unordered_map<span>&lt;</span>TreeNode<span>*</span><span>,</span> <span>int</span><span>></span> memo<span>;</span>
+
+    <span>int</span> <span>robCore</span><span>(</span>TreeNode<span>*</span> root<span>)</span><span>{</span>
+        <span>if</span><span>(</span>root <span>==</span> <span>nullptr</span><span>)</span><span>{</span>
+            <span>return</span> <span>0</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>memo<span>.</span><span>find</span><span>(</span>root<span>)</span> <span>!=</span> memo<span>.</span><span>end</span><span>(</span><span>)</span><span>)</span><span>{</span>
+            <span>return</span> memo<span>[</span>root<span>]</span><span>;</span>
+        <span>}</span>
+        <span>int</span> money <span>=</span> root<span>-></span>val<span>;</span>
+        <span>if</span><span>(</span>root<span>-></span>left <span>!=</span> <span>nullptr</span><span>)</span><span>{</span>
+            money <span>+=</span> <span>(</span><span>rob</span><span>(</span>root<span>-></span>left<span>-></span>left<span>)</span> <span>+</span> <span>rob</span><span>(</span>root<span>-></span>left<span>-></span>right<span>)</span><span>)</span><span>;</span>
+        <span>}</span>
+
+        <span>if</span><span>(</span>root<span>-></span>right <span>!=</span> <span>nullptr</span><span>)</span><span>{</span>
+            money <span>+=</span> <span>(</span><span>rob</span><span>(</span>root<span>-></span>right<span>-></span>left<span>)</span> <span>+</span> <span>rob</span><span>(</span>root<span>-></span>right<span>-></span>right<span>)</span><span>)</span><span>;</span>
+        <span>}</span>
+        <span>int</span> res <span>=</span> <span>max</span><span>(</span>money<span>,</span> <span>rob</span><span>(</span>root<span>-></span>left<span>)</span> <span>+</span> <span>rob</span><span>(</span>root<span>-></span>right<span>)</span><span>)</span><span>;</span>
+        memo<span>[</span>root<span>]</span> <span>=</span> res<span>;</span>
+        <span>return</span> res<span>;</span>
+    <span>}</span>
+    <span>int</span> <span>rob</span><span>(</span>TreeNode<span>*</span> root<span>)</span> <span>{</span>
+        <span>return</span> <span>robCore</span><span>(</span>root<span>)</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220303104052.png" type="image/png"/>
+    </item>
+    <item>
       <title>64.最小路径和</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">64.最小路径和</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_64-最小路径和"> 64.最小路径和</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_minimum-path-sum.png" alt="" loading="lazy"></p>
@@ -1524,7 +1720,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">85.最大矩形</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_85-最大矩形"> 85.最大矩形</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_maximal-rectangle.png" alt="" loading="lazy"></p>
@@ -1582,11 +1778,60 @@ A custom details container
       <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_maximal-rectangle.png" type="image/png"/>
     </item>
     <item>
+      <title>96.不同的二叉搜索树</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">96.不同的二叉搜索树</source>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_96-不同的二叉搜索树"> 96.不同的二叉搜索树</h1>
+<p>https://leetcode-cn.com/problems/unique-binary-search-trees/</p>
+<h2 id="方法一-动态规划"> 方法一：动态规划</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<p>用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6595em;"></span><span>i</span></span></span></span>个节点构建BST，除去根节点，还有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.7429em;vertical-align:-0.0833em;"></span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:0.6444em;"></span><span>1</span></span></span></span>个节点构建左子树、右子树，左字数分配0个，则右子树分配<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.7429em;vertical-align:-0.0833em;"></span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:0.6444em;"></span><span>1</span></span></span></span>个...以此类推。</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220301170207.png" alt="" loading="lazy"></p>
+<p>状态定义：</p>
+<p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span></span></span></span>代表用连着的<code>i</code>个数，所构建出的二叉搜索树（BST）种类数，左子树用掉<code>j</code>个，则右子树用掉<code>i-j-1</code>个，能构建出<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2222em;"></span><span>∗</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span></span></span></span>种不同的BST</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1.6em;vertical-align:-0.55em;"></span><span style="position:relative;top:0em;">∑</span><span style="margin-right:0.1667em;"></span><span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2222em;"></span><span>∗</span><span style="margin-right:0.2222em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span></span><span>,</span><span style="margin-right:0.1667em;"></span><span>0</span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span><span style="margin-right:0.05724em;">j</span></span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span></span><span>,</span><span style="margin-right:0.1667em;"></span><span>2</span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.7955em;vertical-align:-0.136em;"></span><span><span>i</span></span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.4306em;"></span><span><span>n</span></span></span></span></span></span></p>
+<p>边界条件：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>1</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>1</span></span></span></span></span></p>
+<ul>
+<li>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>n</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，没有数字，只能形成一种BST：空树</li>
+<li>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>n</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>1</span></span></span></span>时，只有一个数字，只能形成一种BST：单个节点</li>
+</ul>
+</div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>/*
+    设dp[i]代表连着的i个数能构建的BST的个数
+    dp[i]=∑dp[j]∗dp[i−j−1],0&lt;=j&lt;=i−1
+    */</span>
+    <span>int</span> <span>numTrees</span><span>(</span><span>int</span> n<span>)</span> <span>{</span>
+        vector<span>&lt;</span><span>int</span><span>></span> <span>dp</span><span>(</span>n <span>+</span> <span>1</span><span>,</span> <span>0</span><span>)</span><span>;</span>
+        dp<span>[</span><span>0</span><span>]</span> <span>=</span> dp<span>[</span><span>1</span><span>]</span> <span>=</span> <span>1</span><span>;</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>2</span><span>;</span> i <span>&lt;=</span> n<span>;</span> i<span>++</span><span>)</span><span>{</span>
+            <span>for</span><span>(</span><span>int</span> j <span>=</span> <span>0</span><span>;</span> j <span>&lt;</span> i<span>;</span> j<span>++</span><span>)</span><span>{</span>
+                dp<span>[</span>i<span>]</span> <span>=</span> dp<span>[</span>i<span>]</span> <span>+</span> dp<span>[</span>j<span>]</span> <span>*</span> dp<span>[</span>i <span>-</span> j <span>-</span> <span>1</span><span>]</span><span>;</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> dp<span>[</span>n<span>]</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220301170207.png" type="image/png"/>
+    </item>
+    <item>
       <title>LeetCode 热题 HOT 100</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">LeetCode 热题 HOT 100</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="leetcode-热题-hot-100"> LeetCode 热题 HOT 100</h1>
 <ul>
 <li><a href="./1.两数之和.html">1.两数之和</a></li>
@@ -1594,6 +1839,7 @@ A custom details container
 <li><a href="./85.最大矩形.html">85.最大矩形</a></li>
 <li><a href="./121.买卖股票的最佳时机.html">121.买卖股票的最佳时机</a></li>
 <li><a href="./139.单词拆分.html">139.单词拆分</a></li>
+<li><a href="./337.打家劫舍III.html">337.打家劫舍III</a></li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -1602,7 +1848,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>sql-advanced!</p>
 ]]></content:encoded>
@@ -1615,7 +1861,7 @@ A custom details container
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -1640,7 +1886,7 @@ A custom details container
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/encrypt/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -1655,7 +1901,7 @@ A custom details container
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -2160,7 +2406,7 @@ $$
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -2183,7 +2429,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">项目主页</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -2194,7 +2440,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">自定义布局</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>Note</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -2219,7 +2465,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">博客主页</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -2230,7 +2476,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">幻灯片页</source>
-      <pubDate>Mon, 28 Feb 2022 09:05:52 GMT</pubDate>
+      <pubDate>Thu, 03 Mar 2022 08:38:34 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/logo.svg" type="image/svg+xml"/>
