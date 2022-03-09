@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</link>
     <description>Welcome to RiverCold's blog!</description>
     <language>en-US</language>
-    <pubDate>Mon, 07 Mar 2022 07:07:44 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Mar 2022 07:07:44 GMT</lastBuildDate>
+    <pubDate>Wed, 09 Mar 2022 14:24:31 GMT</pubDate>
+    <lastBuildDate>Wed, 09 Mar 2022 14:24:31 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -17,7 +17,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>C++!</p>
 ]]></content:encoded>
@@ -27,7 +27,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Java!</p>
 ]]></content:encoded>
@@ -37,7 +37,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Python!</p>
 ]]></content:encoded>
@@ -47,7 +47,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>SQL!</p>
 ]]></content:encoded>
@@ -60,7 +60,7 @@
       <description>&amp;lt;p&amp;gt;You can disable some functions on the page by setting the Frontmatter of the page.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 
 <p>These should be disabled on this page:</p>
@@ -85,7 +85,7 @@
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Encryption article</source>
       <category>Guide</category>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -100,7 +100,7 @@
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; enables more syntax in Markdown via the built-in &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt; plugin.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 
 <h2 id="enable-all"> Enable all</h2>
@@ -605,7 +605,7 @@ A custom details container
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Guides</source>
       <category>Guide</category>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -628,7 +628,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Project home</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
@@ -639,7 +639,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./数据库知识手册.html">数据库知识手册</a></li>
@@ -651,7 +651,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">数据库知识手册</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="数据库知识手册"> 数据库知识手册</h1>
 <h2 id="数据库基础概念"> 数据库基础概念</h2>
 <h3 id="什么是数据库"> 什么是数据库？</h3>
@@ -711,7 +711,7 @@ A custom details container
 </details>
 <h3 id="b树的特点"> B树的特点</h3>
 <details><summary>answer</summary>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227215631.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/databaseB-树.png" alt="" loading="lazy"></p>
 <p>B树是所有结点的平衡因子均等于0的多路平衡查找树</p>
 <ul>
 <li>每个节点最多m个子结点（m棵子树），即<strong>至多含有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6667em;vertical-align:-0.0833em;"></span><span>m</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:0.6444em;"></span><span>1</span></span></span></span>个关键字</strong></li>
@@ -724,7 +724,7 @@ A custom details container
 <h3 id="b-树的特点"> B+树的特点</h3>
 <details><summary>answer</summary>
 <p>B+ 树是在 B 树基础上的一种优化，使其更适合实现存储索引结构。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227215703.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/databaseB+树.png" alt="" loading="lazy"></p>
 <ul>
 <li>每个节点最多m个子结点（m棵子树），即<strong>至多含有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>m</span></span></span></span>个关键字</strong></li>
 <li>如果根节点没有关键字就没有子树，此时B树为空；如果根节点有关键字，则其子树必然大于等于两棵</li>
@@ -790,7 +790,7 @@ A custom details container
 </ol>
 <p><strong>非聚集索引即索引结构和数据分开存放，非聚集索引中并不存放真正的数据行，只包含一个指向数据行的指针。</strong></p>
 <p>非聚簇索引的创建也是以此为根据的，分为<strong>复合索引</strong>和<strong>覆盖索引</strong></p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220301195622.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/database聚簇索引和非聚簇索引.png" alt="" loading="lazy"></p>
 </details>
 <h2 id="事务管理"> 事务管理</h2>
 <h3 id="什么是数据库事务"> 什么是数据库事务？</h3>
@@ -801,7 +801,7 @@ A custom details container
 <h3 id="有哪些事务状态"> 有哪些事务状态？</h3>
 <details><summary>answer</summary>
 <p>事务在其生命周期中会经历不同的状态，这些状态被称为<strong>事务状态</strong>。</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220301204724.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/database事务状态.png" alt="" loading="lazy"></p>
 <p><a href="https://www.geeksforgeeks.org/transaction-states-in-dbms/" target="_blank" rel="noopener noreferrer">Transaction States in DBMS - GeeksforGeeks</a></p>
 <p><strong>活跃状态（Active State）</strong>：事务的第一个状态，任何正在执行的事务都处于此状态，所做的<strong>更改</strong>存储在<strong>主内存（本地）的缓冲区</strong>中。</p>
 <p><strong>部分提交状态（Partially Commited State）</strong>：执行操作后，事务进入部分提交状态。之所以是部分提交，是因为所做的更改仍然在<strong>主内存（本地）的缓冲区</strong>中。</p>
@@ -918,20 +918,118 @@ A custom details container
 <details><summary>answer</summary>
 <p>**超键：**在关系中，能唯一标识元组的属性集称为关系模式的超键。一个属性可以作为一个超键，多个属性组合在一起也可以作为一个超键。超键包含候选键和主键。</p>
 <p>**候选键：**是最小超键，即没有冗余元素的超键。</p>
-<p>**主键：**主关键字（主键，Primary key）是中被挑选出来的候选键，作表的行的唯一标识的。一个数据列只能有一个主键，且主键的取值不能缺失，即不能为空值（NULL）。</p>
+<p>**主键：**主关键字（主键，Primary key）是中被挑选出来的候选键，作为表的行的唯一标识。一个数据列只能有一个主键，且主键的取值不能缺失，即不能为空值（NULL）。</p>
 <p>**外键：**在一个表中存在的另一个表的主键称为此表的外键，外键可以有重复的，可以是空值。外键是用来和其他表建立联系用的。</p>
+</details>
+<h3 id="char和varchar的区别"> char和varchar的区别？</h3>
+<details><summary>answer</summary>
+<ol>
+<li>
+<p>char表示定长字符串，长度是固定的，最多能存放的字符个数为255；varchar表示可变长字符串，长度是可变的，最多能存放的字符个数为65532</p>
+</li>
+<li>
+<p>使用char时，如果插入数据的长度小于char的固定长度时，用空格填充</p>
+</li>
+<li>
+<p>char的存取速度比varchar快很多，缺点是会占用多余空间，属于以空间换时间</p>
+</li>
+</ol>
+</details>
+<h3 id="sql约束有哪几种类型"> SQL约束有哪几种类型</h3>
+<details><summary>answer</summary>
+<p>约束是一种简单地强加于表中一列或多列（字段）的限制，从而保证表中数据一致性（准确和可靠）。以下为六大约束：</p>
+<ul>
+<li><strong>非空约束（NOT NULL）</strong>：保证字段不为空</li>
+<li><strong>唯一约束（UNIQUE）</strong>：限制一列或多列的值，保证字段值在表内的唯一性，可以为空（主键约束是一种特殊类型的唯一约束）</li>
+<li><strong>主键约束（PRIMARY KEY）</strong>：标志一列或多列，保证其值在表中的唯一性，不能为空，相当于非空约束和唯一约束的组合</li>
+<li><strong>外键约束（FOREIGN KEY）</strong>：限制一列或多列中的值必须被包含在另一表的外键列中，并且在级联更新或级联删除规则建立后也可以限制其他表中的可用值</li>
+<li><strong>默认约束（DEFAULT）</strong>：保证字段有默认值</li>
+<li><strong>检查约束（CHECK）</strong>：限制一列的可用值范围</li>
+</ul>
+</details>
+<h3 id="有哪些关联查询"> 有哪些关联查询？</h3>
+<details><summary>answer</summary>
+<p><strong>交叉连接（CROSS JOIN）</strong></p>
+<ul>
+<li>返回被连接的两个表所有数据行的<strong>笛卡尔积</strong>，返回的数据行数等于第一个表中符合查询条件的数据行数<strong>乘以</strong>第二个表中符合查询条件的数据行数，以下两个表达式等价：
+<ul>
+<li><code>SELECT * FROM A, B</code></li>
+<li><code>SELECT * FROM A CROSS JOIN B</code></li>
+</ul>
+</li>
+</ul>
+<p><strong>内连接（INNER JOIN）</strong></p>
+<ul>
+<li>
+<p>等值连接</p>
+<ul>
+<li><code>ON A.id=B.id</code></li>
+</ul>
+</li>
+<li>
+<p>不等值连接</p>
+<ul>
+<li><code>ON A.id &gt; B.id</code></li>
+</ul>
+</li>
+<li>
+<p>自连接</p>
+<ul>
+<li><code>SELECT * FROM A T1 INNER JOIN A T2 ON T1.id=T2.id</code></li>
+</ul>
+</li>
+<li>
+<p>外连接（LEFT JOIN/RIGHT JOIN）</p>
+<ul>
+<li>
+<p>左外连接</p>
+<ul>
+<li>以左表为主，先查询出左表，按照<code>ON</code>后的关联条件匹配右表，没有匹配到的用<code>NULL</code>填充，可以简写成<code>LEFT JOIN</code></li>
+</ul>
+</li>
+<li>
+<p>右外连接</p>
+<ul>
+<li>以左表为主，先查询出右表，按照<code>ON</code>后的关联条件匹配左表，没有匹配到的用<code>NULL</code>填充，可以简写成<code>RIGHT JOIN</code></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>全连接（FULL JOIN）</strong></p>
+<p><strong>联合查询（UNION与UNION ALL）</strong></p>
+<ul>
+<li><code>SELECT * FROM A UNION SELECT * FROM B UNION ...</code></li>
+</ul>
+</details>
+<h3 id="什么是子查询"> 什么是子查询？</h3>
+<details><summary>answer</summary>
+<p>多条MySQL语句嵌套使用时，内部的MySQL查询语句称为子查询。</p>
+<p>子查询是一个<code>SELECT</code>语句，它嵌套在另一个<code>SELECT</code>、<code>SELECT...INTO</code>、<code>INSERT...INTO</code>、<code>DELETE</code>、<code>UPDATE</code>语句或嵌套在另一子查询中。</p>
+</details>
+<h3 id="drop、delete与truncate的区别"> DROP、DELETE与TRUNCATE的区别？</h3>
+<details><summary>answer</summary>
+<p><code>DROP</code>删除整张表，不保留表的结构，不能回滚，删除速度快</p>
+<p><code>TRUNCATE</code>保留表的结构但删除表的所有数据，不能回滚，删除速度快</p>
+<p><code>DELETE</code>删除表的部分数据行，可以回滚，删除速度慢</p>
+</details>
+<h3 id="union和union-all的区别"> UNION和UNION ALL的区别？</h3>
+<details><summary>answer</summary>
+<p><code>UNION</code>和<code>UNION ALL</code>用于把来自多个<code>SELECT</code>语句的结果组合到一个结果集合中，<code>UNION</code>会把结果集合中重复的记录行删掉只保留一行，使用<code>UNION ALL</code>则会将所有记录返回，效率高于<code>UNION</code>。</p>
 </details>
 <h2 id="参考文献"> 参考文献</h2>
 <p><a href="https://blog.csdn.net/trusause/article/details/79487807" target="_blank" rel="noopener noreferrer">(37条消息) 死锁，更新锁，共享锁，排它锁，意向锁，乐观锁，悲观锁等名词解释及案例详解_trusause的博客-CSDN博客</a></p>
+<p><a href="https://baike.baidu.com/item/%E7%BA%A7%E8%81%94%E6%9B%B4%E6%96%B0/11036500?fr=aladdin." target="_blank" rel="noopener noreferrer">级联更新_百度百科 (baidu.com)</a></p>
+<p><a href="https://baike.baidu.com/item/%E6%A3%80%E6%9F%A5%E7%BA%A6%E6%9D%9F/10272981?fr=aladdin" target="_blank" rel="noopener noreferrer">检查约束_百度百科 (baidu.com)</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227215631.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/databaseB-树.png" type="image/png"/>
     </item>
     <item>
       <title>计算机网络</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./计算机网络面试突击.html">计算机网络面试突击</a></li>
@@ -943,7 +1041,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络面试突击</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络面试突击"> 计算机网络面试突击</h1>
 <h2 id="第三部分-传输层"> 第三部分：传输层</h2>
 <h3 id="三次握手和四次挥手机制"> 三次握手和四次挥手机制</h3>
@@ -1056,7 +1154,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Intro Page</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -1066,7 +1164,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Custom Layout</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -1091,7 +1189,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content:encoded>
     </item>
@@ -1100,7 +1198,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content:encoded>
     </item>
@@ -1109,7 +1207,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Blog Home</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
@@ -1118,7 +1216,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello High-School!</p>
 ]]></content:encoded>
@@ -1128,7 +1226,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello Junior-High-School!</p>
 ]]></content:encoded>
@@ -1138,7 +1236,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme in school</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme-in-school"> readme in school</h1>
 ]]></content:encoded>
     </item>
@@ -1147,7 +1245,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello University!</p>
 ]]></content:encoded>
@@ -1157,7 +1255,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Slide page</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/logo.svg" type="image/svg+xml"/>
@@ -1167,7 +1265,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">剑指offer</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="剑指offer"> 剑指offer</h1>
 <ul>
 <li><a href="./二维数组中的查找.html">二维数组中的查找</a></li>
@@ -1179,7 +1277,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">二维数组中的查找</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="二维数组中的查找"> <a href="https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&amp;&amp;tqId=11154&amp;rp=1&amp;ru=/ta/coding-interviews&amp;qru=/ta/coding-interviews/question-ranking" target="_blank" rel="noopener noreferrer">二维数组中的查找</a></h1>
 <h2 id="题目描述"> 题目描述</h2>
 <p>在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。</p>
@@ -1275,7 +1373,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Cracking-the-Coding-Interview!</p>
 ]]></content:encoded>
@@ -1285,9 +1383,9 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.两数之和</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-两数之和"> <a href="https://leetcode-cn.com/problems/two-sum/" target="_blank" rel="noopener noreferrer">1.两数之和</a></h1>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_two-sum_.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.png" alt="" loading="lazy"></p>
 <h2 id="方法一-哈希表"> 方法一：哈希表</h2>
 <div><p>Tips</p>
 <p>创建一个哈希表，对于每一个 <code>x</code>，我们首先查询哈希表中是否存在 <code>target - x</code>，然后将 <code>x</code> 插入到哈希表中，即可保证不会让 <code>x</code> 和自己匹配。</p>
@@ -1339,17 +1437,17 @@ A custom details container
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_two-sum_.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.png" type="image/png"/>
     </item>
     <item>
       <title>121.买卖股票的最佳时机</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">121.买卖股票的最佳时机</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_121-买卖股票的最佳时机"> 121.买卖股票的最佳时机</h1>
 <p>https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227151237.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.png" alt="" loading="lazy"></p>
 <h2 id="方法一-动态规划"> 方法一：动态规划</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
@@ -1405,17 +1503,17 @@ A custom details container
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220227151237.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.png" type="image/png"/>
     </item>
     <item>
       <title>139.单词拆分</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">139.单词拆分</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_139-单词拆分"> 139.单词拆分</h1>
 <p>https://leetcode-cn.com/problems/word-break/</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220228105707.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.png" alt="" loading="lazy"></p>
 <h2 id="方法一-字典树-dfs-记忆化"> 方法一：字典树+dfs+记忆化</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
@@ -1530,16 +1628,16 @@ A custom details container
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220228105707.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.png" type="image/png"/>
     </item>
     <item>
       <title>309.最佳买卖股票时机含冷冻期</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">309.最佳买卖股票时机含冷冻期</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_309-最佳买卖股票时机含冷冻期"> 309.最佳买卖股票时机含冷冻期</h1>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220304214719.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.png" alt="" loading="lazy"></p>
 <h2 id="方法一-动态规划"> 方法一：动态规划</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
@@ -1568,7 +1666,7 @@ A custom details container
 <p>注意到如果在最后一天（第 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6667em;vertical-align:-0.0833em;"></span><span>n</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:0.6444em;"></span><span>1</span></span></span></span> 天）结束之后，手上仍然持有股票，那么显然是没有任何意义的。因此更加精确地，最终的答案实际上是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>n</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span>1</span></span></span></span>] 和 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>n</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span>2</span><span>]</span></span></span></span> 中的较大值，即：</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>ma</span><span>x</span><span>(</span><span style="margin-right:0.10764em;">f</span><span>[</span><span>n</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span>1</span><span>]</span><span>,</span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>n</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span>2</span><span>])</span></span></span></span></span></p>
 <p><strong>边界条件</strong>：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>−</span><span>p</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>ces</span><span>[</span><span>0</span><span>]</span></span><span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>1</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span><span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>2</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span></span></p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:4.32em;vertical-align:-1.91em;"></span><span><span><span><span><span><span style="height:2.35em;"><span style="top:-2.2em;"><span style="height:3.15em;"></span><span><span>⎩</span></span></span><span style="top:-2.192em;"><span style="height:3.15em;"></span><span style="height:0.316em;width:0.8889em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.8889em' height='0.316em' style='width:0.8889em' viewBox='0 0 888.89 316' preserveAspectRatio='xMinYMin'><path d='M384 0 H504 V316 H384z M384 0 H504 V316 H384z'/></svg></span></span><span style="top:-3.15em;"><span style="height:3.15em;"></span><span><span>⎨</span></span></span><span style="top:-4.292em;"><span style="height:3.15em;"></span><span style="height:0.316em;width:0.8889em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.8889em' height='0.316em' style='width:0.8889em' viewBox='0 0 888.89 316' preserveAspectRatio='xMinYMin'><path d='M384 0 H504 V316 H384z M384 0 H504 V316 H384z'/></svg></span></span><span style="top:-4.6em;"><span style="height:3.15em;"></span><span><span>⎧</span></span></span></span><span>​</span></span><span><span style="height:1.85em;"><span></span></span></span></span></span></span><span><span><span><span><span><span style="height:2.41em;"><span style="top:-4.41em;"><span style="height:3.008em;"></span><span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span><span>−</span><span>p</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>ces</span><span>[</span><span>0</span><span>]</span></span></span><span style="top:-2.97em;"><span style="height:3.008em;"></span><span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>1</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span><span>0</span></span></span><span style="top:-1.53em;"><span style="height:3.008em;"></span><span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>2</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span><span>0</span></span></span></span><span>​</span></span><span><span style="height:1.91em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
 <ul>
 <li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span></span></span></span>：在第 0 天时，如果持有股票，那么只能是在第 0 天买入的，对应负收益 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>−</span><span>p</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>ces</span><span>[</span><span>0</span><span>]</span></span></span></span>；如果不持有股票，那么收益为零。</li>
 <li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>1</span><span>]</span></span></span></span>：在第 0 天时，不持有股票（可以理解为在-1天买入在0天卖出）收益为0。</li>
@@ -1606,17 +1704,17 @@ A custom details container
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220304214719.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.png" type="image/png"/>
     </item>
     <item>
       <title>337.打家劫舍III</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">337.打家劫舍III</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_337-打家劫舍iii"> 337.打家劫舍III</h1>
 <p>https://leetcode-cn.com/problems/house-robber-iii/</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220303104052.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.png" alt="" loading="lazy"></p>
 <h2 id="方法一-递归-动态规划"> 方法一：递归+动态规划</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
@@ -1705,24 +1803,24 @@ A custom details container
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220303104052.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.png" type="image/png"/>
     </item>
     <item>
       <title>338.比特位计数</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">338.比特位计数</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_338-比特位计数"> 338.比特位计数</h1>
 <p>https://leetcode-cn.com/problems/counting-bits/</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220305111531.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.png" alt="" loading="lazy"></p>
 <h2 id="方法一-位运算-动态规划"> 方法一：位运算+动态规划</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
 <p><strong>位运算技巧</strong></p>
 <p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>&amp;</span><span>(</span><span>n</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span></span></span></span>可以把 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>n</span></span></span></span> 的二进制中，最后一个出现的1改写成0，即消除 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>n</span></span></span></span> 的二进制中最后一个出现的1</p>
 <p>因为执行 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>&amp;</span><span>(</span><span>n</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span></span></span></span> 使得 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>n</span></span></span></span> 变成 0 的操作次数，就是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>n</span></span></span></span> 的二进制中 1 的个数</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/1616376938-RVlYBN-image.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338-1.png" alt="" loading="lazy"></p>
 <p><strong>动态规划</strong></p>
 <p><strong>状态定义</strong>：</p>
 <p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>bi</span><span>t</span><span>s</span><span>[</span><span>i</span><span>]</span></span></span></span>代表以数字i二进制中1的个数</p>
@@ -1752,17 +1850,285 @@ A custom details container
 <p><a href="https://leetcode-cn.com/problems/number-of-1-bits/solution/fu-xue-ming-zhu-xiang-jie-wei-yun-suan-f-ci7i/" target="_blank" rel="noopener noreferrer">【负雪明烛】详解位运算，附本题躲坑指南 - 位1的个数 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
 <p><a href="https://leetcode-cn.com/problems/counting-bits/solution/bi-te-wei-ji-shu-by-leetcode-solution-0t1i/" target="_blank" rel="noopener noreferrer">比特位计数 - 比特位计数 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220305111531.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.png" type="image/png"/>
+    </item>
+    <item>
+      <title>416.分割等和子集</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">416.分割等和子集</source>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_416-分割等和子集"> 416.分割等和子集</h1>
+<p>https://leetcode-cn.com/problems/partition-equal-subset-sum/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.png" alt="" loading="lazy"></p>
+<h2 id="方法一-dfs-记忆化"> 方法一：DFS+记忆化</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<p>记忆化搜索：哈希表的键定义为<code>index</code>和<code>cur</code>的组合来保证其唯一性，<code>key=to_string(index)+'_'+to_string(cur)</code></p>
+</div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    unordered_map<span>&lt;</span>string<span>,</span> <span>bool</span><span>></span> dic<span>;</span>
+    <span>bool</span> <span>dfs</span><span>(</span><span>int</span> index<span>,</span> <span>int</span> cur<span>,</span> vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>)</span><span>{</span>
+        <span>if</span><span>(</span>cur <span>&lt;</span> <span>0</span><span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>cur <span>==</span> <span>0</span><span>)</span><span>{</span>
+            <span>return</span> <span>true</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>index <span>==</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>            
+        <span>}</span>
+        string s <span>=</span> <span>to_string</span><span>(</span>index<span>)</span> <span>+</span> <span>"_"</span> <span>+</span> <span>to_string</span><span>(</span>cur<span>)</span><span>;</span>
+        <span>if</span><span>(</span>dic<span>.</span><span>find</span><span>(</span>s<span>)</span> <span>!=</span> dic<span>.</span><span>end</span><span>(</span><span>)</span><span>)</span><span>{</span>
+            <span>return</span> dic<span>[</span>s<span>]</span><span>;</span>
+        <span>}</span>
+        dic<span>[</span>s<span>]</span> <span>=</span> <span>dfs</span><span>(</span>index <span>+</span> <span>1</span><span>,</span> cur <span>-</span> nums<span>[</span>index<span>]</span><span>,</span> nums<span>)</span> <span>||</span> <span>dfs</span><span>(</span>index <span>+</span> <span>1</span><span>,</span> cur<span>,</span> nums<span>)</span><span>;</span>
+        <span>return</span> dic<span>[</span>s<span>]</span><span>;</span>
+    <span>}</span>
+    <span>bool</span> <span>canPartition</span><span>(</span>vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>)</span> <span>{</span>
+        <span>int</span> n <span>=</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>;</span>
+        <span>int</span> sum <span>=</span> <span>0</span><span>;</span>
+        <span>int</span> maxnum <span>=</span> <span>0</span><span>;</span>
+        <span>for</span><span>(</span><span>int</span> num <span>:</span> nums<span>)</span><span>{</span>
+            sum <span>+=</span> num<span>;</span>
+            maxnum <span>=</span> <span>max</span><span>(</span>maxnum<span>,</span> num<span>)</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>sum <span>%</span> <span>2</span> <span>!=</span> <span>0</span><span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>maxnum <span>*</span> <span>2</span> <span>></span> sum<span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>return</span> <span>dfs</span><span>(</span><span>0</span><span>,</span> sum <span>/</span> <span>2</span><span>,</span> nums<span>)</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br></div></div></CodeGroupItem>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    vector<span>&lt;</span><span>int</span><span>></span> dp<span>;</span>
+    <span>bool</span> <span>dfs</span><span>(</span>vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>,</span> <span>int</span> cur<span>,</span> <span>int</span> idx<span>)</span><span>{</span>
+        <span>if</span><span>(</span>cur <span>&lt;</span> <span>0</span><span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>cur <span>==</span> <span>0</span><span>)</span><span>{</span>
+            <span>return</span> <span>true</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>dp<span>[</span>cur<span>]</span> <span>!=</span> <span>0</span><span>)</span><span>{</span>
+            <span>return</span> dp<span>[</span>cur<span>]</span> <span>==</span> <span>1</span> <span>?</span> <span>true</span> <span>:</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>bool</span> find <span>=</span> <span>false</span><span>;</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> idx<span>;</span> i <span>&lt;</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>;</span> i<span>++</span><span>)</span><span>{</span>
+            find <span>|=</span> <span>dfs</span><span>(</span>nums<span>,</span> cur <span>-</span> nums<span>[</span>i<span>]</span><span>,</span> i <span>+</span> <span>1</span><span>)</span><span>;</span>
+            <span>if</span><span>(</span>find<span>)</span><span>{</span>
+                <span>break</span><span>;</span>
+            <span>}</span>
+        <span>}</span>
+        dp<span>[</span>cur<span>]</span> <span>=</span> find <span>?</span> <span>1</span> <span>:</span> <span>-</span><span>1</span><span>;</span>
+        <span>return</span> find<span>;</span>
+    <span>}</span>
+    <span>bool</span> <span>canPartition</span><span>(</span>vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>)</span> <span>{</span>
+        <span>int</span> sum <span>=</span> <span>0</span><span>;</span>
+        <span>int</span> maxnum <span>=</span> <span>0</span><span>;</span>
+        <span>for</span><span>(</span><span>int</span> num <span>:</span> nums<span>)</span><span>{</span>
+            sum <span>+=</span> num<span>;</span>
+            maxnum <span>=</span> <span>max</span><span>(</span>maxnum<span>,</span> num<span>)</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>sum <span>%</span> <span>2</span> <span>!=</span> <span>0</span><span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>maxnum <span>*</span> <span>2</span> <span>></span> sum<span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        dp<span>.</span><span>resize</span><span>(</span>sum <span>/</span> <span>2</span> <span>+</span> <span>1</span><span>,</span> <span>0</span><span>)</span><span>;</span>
+        <span>return</span> <span>dfs</span><span>(</span>nums<span>,</span> sum <span>/</span> <span>2</span><span>,</span> <span>0</span><span>)</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h2 id="方法二-动态规划"> 方法二：动态规划</h2>
+<div><p>Tips</p>
+<p><strong>状态定义</strong>：</p>
+<p>设<code>dp[i][j]</code>代表从数组的<code>[0,i]</code>下标范围内选取若干个正整数（可以是0个） 是否存在一种选取方案使得被选取的正整数的和等于j。初始时，<code>dp</code>中的全部元素都是<code>false</code></p>
+<p><strong>求解值</strong>：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>n</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span>t</span><span>a</span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.03588em;">g</span><span>e</span><span>t</span><span>]</span></span></span></span></span></p>
+<p><strong>状态转移方程</strong>：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:3em;vertical-align:-1.25em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span> </span><span>∣</span><span> </span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>n</span><span>u</span><span>m</span><span>s</span><span>[</span><span>i</span><span>]]</span><span>,</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span>,</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span><span style="width:1em;"></span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>≥</span><span style="margin-right:0.2778em;"></span><span><span>n</span><span>u</span><span>m</span><span>s</span><span>[</span><span>i</span><span>]</span></span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>&lt;</span><span style="margin-right:0.2778em;"></span><span>n</span><span>u</span><span>m</span><span>s</span><span>[</span><span>i</span><span>]</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
+<p><strong>边界条件</strong>：</p>
+<ul>
+<li>如果不选取任何正整数，则被选取的正整数等于0，因此对于所有 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.7804em;vertical-align:-0.136em;"></span><span>0</span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6986em;vertical-align:-0.0391em;"></span><span><span>i</span></span><span style="margin-right:0.2778em;"></span><span>&lt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.4306em;"></span><span><span>n</span></span></span></span></span>，都有 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6151em;"></span><span>t</span><span style="margin-right:0.02778em;">r</span><span>u</span><span>e</span></span></span></span></li>
+<li>当 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6595em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span> 时，只有一个正整数 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>u</span><span>m</span><span>s</span><span>[</span><span>0</span><span>]</span></span></span></span> 可以被选取，因此 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>0</span><span>]</span><span>[</span><span>n</span><span>u</span><span>m</span><span>s</span><span>[</span><span>0</span><span>]]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6151em;"></span><span>t</span><span style="margin-right:0.02778em;">r</span><span>u</span><span>e</span></span></span></span></li>
+</ul>
+</div>
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>bool</span> <span>canPartition</span><span>(</span>vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>)</span> <span>{</span>
+        <span>int</span> n <span>=</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>;</span>
+        <span>int</span> sum <span>=</span> <span>0</span><span>,</span> maxnum <span>=</span> <span>0</span><span>;</span>
+        <span>for</span><span>(</span><span>int</span> num <span>:</span> nums<span>)</span><span>{</span>
+            maxnum <span>=</span> <span>max</span><span>(</span>maxnum<span>,</span> num<span>)</span><span>;</span>
+            sum <span>+=</span> num<span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>sum <span>%</span> <span>2</span> <span>==</span> <span>1</span><span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>maxnum <span>></span> <span>(</span>sum <span>/</span> <span>2</span><span>)</span><span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>int</span> tar <span>=</span> sum <span>/</span> <span>2</span><span>;</span>
+        vector<span>&lt;</span>vector<span>&lt;</span><span>int</span><span>>></span> <span>dp</span><span>(</span>n <span>+</span> <span>1</span><span>,</span> <span><span>vector</span><span><span>&lt;</span><span>int</span><span>></span></span></span><span>(</span>tar <span>+</span> <span>1</span><span>,</span> <span>false</span><span>)</span><span>)</span><span>;</span>
+        dp<span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span> <span>=</span> <span>true</span><span>;</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>1</span><span>;</span> i <span>&lt;=</span> n<span>;</span> i<span>++</span><span>)</span><span>{</span>
+            <span>for</span><span>(</span><span>int</span> j <span>=</span> <span>0</span><span>;</span> j <span>&lt;=</span> tar<span>;</span> j<span>++</span><span>)</span><span>{</span>
+                dp<span>[</span>i<span>]</span><span>[</span>j<span>]</span> <span>=</span> dp<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>[</span>j<span>]</span><span>;</span>
+                <span>if</span><span>(</span>j <span>>=</span> nums<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>)</span><span>{</span>
+                    dp<span>[</span>i<span>]</span><span>[</span>j<span>]</span> <span>|=</span> dp<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>[</span>j <span>-</span> nums<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>]</span><span>;</span>
+                <span>}</span>
+                <span>if</span><span>(</span>j <span>==</span> tar<span>)</span><span>{</span>
+                    <span>if</span><span>(</span>dp<span>[</span>i<span>]</span><span>[</span>j<span>]</span><span>)</span><span>{</span>
+                        <span>return</span> <span>true</span><span>;</span>
+                    <span>}</span>
+                <span>}</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> <span>false</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br></div></div><p>:::</p>
+<p>::::</p>
+<h2 id="参考文献"> 参考文献</h2>
+<p><a href="https://leetcode-cn.com/problems/partition-equal-subset-sum/solution/ti-gong-wo-de-yi-ge-xie-dong-tai-gui-hua-44n4/" target="_blank" rel="noopener noreferrer">提供我的一个写动态规划问题的思路 - 分割等和子集 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+<p><a href="https://leetcode-cn.com/problems/partition-equal-subset-sum/solution/fen-ge-deng-he-zi-ji-by-leetcode-solution/" target="_blank" rel="noopener noreferrer">分割等和子集 - 分割等和子集 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.png" type="image/png"/>
+    </item>
+    <item>
+      <title>494.目标和</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.%E7%9B%AE%E6%A0%87%E5%92%8C/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.%E7%9B%AE%E6%A0%87%E5%92%8C/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">494.目标和</source>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_494-目标和"> 494.目标和</h1>
+<p>https://leetcode-cn.com/problems/target-sum/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.png" alt="" loading="lazy"></p>
+<h2 id="方法一-递归回溯"> 方法一：递归回溯</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<p>数据范围只有 2020，而且每个数据只有 +/-+/− 两种选择，因此可以直接使用 DFS 进行「爆搜」</p>
+</div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>int</span> cnt <span>=</span> <span>0</span><span>;</span>
+    <span>void</span> <span>dfs</span><span>(</span><span>int</span> sum<span>,</span> <span>int</span> index<span>,</span> vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>,</span> <span>int</span> target<span>)</span><span>{</span>
+        <span>if</span><span>(</span>index <span>==</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>)</span><span>{</span>
+            <span>if</span><span>(</span>sum <span>==</span> target<span>)</span><span>{</span>
+                cnt<span>++</span><span>;</span>
+            <span>}</span>
+            <span>return</span><span>;</span>
+        <span>}</span>
+        <span>dfs</span><span>(</span>sum <span>+</span> nums<span>[</span>index<span>]</span><span>,</span> index <span>+</span> <span>1</span><span>,</span> nums<span>,</span> target<span>)</span><span>;</span>
+        <span>dfs</span><span>(</span>sum <span>-</span> nums<span>[</span>index<span>]</span><span>,</span> index <span>+</span> <span>1</span><span>,</span> nums<span>,</span> target<span>)</span><span>;</span>
+    <span>}</span>
+    <span>int</span> <span>findTargetSumWays</span><span>(</span>vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>,</span> <span>int</span> target<span>)</span> <span>{</span>
+        <span>dfs</span><span>(</span><span>0</span><span>,</span> <span>0</span><span>,</span> nums<span>,</span> target<span>)</span><span>;</span>
+        <span>return</span> cnt<span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h3 id="复杂度分析"> 复杂度分析</h3>
+<ol>
+<li>时间复杂度：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span><span>2</span><span><span><span><span style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span></span></span></span></span><span>)</span></span></span></span></li>
+<li>空间复杂度：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span></li>
+</ol>
+<h2 id="方法二-动态规划"> 方法二：动态规划</h2>
+<h3 id="思路分析-2"> 思路分析</h3>
+<div><p>Tips</p>
+<p><strong>状态定义</strong>：</p>
+<p>设<code>dp[i][j]</code>表示考虑前<code>i</code>个数，当前计算结果为<code>j</code>的方案数</p>
+<p><strong>状态转移方程</strong>：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>u</span><span>m</span><span>s</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]]</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>u</span><span>m</span><span>s</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]]</span></span></span></span></span></p>
+<p><strong>边界条件</strong>：</p>
+<p>代表不考虑任何数，凑出计算结果为 0 的方案数为 1 种</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>1</span></span></span></span></span></p>
+<p>这里还需要考虑维度范围：</p>
+<p>第一维为物品数量：范围为<code>[0,nums.size()]</code></p>
+<p>第二维为中间结果：令<code>s</code>为所有<code>nums</code>元素的总和，则中间结果的范围为<code>[-s,s]</code></p>
+<h3 id="参考代码-2"> 参考代码</h3>
+</div>
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>/*
+    状态定义:
+    f[i][j]代表考虑前i个数，当前计算结果为j的方案数
+    状态转移方程:
+    f[i][j] = f[i - 1][j - nums[i - 1]] + f[i - 1][j + nums[i - 1]]
+    在转移时，对第二维度的使用做一个 s 的右偏移，以确保「负权值」也能够被合理计算/存储。
+    边界条件:
+    f[0][0]= 1（代表不考虑任何数，凑出计算结果为 0 的方案数为 1 种
+    */</span>
+    <span>int</span> <span>findTargetSumWays</span><span>(</span>vector<span>&lt;</span><span>int</span><span>></span><span>&amp;</span> nums<span>,</span> <span>int</span> target<span>)</span> <span>{</span>
+        <span>int</span> n <span>=</span> nums<span>.</span><span>size</span><span>(</span><span>)</span><span>;</span>
+        <span>int</span> s <span>=</span> <span>0</span><span>;</span>  <span>//s为所有nums元素的总和</span>
+        <span>for</span><span>(</span><span>int</span> i <span>:</span> nums<span>)</span><span>{</span>
+            s <span>+=</span> <span>abs</span><span>(</span>i<span>)</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span><span>abs</span><span>(</span>target<span>)</span> <span>></span> s<span>)</span>
+            <span>return</span> <span>0</span><span>;</span>
+        vector<span>&lt;</span>vector<span>&lt;</span><span>int</span><span>>></span> <span>f</span><span>(</span>n <span>+</span> <span>1</span><span>,</span> <span><span>vector</span><span><span>&lt;</span><span>int</span><span>></span></span></span><span>(</span><span>2</span> <span>*</span> s <span>+</span> <span>1</span><span>)</span><span>)</span><span>;</span>
+        f<span>[</span><span>0</span><span>]</span><span>[</span>s<span>]</span> <span>=</span> <span>1</span><span>;</span>    <span>//f[0][s] = 1</span>
+        <span>// 第一维为物品数量</span>
+        <span>for</span><span>(</span><span>int</span> i <span>=</span> <span>1</span><span>;</span> i <span>&lt;=</span> n<span>;</span> i<span>++</span><span>)</span><span>{</span>
+            <span>int</span> x <span>=</span> nums<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>;</span>
+            <span>// 第二维为中间结果</span>
+            <span>// 中间结果的范围为[-s,s]</span>
+            <span>for</span><span>(</span><span>int</span> j <span>=</span> <span>-</span>s<span>;</span> j <span>&lt;=</span> s<span>;</span> j<span>++</span><span>)</span><span>{</span>
+                <span>if</span><span>(</span><span>(</span>j <span>-</span> x<span>)</span> <span>+</span> s <span>>=</span> <span>0</span><span>)</span><span>{</span>
+                    f<span>[</span>i<span>]</span><span>[</span>j <span>+</span> s<span>]</span> <span>+=</span> f<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>[</span><span>(</span>j <span>-</span> x<span>)</span> <span>+</span> s<span>]</span><span>;</span>
+                <span>}</span>
+                <span>if</span><span>(</span><span>(</span>j <span>+</span> x<span>)</span> <span>+</span> s <span>&lt;=</span> <span>2</span> <span>*</span> s<span>)</span><span>{</span>
+                    f<span>[</span>i<span>]</span><span>[</span>j <span>+</span> s<span>]</span> <span>+=</span> f<span>[</span>i <span>-</span> <span>1</span><span>]</span><span>[</span><span>(</span>j <span>+</span> x<span>)</span> <span>+</span> s<span>]</span><span>;</span>
+                <span>}</span>
+            <span>}</span>
+        <span>}</span>
+        <span>return</span> f<span>[</span>n<span>]</span><span>[</span>target <span>+</span> s<span>]</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br></div></div><p>:::</p>
+<p>::::</p>
+<h3 id="复杂度分析-2"> 复杂度分析</h3>
+<ol>
+<li>时间复杂度：</li>
+<li>空间复杂度：</li>
+</ol>
+<h2 id="参考文献"> 参考文献</h2>
+<p><a href="https://leetcode-cn.com/problems/target-sum/solution/gong-shui-san-xie-yi-ti-si-jie-dfs-ji-yi-et5b/" target="_blank" rel="noopener noreferrer">【宫水三叶】一题四解 : 「DFS」&amp;「记忆化搜索」&amp;「全量 DP」&amp;「优化 DP」 - 目标和 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+<p><a href="https://leetcode-cn.com/problems/target-sum/solution/494-mu-biao-he-by-ming-zhi-shan-you-m9rfkvkdad/" target="_blank" rel="noopener noreferrer">494. 目标和 - 目标和 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+<p><a href="https://leetcode-cn.com/problems/target-sum/solution/dong-tai-gui-hua-si-kao-quan-guo-cheng-by-keepal/" target="_blank" rel="noopener noreferrer">动态规划思考全过程 - 目标和 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.png" type="image/png"/>
     </item>
     <item>
       <title>64.最小路径和</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">64.最小路径和</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_64-最小路径和"> 64.最小路径和</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_minimum-path-sum.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.png" alt="" loading="lazy"></p>
 <h2 id="方法一-动态规划"> 方法一：动态规划</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
@@ -1842,14 +2208,14 @@ A custom details container
 <h2 id="方法二-滚动数组"> 方法二：滚动数组</h2>
 <h3 id="思路分析-2"> 思路分析</h3>
 <div><p>Tips</p>
-<p>状态定义：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>表示从左上角出发到 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>i</span><span>,</span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.05724em;">j</span><span>)</span></span></span></span> 位置的最小路径和</p>
+<p><strong>状态定义</strong>：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>表示从左上角出发到 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>i</span><span>,</span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.05724em;">j</span><span>)</span></span></span></span> 位置的最小路径和</p>
 <p>由状态转移方程</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>min</span><span>(</span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span>,</span><span style="margin-right:0.1667em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>])</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></span></p>
-<p>可知<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>只会从<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>（上方行的数据）或者<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span></span></span></span>（左侧列的数据）转移得到，在循环的过程中只会使用到之前已经计算好的值，因此可以使用滚动数组进行优化，将<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>中的行<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6595em;"></span><span>i</span></span></span></span>去掉，使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>替代。得到新的状态转移方程如下：</p>
+<p>可知<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>只会从<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>（上方行的数据）或者<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span></span></span></span>（左侧列的数据）转移得到，在循环的过程中只会使用到之前已经计算好的值，因此可以使用滚动数组进行优化，将<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>中的行<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6595em;"></span><span>i</span></span></span></span>去掉，使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span>替代。得到新的<strong>状态转移方程</strong>如下：</p>
 <p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6986em;vertical-align:-0.0391em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></p>
 <p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6595em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></p>
 <p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6986em;vertical-align:-0.0391em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.6444em;"></span><span>0</span></span></span></span>时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>min</span><span>(</span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span>,</span><span style="margin-right:0.1667em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>])</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span></span></span></span></p>
-<p>状态边界</p>
+<p><strong>状态边界</strong></p>
 <p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>0</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.02778em;">r</span><span>i</span><span>d</span><span>[</span><span>0</span><span>]</span><span>[</span><span>0</span><span>]</span></span></span></span></p>
 </div>
 <h3 id="参考代码-2"> 参考代码</h3>
@@ -1884,17 +2250,17 @@ A custom details container
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_minimum-path-sum.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.png" type="image/png"/>
     </item>
     <item>
       <title>647.回文子串</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">647.回文子串</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_647-回文子串"> 647.回文子串</h1>
 <p>https://leetcode-cn.com/problems/palindromic-substrings/</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220307100613.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.png" alt="" loading="lazy"></p>
 <h2 id="方法一-中心扩散"> 方法一：中心扩散</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
@@ -1938,7 +2304,7 @@ A custom details container
 <p><strong>状态定义</strong>：</p>
 <p>设<code>dp[i][j]</code>表示字符串<code>s</code>在<code>[i,j]</code>区间的子串是否是一个回文串</p>
 <p><strong>状态转移方程</strong>：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:6em;vertical-align:-2.75em;"></span><span><span><span><span><span style="height:3.25em;"><span style="top:-5.25em;"><span style="height:2.84em;"></span><span></span></span><span style="top:-3.75em;"><span style="height:2.84em;"></span><span></span></span><span style="top:-2.25em;"><span style="height:2.84em;"></span><span></span></span><span style="top:-0.75em;"><span style="height:2.84em;"></span><span></span></span></span><span>​</span></span><span><span style="height:2.75em;"><span></span></span></span></span></span><span><span><span><span style="height:3.25em;"><span style="top:-5.41em;"><span style="height:3em;"></span><span><span></span><span>i</span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span><span><span>2</span></span><span>)</span></span></span><span style="top:-3.91em;"><span style="height:3em;"></span><span><span></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span><span>(</span><span>s</span><span>[</span><span>i</span><span>]</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span><span>s</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>])</span><span> </span><span>an</span><span>d</span><span> </span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span></span></span><span style="top:-2.41em;"><span style="height:3em;"></span><span><span></span><span>e</span><span style="margin-right:0.01968em;">l</span><span>se</span></span></span><span style="top:-0.91em;"><span style="height:3em;"></span><span><span></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span><span>(</span><span>s</span><span>[</span><span>i</span><span>]</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span><span>s</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>])</span></span></span></span><span>​</span></span><span><span style="height:2.75em;"><span></span></span></span></span></span></span></span><span><span><span><span style="height:3.25em;"><span style="top:-5.25em;"><span style="height:2.84em;"></span><span></span></span><span style="top:-3.75em;"><span style="height:2.84em;"></span><span></span></span><span style="top:-2.25em;"><span style="height:2.84em;"></span><span></span></span><span style="top:-0.75em;"><span style="height:2.84em;"></span><span></span></span></span><span>​</span></span><span><span style="height:2.75em;"><span></span></span></span></span></span></span></span></span></p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:3em;vertical-align:-1.25em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>(</span><span>s</span><span>[</span><span>i</span><span>]</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span><span>s</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>])</span><span> </span><span>an</span><span>d</span><span> </span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>+</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span><span>[</span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span><span>,</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>(</span><span>s</span><span>[</span><span>i</span><span>]</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span><span>s</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>])</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span><span style="width:1em;"></span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span><span><span>2</span></span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>i</span><span style="margin-right:0.2778em;"></span><span>&gt;</span><span style="margin-right:0.2778em;"></span><span><span>2</span></span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
 <p><strong>边界条件</strong>：</p>
 <p><code>dp[i][j]</code> 表示 <code>[i,j]</code> 子串是否是回文串，判断该子串是否是回文串需要两个条件：</p>
 <ol>
@@ -1973,17 +2339,17 @@ A custom details container
 <h2 id="参考文献"> 参考文献</h2>
 <p><a href="https://leetcode-cn.com/problems/palindromic-substrings/solution/liang-dao-hui-wen-zi-chuan-de-jie-fa-xiang-jie-zho/" target="_blank" rel="noopener noreferrer">两道回文子串的解法（详解中心扩展法） - 回文子串 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220307100613.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.png" type="image/png"/>
     </item>
     <item>
       <title>85.最大矩形</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">85.最大矩形</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_85-最大矩形"> 85.最大矩形</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_maximal-rectangle.png" alt="" loading="lazy"></p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.png" alt="" loading="lazy"></p>
 <h2 id="方法一-使用柱状图的优化暴力方法"> 方法一：使用柱状图的优化暴力方法</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
@@ -2035,20 +2401,20 @@ A custom details container
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/leetcode-cn.com_problems_maximal-rectangle.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.png" type="image/png"/>
     </item>
     <item>
       <title>96.不同的二叉搜索树</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">96.不同的二叉搜索树</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_96-不同的二叉搜索树"> 96.不同的二叉搜索树</h1>
 <p>https://leetcode-cn.com/problems/unique-binary-search-trees/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.png" alt="" loading="lazy"></p>
 <h2 id="方法一-动态规划"> 方法一：动态规划</h2>
 <h3 id="思路分析"> 思路分析</h3>
 <div><p>Tips</p>
-<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220304214719.png" alt="" loading="lazy"></p>
 <p>状态定义：</p>
 <p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span></span></span></span>代表用连着的<code>i</code>个数，所构建出的二叉搜索树（BST）种类数，左子树用掉<code>j</code>个，则右子树用掉<code>i-j-1</code>个，能构建出<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2222em;"></span><span>∗</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>]</span></span></span></span>种不同的BST</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span>]</span><span style="margin-right:0.2778em;"></span><span>=</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1.6em;vertical-align:-0.55em;"></span><span style="position:relative;top:0em;">∑</span><span style="margin-right:0.1667em;"></span><span><span>d</span><span>p</span><span>[</span><span style="margin-right:0.05724em;">j</span><span>]</span><span style="margin-right:0.2222em;"></span><span>∗</span><span style="margin-right:0.2222em;"></span><span>d</span><span>p</span><span>[</span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span><span>]</span></span><span>,</span><span style="margin-right:0.1667em;"></span><span>0</span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span><span style="margin-right:0.05724em;">j</span></span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.854em;vertical-align:-0.1944em;"></span><span><span>i</span><span style="margin-right:0.2222em;"></span><span>−</span><span style="margin-right:0.2222em;"></span><span>1</span></span><span>,</span><span style="margin-right:0.1667em;"></span><span>2</span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.7955em;vertical-align:-0.136em;"></span><span><span>i</span></span><span style="margin-right:0.2778em;"></span><span>≤</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:0.4306em;"></span><span><span>n</span></span></span></span></span></span></p>
@@ -2083,25 +2449,81 @@ A custom details container
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div></CodeGroupItem>
 </CodeGroup>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/network/20220304214719.png" type="image/png"/>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.png" type="image/png"/>
     </item>
     <item>
       <title>LeetCode 热题 HOT 100</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">LeetCode 热题 HOT 100</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="leetcode-热题-hot-100"> LeetCode 热题 HOT 100</h1>
-<ul>
-<li><a href="./1.两数之和.html">1.两数之和</a></li>
-<li><a href="./64.最小路径和.html">64.最小路径和</a></li>
-<li><a href="./85.最大矩形.html">85.最大矩形</a></li>
-<li><a href="./121.买卖股票的最佳时机.html">121.买卖股票的最佳时机</a></li>
-<li><a href="./139.单词拆分.html">139.单词拆分</a></li>
-<li><a href="./309.最佳买卖股票时机含冷冻期.html">309.最佳买卖股票时机含冷冻期</a></li>
-<li><a href="./337.打家劫舍III.html">337.打家劫舍III</a></li>
-<li><a href="./338.比特位计数.html">338.比特位计数</a></li>
-</ul>
+<table>
+<thead>
+<tr>
+<th>题解</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="./1.两数之和.html">1.两数之和</a></td>
+</tr>
+<tr>
+<td><a href="./64.最小路径和.html">64.最小路径和</a></td>
+</tr>
+<tr>
+<td><a href="./85.最大矩形.html">85.最大矩形</a></td>
+</tr>
+<tr>
+<td><a href="./121.买卖股票的最佳时机.html">121.买卖股票的最佳时机</a></td>
+</tr>
+<tr>
+<td><a href="./139.单词拆分.html">139.单词拆分</a></td>
+</tr>
+<tr>
+<td><a href="./309.最佳买卖股票时机含冷冻期.html">309.最佳买卖股票时机含冷冻期</a></td>
+</tr>
+<tr>
+<td><a href="./337.打家劫舍III.html">337.打家劫舍III</a></td>
+</tr>
+<tr>
+<td><a href="./338.比特位计数.html">338.比特位计数</a></td>
+</tr>
+<tr>
+<td><a href="./416.分割等和子集.html">416.分割等和子集</a></td>
+</tr>
+<tr>
+<td><a href="./494.目标和.html">494.目标和</a></td>
+</tr>
+<tr>
+<td><a href="./647.回文子串.html">647.回文子串</a></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
 ]]></content:encoded>
     </item>
     <item>
@@ -2109,7 +2531,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>sql-advanced!</p>
 ]]></content:encoded>
@@ -2122,7 +2544,7 @@ A custom details container
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -2147,7 +2569,7 @@ A custom details container
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/encrypt/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -2162,7 +2584,7 @@ A custom details container
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -2667,7 +3089,7 @@ $$
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -2690,7 +3112,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">项目主页</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -2701,7 +3123,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">自定义布局</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>Note</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -2726,7 +3148,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">博客主页</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -2737,7 +3159,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">幻灯片页</source>
-      <pubDate>Mon, 07 Mar 2022 07:04:30 GMT</pubDate>
+      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/logo.svg" type="image/svg+xml"/>
