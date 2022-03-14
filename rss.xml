@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</link>
     <description>Welcome to RiverCold's blog!</description>
     <language>en-US</language>
-    <pubDate>Wed, 09 Mar 2022 14:24:31 GMT</pubDate>
-    <lastBuildDate>Wed, 09 Mar 2022 14:24:31 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2022 02:43:07 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2022 02:43:07 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -17,7 +17,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>C++!</p>
 ]]></content:encoded>
@@ -27,7 +27,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Java!</p>
 ]]></content:encoded>
@@ -37,19 +37,9 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Python!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>1.md</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
-<p>SQL!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -60,7 +50,7 @@
       <description>&amp;lt;p&amp;gt;You can disable some functions on the page by setting the Frontmatter of the page.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 
 <p>These should be disabled on this page:</p>
@@ -80,12 +70,22 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>1.md</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
+<p>SQL!</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Encryption article</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Encryption article</source>
       <category>Guide</category>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -100,7 +100,7 @@
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; enables more syntax in Markdown via the built-in &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt; plugin.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 
 <h2 id="enable-all"> Enable all</h2>
@@ -551,6 +551,30 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
+      <title>Guides</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Guides</source>
+      <category>Guide</category>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
+<ul>
+<li>
+<p><a href="./page.html">Page Config</a></p>
+</li>
+<li>
+<p><a href="./markdown.html">Markdown Enhance</a></p>
+</li>
+<li>
+<p><a href="./disable.html">Function Disable</a></p>
+</li>
+<li>
+<p><a href="./encrypt.html">Encryption Demo</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>page config</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/page/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/page/</guid>
@@ -600,49 +624,74 @@ A custom details container
 ]]></content:encoded>
     </item>
     <item>
-      <title>Guides</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Guides</source>
-      <category>Guide</category>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
-<ul>
-<li>
-<p><a href="./page.html">Page Config</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown Enhance</a></p>
-</li>
-<li>
-<p><a href="./disable.html">Function Disable</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">Encryption Demo</a></p>
-</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Project home</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Project home</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
+      <title>MySQL重要知识点</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/MySQL%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/MySQL%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">MySQL重要知识点</source>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="mysql重要知识点"> MySQL重要知识点</h1>
+<h3 id="一条-sql-语句在-mysql-中如何被执行的"> 一条 SQL 语句在 MySQL 中如何被执行的?</h3>
+<details><summary>answer</summary>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/interview/basics/database/MySQL基础架构.png" alt="" loading="lazy"></p>
+<p>MySQL主要分为<strong>Server层</strong>和<strong>存储引擎层</strong>。</p>
+<p><strong>Server层</strong>：包括连接器、查询缓存、分析器、优化器、执行器等，涵盖MySQL的核心功能。</p>
+<p><strong>存储引擎层</strong>：负责数据的存储和提取。</p>
+<ul>
+<li>
+<p>查询<code>select</code>语句的执行流程如下：</p>
+<ul>
+<li>连接器：管理连接，权限验证</li>
+<li>查询缓存：判断是否命中缓存，如果命中缓存则直接返回结果</li>
+<li>分析器：词法分析，语法分析
+<ul>
+<li>词法分析：提取 sql 语句的关键元素，以<code>select</code>为例，提取出查询的表名、查询的列名（字段）、查询条件等。</li>
+<li>语法分析：判断查询关键词是否正确</li>
+</ul>
+</li>
+<li>优化器：根据优化算法选择执行方案</li>
+<li>执行器：判断当前用户对当前表是否有查询权限，如果有则调用引擎提供的读接口，返回查询结果</li>
+</ul>
+</li>
+<li>
+<p>更新语句的执行流程和查询语句的流程类似：</p>
+<ul>
+<li>连接器：管理连接，权限验证</li>
+<li>分析器：词法分析，语法分析
+<ul>
+<li>词法分析：提取 sql 语句的关键元素，以<code>update</code>为例，提取出更新的表名、更新的列名（字段）、更新条件等。</li>
+<li>语法分析：判断查询关键词是否正确</li>
+</ul>
+</li>
+<li>优化器：根据优化算法选择执行方案</li>
+<li>执行器：判断当前用户对当前记录是否有更新权限， 如果有则调用引擎提供的写接口，返回更新结果</li>
+</ul>
+</li>
+</ul>
+</details>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/interview/basics/database/MySQL基础架构.png" type="image/png"/>
+    </item>
+    <item>
       <title>计算机网络</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./数据库知识手册.html">数据库知识手册</a></li>
+<li><a href="./MySQL重要知识点.html">MySQL重要知识点</a></li>
 </ul>
 ]]></content:encoded>
     </item>
@@ -651,7 +700,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">数据库知识手册</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="数据库知识手册"> 数据库知识手册</h1>
 <h2 id="数据库基础概念"> 数据库基础概念</h2>
 <h3 id="什么是数据库"> 什么是数据库？</h3>
@@ -1029,7 +1078,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./计算机网络面试突击.html">计算机网络面试突击</a></li>
@@ -1041,7 +1090,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络面试突击</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络面试突击"> 计算机网络面试突击</h1>
 <h2 id="第三部分-传输层"> 第三部分：传输层</h2>
 <h3 id="三次握手和四次挥手机制"> 三次握手和四次挥手机制</h3>
@@ -1154,7 +1203,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Intro Page</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -1164,7 +1213,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Custom Layout</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -1189,7 +1238,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content:encoded>
     </item>
@@ -1198,7 +1247,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content:encoded>
     </item>
@@ -1207,7 +1256,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Blog Home</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
@@ -1216,7 +1265,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello High-School!</p>
 ]]></content:encoded>
@@ -1226,7 +1275,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello Junior-High-School!</p>
 ]]></content:encoded>
@@ -1236,7 +1285,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme in school</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme-in-school"> readme in school</h1>
 ]]></content:encoded>
     </item>
@@ -1245,7 +1294,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello University!</p>
 ]]></content:encoded>
@@ -1255,7 +1304,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Slide page</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/logo.svg" type="image/svg+xml"/>
@@ -1265,7 +1314,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">剑指offer</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="剑指offer"> 剑指offer</h1>
 <ul>
 <li><a href="./二维数组中的查找.html">二维数组中的查找</a></li>
@@ -1277,7 +1326,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">二维数组中的查找</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="二维数组中的查找"> <a href="https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&amp;&amp;tqId=11154&amp;rp=1&amp;ru=/ta/coding-interviews&amp;qru=/ta/coding-interviews/question-ranking" target="_blank" rel="noopener noreferrer">二维数组中的查找</a></h1>
 <h2 id="题目描述"> 题目描述</h2>
 <p>在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。</p>
@@ -1373,7 +1422,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Cracking-the-Coding-Interview!</p>
 ]]></content:encoded>
@@ -1383,7 +1432,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.两数之和</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-两数之和"> <a href="https://leetcode-cn.com/problems/two-sum/" target="_blank" rel="noopener noreferrer">1.两数之和</a></h1>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.png" alt="" loading="lazy"></p>
 <h2 id="方法一-哈希表"> 方法一：哈希表</h2>
@@ -1444,7 +1493,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">121.买卖股票的最佳时机</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_121-买卖股票的最佳时机"> 121.买卖股票的最佳时机</h1>
 <p>https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.png" alt="" loading="lazy"></p>
@@ -1510,7 +1559,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">139.单词拆分</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_139-单词拆分"> 139.单词拆分</h1>
 <p>https://leetcode-cn.com/problems/word-break/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.png" alt="" loading="lazy"></p>
@@ -1631,11 +1680,418 @@ A custom details container
       <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.png" type="image/png"/>
     </item>
     <item>
+      <title>146.LRU缓存</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/146.LRU%E7%BC%93%E5%AD%98/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/146.LRU%E7%BC%93%E5%AD%98/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">146.LRU缓存</source>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_146-lru缓存"> 146.LRU缓存</h1>
+<p>https://leetcode-cn.com/problems/lru-cache/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/146.png" alt="" loading="lazy"></p>
+<h2 id="方法一-哈希表-双向链表-c-实现"> 方法一：哈希表+双向链表（C++实现）</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<p>用一个哈希表和一个双向链表维护所有在缓存中的键值对。</p>
+<p>双向链表按照被使用的顺序存储了这些键值对，靠近头部的键值对是最近使用的，而靠近尾部的键值对是最久未使用的。</p>
+<p>哈希表即为普通的哈希映射（HashMap），通过缓存数据的键映射到其在双向链表中的位置。</p>
+<Mermaid id="mermaid-382ee169" data-code="graph%0A%09subgraph%20get%E5%87%BD%E6%95%B0%0A%09%09direction%20TB%0A%20%20%20%20%20%20%20%20b1%5B%E5%88%A4%E6%96%ADkey%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%5D%0A%20%20%20%20%20%20%20%20b2%5B%E5%A6%82%E6%9E%9Ckey%E4%B8%8D%E5%AD%98%E5%9C%A8%5D%0A%20%20%20%20%20%20%20%20b3%5B%E8%BF%94%E5%9B%9E-1%5D%0A%20%20%20%20%20%20%20%09b4%5B%E5%A6%82%E6%9E%9Ckey%E5%AD%98%E5%9C%A8%2C%E9%80%9A%E8%BF%87%E5%93%88%E5%B8%8C%E8%A1%A8%E5%AE%9A%E4%BD%8D%E5%88%B0%E8%AF%A5%E8%8A%82%E7%82%B9%E5%9C%A8%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E4%BD%8D%E7%BD%AE%3Cbr%3E%E5%B0%86%E5%85%B6%E7%A7%BB%E5%8A%A8%E5%88%B0%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%B4%E9%83%A8%5D%0A%20%20%20%20%20%20%20%09b5%5B%E8%BF%94%E5%9B%9E%E8%AF%A5%E8%8A%82%E7%82%B9%E7%9A%84%E5%80%BC%5D%0A%20%20%20%20%20%20%20%20b1--%3Eb2--%3Eb3%0A%20%20%20%20%20%20%20%20b1--%3Eb4--%3Eb5%0A%20%20%20%20end%0A"></Mermaid><Mermaid id="mermaid-382ee16a" data-code="flowchart%0A%09subgraph%20put%E5%87%BD%E6%95%B0%0A%09%09direction%20TB%0A%20%20%20%20%20%20%20%20b1%5B%E5%88%A4%E6%96%ADkey%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%5D%0A%20%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%20b2%5B%E5%A6%82%E6%9E%9Ckey%E4%B8%8D%E5%AD%98%E5%9C%A8%5D%0A%20%20%20%20%20%20%20%20b3%5B%E4%BD%BF%E7%94%A8key%E5%92%8Cvalue%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E8%8A%82%E7%82%B9%3Cbr%3E%E5%9C%A8%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%B4%E9%83%A8%E6%B7%BB%E5%8A%A0%E8%AF%A5%E8%8A%82%E7%82%B9%3Cbr%3E%E5%B0%86key%E5%92%8C%E8%AF%A5%E8%8A%82%E7%82%B9%E6%B7%BB%E5%8A%A0%E8%BF%9B%E5%93%88%E5%B8%8C%E8%A1%A8%E4%B8%AD%5D%0A%20%20%20%20%20%20%20%20b4%5B%E5%88%A4%E6%96%AD%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8%E7%9A%84%E8%8A%82%E7%82%B9%E6%95%B0%E6%98%AF%E5%90%A6%E8%B6%85%E5%87%BA%E5%AE%B9%E9%87%8F%5D%0A%20%20%20%20%20%20%20%20b5%5B%E5%A6%82%E6%9E%9C%E8%B6%85%E5%87%BA%E5%AE%B9%E9%87%8F%2C%E5%88%A0%E9%99%A4%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8%E7%9A%84%E5%B0%BE%E9%83%A8%E8%8A%82%E7%82%B9%3Cbr%3E%E5%88%A0%E9%99%A4%E5%93%88%E5%B8%8C%E8%A1%A8%E4%B8%AD%E5%AF%B9%E5%BA%94%E7%9A%84%E9%A1%B9%5D%0A%20%20%20%20%20%20%20%0A%20%20%20%20%20%20%20%09b7%5B%E5%A6%82%E6%9E%9Ckey%E5%AD%98%E5%9C%A8%5D%0A%20%20%20%20%20%20%20%20b8%5B%E9%80%9A%E8%BF%87%E5%93%88%E5%B8%8C%E8%A1%A8%E5%AE%9A%E4%BD%8D%E5%88%B0%E8%AF%A5%E8%8A%82%E7%82%B9%E5%9C%A8%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E4%BD%8D%E7%BD%AE%3Cbr%3E%E5%B0%86%E8%8A%82%E7%82%B9%E7%9A%84%E5%80%BC%E6%9B%B4%E6%96%B0%E4%B8%BAvalue%3Cbr%3E%E5%B0%86%E5%85%B6%E7%A7%BB%E5%8A%A8%E5%88%B0%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%B4%E9%83%A8%2C%E6%9C%80%E5%90%8E%E8%BF%94%E5%9B%9E%E8%AF%A5%E8%8A%82%E7%82%B9%E7%9A%84%E5%80%BC%5D%0A%20%20%20%20%20%20%20%20b1--%3Eb2--%3Eb3--%3Eb4--%3Eb5%0A%20%20%20%20%20%20%20%20b1--%3Eb7--%3Eb8%0A%20%20%20%20end%0A"></Mermaid></div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>struct</span> <span>DLinkedNode</span> <span>{</span>
+    <span>int</span> key<span>,</span> value<span>;</span>
+    DLinkedNode<span>*</span> prev<span>;</span>
+    DLinkedNode<span>*</span> next<span>;</span>
+    <span>DLinkedNode</span><span>(</span><span>)</span><span>:</span> <span>key</span><span>(</span><span>0</span><span>)</span><span>,</span> <span>value</span><span>(</span><span>0</span><span>)</span><span>,</span> <span>prev</span><span>(</span><span>nullptr</span><span>)</span><span>,</span> <span>next</span><span>(</span><span>nullptr</span><span>)</span> <span>{</span><span>}</span>
+    <span>DLinkedNode</span><span>(</span><span>int</span> _key<span>,</span> <span>int</span> _value<span>)</span> <span>:</span> <span>key</span><span>(</span>_key<span>)</span><span>,</span> <span>value</span><span>(</span>_value<span>)</span><span>,</span> <span>prev</span><span>(</span><span>nullptr</span><span>)</span><span>,</span> <span>next</span><span>(</span><span>nullptr</span><span>)</span> <span>{</span><span>}</span>
+<span>}</span><span>;</span>
+
+<span>class</span> <span>LRUCache</span> <span>{</span>
+<span>private</span><span>:</span>
+    unordered_map<span>&lt;</span><span>int</span><span>,</span> DLinkedNode<span>*</span><span>></span> cache<span>;</span>
+    DLinkedNode<span>*</span> head<span>;</span>
+    DLinkedNode<span>*</span> tail<span>;</span>
+    <span>int</span> size<span>;</span>
+    <span>int</span> capacity<span>;</span>
+
+<span>public</span><span>:</span>
+    <span>LRUCache</span><span>(</span><span>int</span> _capacity<span>)</span> <span>:</span> <span>capacity</span><span>(</span>_capacity<span>)</span><span>,</span> <span>size</span><span>(</span><span>0</span><span>)</span> <span>{</span>
+        <span>// 使用伪头部和伪尾部节点</span>
+        head <span>=</span> <span>new</span> <span>DLinkedNode</span><span>(</span><span>)</span><span>;</span>
+        tail <span>=</span> <span>new</span> <span>DLinkedNode</span><span>(</span><span>)</span><span>;</span>
+        head<span>-></span>next <span>=</span> tail<span>;</span>
+        tail<span>-></span>prev <span>=</span> head<span>;</span>    
+    <span>}</span>
+    
+    <span>int</span> <span>get</span><span>(</span><span>int</span> key<span>)</span> <span>{</span>
+        <span>if</span><span>(</span><span>!</span>cache<span>.</span><span>count</span><span>(</span>key<span>)</span><span>)</span><span>{</span>
+            <span>return</span> <span>-</span><span>1</span><span>;</span>
+        <span>}</span>
+        <span>// 如果key存在，先通过哈希表定位，再移到头部</span>
+        DLinkedNode<span>*</span> node <span>=</span> cache<span>[</span>key<span>]</span><span>;</span>
+        <span>moveToHead</span><span>(</span>node<span>)</span><span>;</span>
+        <span>return</span> node<span>-></span>value<span>;</span>
+    <span>}</span>
+    
+    <span>void</span> <span>put</span><span>(</span><span>int</span> key<span>,</span> <span>int</span> value<span>)</span> <span>{</span>
+        <span>if</span><span>(</span><span>!</span>cache<span>.</span><span>count</span><span>(</span>key<span>)</span><span>)</span><span>{</span>
+            <span>// 如果key不存在，创建一个新的节点</span>
+            DLinkedNode<span>*</span> node <span>=</span> <span>new</span> <span>DLinkedNode</span><span>(</span>key<span>,</span> value<span>)</span><span>;</span>
+            <span>// 添加进哈希表</span>
+            cache<span>[</span>key<span>]</span> <span>=</span> node<span>;</span>
+            <span>// 添加至双向链表的头部</span>
+            <span>addToHead</span><span>(</span>node<span>)</span><span>;</span>
+            <span>++</span>size<span>;</span>
+            <span>if</span><span>(</span>size <span>></span> capacity<span>)</span><span>{</span>
+                <span>// 如果超过容量，删除双向链表的尾部节点</span>
+                DLinkedNode<span>*</span> removed <span>=</span> <span>removeTail</span><span>(</span><span>)</span><span>;</span>
+                <span>// 删除哈希表中对应的项</span>
+                cache<span>.</span><span>erase</span><span>(</span>removed<span>-></span>key<span>)</span><span>;</span>
+                <span>// 防止内存泄露</span>
+                <span>delete</span> removed<span>;</span>
+                <span>--</span>size<span>;</span>
+            <span>}</span>
+        <span>}</span>
+        <span>else</span><span>{</span>
+            <span>// 如果key存在，先通过哈希表定位，再修改value，并移到头部</span>
+            DLinkedNode<span>*</span> node <span>=</span> cache<span>[</span>key<span>]</span><span>;</span>
+            node<span>-></span>value <span>=</span> value<span>;</span>
+            <span>moveToHead</span><span>(</span>node<span>)</span><span>;</span>
+        <span>}</span>
+    <span>}</span>
+    <span>// 将节点添加到链表头部</span>
+    <span>void</span> <span>addToHead</span><span>(</span>DLinkedNode<span>*</span> node<span>)</span><span>{</span>
+        node<span>-></span>prev <span>=</span> head<span>;</span>
+        node<span>-></span>next <span>=</span> head<span>-></span>next<span>;</span>
+        head<span>-></span>next<span>-></span>prev <span>=</span> node<span>;</span>
+        head<span>-></span>next <span>=</span> node<span>;</span>
+    <span>}</span>
+    <span>// 删除链表中的节点</span>
+    <span>void</span> <span>removeNode</span><span>(</span>DLinkedNode<span>*</span> node<span>)</span><span>{</span>
+        node<span>-></span>prev<span>-></span>next <span>=</span> node<span>-></span>next<span>;</span>
+        node<span>-></span>next<span>-></span>prev <span>=</span> node<span>-></span>prev<span>;</span>
+    <span>}</span>
+    <span>// 将链表中的节点移动到头部</span>
+    <span>void</span> <span>moveToHead</span><span>(</span>DLinkedNode<span>*</span> node<span>)</span><span>{</span>
+        <span>removeNode</span><span>(</span>node<span>)</span><span>;</span>
+        <span>addToHead</span><span>(</span>node<span>)</span><span>;</span>
+    <span>}</span>
+    <span>// 删除双向链表的尾部节点</span>
+    DLinkedNode<span>*</span> <span>removeTail</span><span>(</span><span>)</span> <span>{</span>
+        DLinkedNode<span>*</span> node <span>=</span> tail<span>-></span>prev<span>;</span>
+        <span>removeNode</span><span>(</span>node<span>)</span><span>;</span>
+        <span>return</span> node<span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h2 id="方法二-哈希表-双向链表-java实现"> 方法二：哈希表+双向链表（Java实现）</h2>
+<div><p>Tips</p>
+</div>
+<CodeGroup>
+<CodeGroupItem title="java">
+<div><pre><code><span>// 自定义节点类</span>
+<span>class</span> <span>Node</span> <span>{</span>
+    <span>public</span> <span>int</span> key<span>,</span> val<span>;</span>
+    <span>// 双向指针：next表示下一个，prev表示前一个</span>
+    <span>public</span> <span>Node</span> next<span>,</span> prev<span>;</span>
+    <span>public</span> <span>Node</span><span>(</span><span>int</span> k<span>,</span> <span>int</span> v<span>)</span><span>{</span>
+        <span>this</span><span>.</span>key <span>=</span> k<span>;</span>
+        <span>this</span><span>.</span>val <span>=</span> v<span>;</span>
+    <span>}</span>
+<span>}</span>
+<span>// 自定义双向链表</span>
+<span>class</span> <span>DoubleList</span><span>{</span>
+    <span>// 头尾虚节点</span>
+    <span>private</span> <span>Node</span> head<span>,</span> tail<span>;</span>
+    <span>// 链表元素数</span>
+    <span>private</span> <span>int</span> size<span>;</span>
+
+    <span>public</span> <span>DoubleList</span><span>(</span><span>)</span> <span>{</span>
+        <span>// 初始化双向链表的数据</span>
+        head <span>=</span> <span>new</span> <span>Node</span><span>(</span><span>0</span><span>,</span> <span>0</span><span>)</span><span>;</span>
+        tail <span>=</span> <span>new</span> <span>Node</span><span>(</span><span>0</span><span>,</span> <span>0</span><span>)</span><span>;</span>
+        head<span>.</span>next <span>=</span> tail<span>;</span>
+        tail<span>.</span>prev <span>=</span> head<span>;</span>
+        size <span>=</span> <span>0</span><span>;</span>
+    <span>}</span>
+
+    <span>// 在链表尾部添加节点x,时间O(1)</span>
+    <span>public</span> <span>void</span> <span>addLast</span><span>(</span><span>Node</span> x<span>)</span> <span>{</span>
+        <span>// 设置插入节点的prev和next指针</span>
+        x<span>.</span>prev <span>=</span> tail<span>.</span>prev<span>;</span>
+        x<span>.</span>next <span>=</span> tail<span>;</span>
+        <span>// 设置插入节点前一个节点的next指针</span>
+        tail<span>.</span>prev<span>.</span>next <span>=</span> x<span>;</span>
+        <span>// 设置尾节点的prev指针</span>
+        tail<span>.</span>prev <span>=</span> x<span>;</span>
+        size<span>++</span><span>;</span>
+    <span>}</span>
+    
+    <span>// 删除链表中的x节点(x一定存在)</span>
+    <span>// 由于是双链表且给的是目标Node节点，时间O(1)</span>
+    <span>public</span> <span>void</span> <span>remove</span><span>(</span><span>Node</span> x<span>)</span><span>{</span>
+        x<span>.</span>prev<span>.</span>next <span>=</span> x<span>.</span>next<span>;</span>
+        x<span>.</span>next<span>.</span>prev <span>=</span> x<span>.</span>prev<span>;</span>
+        size<span>--</span><span>;</span>
+    <span>}</span>
+
+    <span>// 删除链表中第一个节点，并返回该节点，时间O(1)</span>
+    <span>public</span> <span>Node</span> <span>removeFirst</span><span>(</span><span>)</span><span>{</span>
+        <span>if</span><span>(</span>head<span>.</span>next <span>==</span> tail<span>)</span><span>{</span>
+            <span>return</span> <span>null</span><span>;</span>
+        <span>}</span>
+        <span>Node</span> first <span>=</span> head<span>.</span>next<span>;</span>
+        <span>remove</span><span>(</span>first<span>)</span><span>;</span>
+        <span>return</span> first<span>;</span>
+    <span>}</span>
+
+    <span>// 返回链表长度，时间O(1)</span>
+    <span>public</span> <span>int</span> <span>size</span><span>(</span><span>)</span><span>{</span>
+        <span>return</span> size<span>;</span>
+    <span>}</span>
+<span>}</span>
+<span>class</span> <span>LRUCache</span> <span>{</span>
+    <span>int</span> cap<span>;</span>
+    <span>LinkedHashMap</span><span><span>&lt;</span><span>Integer</span><span>,</span> <span>Integer</span><span>></span></span> cache <span>=</span> <span>new</span> <span>LinkedHashMap</span><span><span>&lt;</span><span>></span></span><span>(</span><span>)</span><span>;</span>
+    <span>public</span> <span>LRUCache</span><span>(</span><span>int</span> capacity<span>)</span> <span>{</span> 
+        <span>this</span><span>.</span>cap <span>=</span> capacity<span>;</span>
+    <span>}</span>
+
+    <span>public</span> <span>int</span> <span>get</span><span>(</span><span>int</span> key<span>)</span> <span>{</span>
+        <span>if</span> <span>(</span><span>!</span>cache<span>.</span><span>containsKey</span><span>(</span>key<span>)</span><span>)</span> <span>{</span>
+            <span>return</span> <span>-</span><span>1</span><span>;</span>
+        <span>}</span>
+        <span>// 将 key 变为最近使用</span>
+        <span>makeRecently</span><span>(</span>key<span>)</span><span>;</span>
+        <span>return</span> cache<span>.</span><span>get</span><span>(</span>key<span>)</span><span>;</span>
+    <span>}</span>
+
+    <span>public</span> <span>void</span> <span>put</span><span>(</span><span>int</span> key<span>,</span> <span>int</span> val<span>)</span> <span>{</span>
+        <span>if</span> <span>(</span>cache<span>.</span><span>containsKey</span><span>(</span>key<span>)</span><span>)</span> <span>{</span>
+            <span>// 修改 key 的值</span>
+            cache<span>.</span><span>put</span><span>(</span>key<span>,</span> val<span>)</span><span>;</span>
+            <span>// 将 key 变为最近使用</span>
+            <span>makeRecently</span><span>(</span>key<span>)</span><span>;</span>
+            <span>return</span><span>;</span>
+        <span>}</span>
+        <span>if</span> <span>(</span>cache<span>.</span><span>size</span><span>(</span><span>)</span> <span>>=</span> <span>this</span><span>.</span>cap<span>)</span> <span>{</span>
+            <span>// 链表头部就是最久未使用的 key</span>
+            <span>// 删除最久未使用的元素</span>
+            <span>int</span> oldestKey <span>=</span> cache<span>.</span><span>keySet</span><span>(</span><span>)</span><span>.</span><span>iterator</span><span>(</span><span>)</span><span>.</span><span>next</span><span>(</span><span>)</span><span>;</span>
+            cache<span>.</span><span>remove</span><span>(</span>oldestKey<span>)</span><span>;</span>
+        <span>}</span>
+        <span>// 将新的 key 添加链表尾部</span>
+        <span>// 添加为最近使用的元素</span>
+        cache<span>.</span><span>put</span><span>(</span>key<span>,</span> val<span>)</span><span>;</span>
+    <span>}</span>
+
+    <span>private</span> <span>void</span> <span>makeRecently</span><span>(</span><span>int</span> key<span>)</span> <span>{</span>
+        <span>int</span> val <span>=</span> cache<span>.</span><span>get</span><span>(</span>key<span>)</span><span>;</span>
+        <span>// 删除 key，重新插入到队尾</span>
+        cache<span>.</span><span>remove</span><span>(</span>key<span>)</span><span>;</span>
+        cache<span>.</span><span>put</span><span>(</span>key<span>,</span> val<span>)</span><span>;</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br><span>97</span><br><span>98</span><br><span>99</span><br><span>100</span><br><span>101</span><br><span>102</span><br><span>103</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h2 id="参考文献"> 参考文献</h2>
+<p><a href="https://leetcode-cn.com/problems/lru-cache/solution/lruhuan-cun-ji-zhi-by-leetcode-solution/" target="_blank" rel="noopener noreferrer">LRU缓存机制 - LRU 缓存 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+<p><a href="https://leetcode-cn.com/problems/lru-cache/solution/lru-ce-lue-xiang-jie-he-shi-xian-by-labuladong/" target="_blank" rel="noopener noreferrer">LRU 策略详解和实现 - LRU 缓存 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/146.png" type="image/png"/>
+    </item>
+    <item>
+      <title>297.二叉树的序列化与反序列化</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/297.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/297.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">297.二叉树的序列化与反序列化</source>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_297-二叉树的序列化与反序列化"> 297.二叉树的序列化与反序列化</h1>
+<p>https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/297.png" alt="" loading="lazy"></p>
+<h2 id="方法一-先序遍历dfs"> 方法一：先序遍历DFS</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<p>深度优先搜索策略区分为先序遍历、中序遍历、后序遍历，这里采用先序遍历的编码方式对二叉树进行序列化</p>
+<p><strong>序列化</strong></p>
+<ul>
+<li>遇到空子树时序列化为<code>NULL</code></li>
+<li>遇到非空子树时首先序列化根节点root为<code>root-&gt;val</code>，递归序列化这棵树的左子树和右子树。</li>
+</ul>
+<p><strong>反序列化</strong></p>
+<ul>
+<li>根据空格将二叉树的先序遍历序列分割得到先序遍历的元素列表，从左向右遍历这个序列
+<ul>
+<li>遇到元素为<code>NULL</code>时反序列化为空树</li>
+<li>遇到元素为数值时创建根节点<code>root</code>为<code>stoi(str)</code>，继续递归反序列化<code>root</code>的左右子树</li>
+</ul>
+</li>
+</ul>
+</div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Codec</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>void</span> <span>rserialize</span><span>(</span>TreeNode<span>*</span> root<span>,</span> string<span>&amp;</span> str<span>)</span><span>{</span>
+        <span>if</span><span>(</span>root <span>==</span> <span>NULL</span><span>)</span><span>{</span>
+            str <span>+=</span> <span>"null "</span><span>;</span>
+        <span>}</span> <span>else</span><span>{</span>
+            str <span>+=</span> <span>to_string</span><span>(</span>root<span>-></span>val<span>)</span> <span>+</span> <span>" "</span><span>;</span>
+            <span>rserialize</span><span>(</span>root<span>-></span>left<span>,</span> str<span>)</span><span>;</span>
+            <span>rserialize</span><span>(</span>root<span>-></span>right<span>,</span> str<span>)</span><span>;</span>
+        <span>}</span>
+    <span>}</span>
+
+    <span>// Encodes a tree to a single string.</span>
+    string <span>serialize</span><span>(</span>TreeNode<span>*</span> root<span>)</span> <span>{</span>
+        string ret<span>;</span>
+        <span>rserialize</span><span>(</span>root<span>,</span> ret<span>)</span><span>;</span>
+        <span>return</span> ret<span>;</span>
+    <span>}</span>
+
+    TreeNode<span>*</span> <span>rdeserialize</span><span>(</span>list<span>&lt;</span>string<span>></span><span>&amp;</span> dataArray<span>)</span><span>{</span>
+        <span>if</span><span>(</span>dataArray<span>.</span><span>front</span><span>(</span><span>)</span> <span>==</span> <span>"null"</span><span>)</span><span>{</span>
+            dataArray<span>.</span><span>erase</span><span>(</span>dataArray<span>.</span><span>begin</span><span>(</span><span>)</span><span>)</span><span>;</span>
+            <span>return</span> <span>NULL</span><span>;</span>
+        <span>}</span>
+
+        TreeNode<span>*</span> root <span>=</span> <span>new</span> <span>TreeNode</span><span>(</span><span>stoi</span><span>(</span>dataArray<span>.</span><span>front</span><span>(</span><span>)</span><span>)</span><span>)</span><span>;</span>
+        dataArray<span>.</span><span>erase</span><span>(</span>dataArray<span>.</span><span>begin</span><span>(</span><span>)</span><span>)</span><span>;</span>
+        root<span>-></span>left <span>=</span> <span>rdeserialize</span><span>(</span>dataArray<span>)</span><span>;</span>
+        root<span>-></span>right <span>=</span> <span>rdeserialize</span><span>(</span>dataArray<span>)</span><span>;</span>
+        <span>return</span> root<span>;</span>
+    <span>}</span>
+
+    <span>// Decodes your encoded data to tree.</span>
+    TreeNode<span>*</span> <span>deserialize</span><span>(</span>string data<span>)</span> <span>{</span>
+        list<span>&lt;</span>string<span>></span> dataArray<span>;</span>
+        string str<span>;</span>
+        stringstream <span>ss</span><span>(</span>data<span>)</span><span>;</span>
+        <span>while</span><span>(</span>ss <span>>></span> str<span>)</span><span>{</span>
+            dataArray<span>.</span><span>emplace_back</span><span>(</span>str<span>)</span><span>;</span>
+        <span>}</span>
+        <span>return</span> <span>rdeserialize</span><span>(</span>dataArray<span>)</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h2 id="方法二-层次遍历bfs"> 方法二：层次遍历BFS</h2>
+<h3 id="思路分析-2"> 思路分析</h3>
+<div><p>Tips</p>
+<p><strong>序列化</strong></p>
+<p>对树进行层次遍历，维护一个队列<code>q</code>，初始时让根节点入队，考察出队节点：</p>
+<ul>
+<li>如果出队节点为<code>null</code>，将符号<code>null</code>加入<code>encode</code></li>
+<li>如果出队节点为数值，将节点值加入<code>encode</code>，并将其左右子节点入队（子节点为NULL也要入队，它对应<code>null</code>，需要被记录）</li>
+</ul>
+<p>循环出队入队过程直到队列为空，遍历完所有节点，完成序列化。</p>
+<p><strong>反序列化</strong></p>
+<p>维护一个队列<code>q</code>，初始时用序列化字符串<code>encode</code>的第一个子串<code>encode[0]</code>创建根节点，并将根节点入队。</p>
+<ul>
+<li>
+<p>将队首元素<code>top</code>出队，然后利用<code>encode</code>串的接下来两个元素创建左右节点，并让<code>top</code>指向左右子节点</p>
+</li>
+<li>
+<p>如果子节点不为空，则将子节点继续入队</p>
+</li>
+</ul>
+<p>循环出队入队过程直到队列为空，遍历完<code>encode</code>串，完成反序列化。</p>
+</div>
+<h3 id="参考代码-2"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Codec</span> <span>{</span>
+<span>public</span><span>:</span>
+
+    <span>// Encodes a tree to a single string.</span>
+    string <span>serialize</span><span>(</span>TreeNode<span>*</span> root<span>)</span> <span>{</span>
+        string encode <span>=</span> <span>""</span><span>;</span>
+
+        queue<span>&lt;</span>TreeNode<span>*</span><span>></span> q<span>;</span>
+        <span>if</span><span>(</span>root <span>==</span> <span>NULL</span><span>)</span><span>{</span>
+            encode <span>=</span> <span>"null"</span><span>;</span>
+            <span>return</span> encode<span>;</span>
+        <span>}</span>
+        
+        q<span>.</span><span>push</span><span>(</span>root<span>)</span><span>;</span>
+        
+        <span>while</span><span>(</span><span>!</span>q<span>.</span><span>empty</span><span>(</span><span>)</span><span>)</span><span>{</span>
+            <span>auto</span> top <span>=</span> q<span>.</span><span>front</span><span>(</span><span>)</span><span>;</span>
+            q<span>.</span><span>pop</span><span>(</span><span>)</span><span>;</span>
+            <span>if</span><span>(</span>top <span>==</span> <span>NULL</span><span>)</span><span>{</span>
+                encode <span>+=</span> <span>" null"</span><span>;</span>
+                <span>continue</span><span>;</span>
+            <span>}</span>
+            <span>if</span><span>(</span>top <span>!=</span> root<span>)</span>
+                encode <span>+=</span> <span>" "</span><span>;</span>
+            encode <span>+=</span> <span>to_string</span><span>(</span>top<span>-></span>val<span>)</span><span>;</span>
+            q<span>.</span><span>push</span><span>(</span>top<span>-></span>left<span>)</span><span>;</span>
+            q<span>.</span><span>push</span><span>(</span>top<span>-></span>right<span>)</span><span>;</span>
+        <span>}</span>
+
+        <span>// cout &lt;&lt; "encode = " &lt;&lt; encode &lt;&lt; endl;</span>
+        <span>return</span> encode<span>;</span>       
+    <span>}</span>
+
+    <span>// Decodes your encoded data to tree.</span>
+    TreeNode<span>*</span> <span>deserialize</span><span>(</span>string data<span>)</span> <span>{</span>
+        stringstream <span>ss</span><span>(</span>data<span>)</span><span>;</span>
+        string str<span>;</span>
+        
+        ss <span>>></span> str<span>;</span>
+        <span>if</span><span>(</span>str <span>==</span> <span>"null"</span><span>)</span><span>{</span>
+            <span>return</span> <span>NULL</span><span>;</span>
+        <span>}</span>
+
+        <span>// cout &lt;&lt; "str = " &lt;&lt; str &lt;&lt; endl;</span>
+        TreeNode<span>*</span> root <span>=</span> <span>new</span> <span>TreeNode</span><span>(</span><span>stoi</span><span>(</span>str<span>)</span><span>)</span><span>;</span>
+        queue<span>&lt;</span>TreeNode<span>*</span><span>></span> q<span>;</span>
+        q<span>.</span><span>push</span><span>(</span>root<span>)</span><span>;</span>
+        <span>while</span><span>(</span><span>!</span>q<span>.</span><span>empty</span><span>(</span><span>)</span><span>)</span><span>{</span>
+            <span>auto</span> top <span>=</span> q<span>.</span><span>front</span><span>(</span><span>)</span><span>;</span>
+            q<span>.</span><span>pop</span><span>(</span><span>)</span><span>;</span>
+
+            TreeNode<span>*</span> root <span>=</span> top<span>;</span>
+            
+            ss <span>>></span> str<span>;</span>
+            TreeNode<span>*</span> left <span>=</span> <span>(</span>str <span>==</span> <span>"null"</span> <span>?</span> <span>NULL</span> <span>:</span> <span>new</span> <span>TreeNode</span><span>(</span><span>stoi</span><span>(</span>str<span>)</span><span>)</span><span>)</span><span>;</span>
+
+            ss <span>>></span> str<span>;</span>
+            TreeNode<span>*</span> right <span>=</span> <span>(</span>str <span>==</span> <span>"null"</span> <span>?</span> <span>NULL</span> <span>:</span> <span>new</span> <span>TreeNode</span><span>(</span><span>stoi</span><span>(</span>str<span>)</span><span>)</span><span>)</span><span>;</span>
+
+            root<span>-></span>left <span>=</span> left<span>,</span> root<span>-></span>right <span>=</span> right<span>;</span>
+
+            <span>if</span><span>(</span>root<span>-></span>left<span>)</span><span>{</span>
+                q<span>.</span><span>push</span><span>(</span>root<span>-></span>left<span>)</span><span>;</span>
+            <span>}</span>
+            <span>if</span><span>(</span>root<span>-></span>right<span>)</span><span>{</span>
+                q<span>.</span><span>push</span><span>(</span>root<span>-></span>right<span>)</span><span>;</span>
+            <span>}</span>
+        <span>}</span>
+
+        <span>return</span> root<span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h2 id="参考文献"> 参考文献</h2>
+<p><a href="https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/solution/er-cha-shu-de-xu-lie-hua-yu-fan-xu-lie-hua-by-le-2/" target="_blank" rel="noopener noreferrer">二叉树的序列化与反序列化 - 二叉树的序列化与反序列化 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+<p><a href="https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/solution/shou-hui-tu-jie-gei-chu-dfshe-bfsliang-chong-jie-f/" target="_blank" rel="noopener noreferrer">『手画图解』剖析DFS、BFS解法 | 二叉树的序列化与反序列化 - 二叉树的序列化与反序列化 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/297.png" type="image/png"/>
+    </item>
+    <item>
       <title>309.最佳买卖股票时机含冷冻期</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">309.最佳买卖股票时机含冷冻期</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_309-最佳买卖股票时机含冷冻期"> 309.最佳买卖股票时机含冷冻期</h1>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.png" alt="" loading="lazy"></p>
 <h2 id="方法一-动态规划"> 方法一：动态规划</h2>
@@ -1711,7 +2167,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">337.打家劫舍III</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_337-打家劫舍iii"> 337.打家劫舍III</h1>
 <p>https://leetcode-cn.com/problems/house-robber-iii/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.png" alt="" loading="lazy"></p>
@@ -1810,7 +2266,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">338.比特位计数</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_338-比特位计数"> 338.比特位计数</h1>
 <p>https://leetcode-cn.com/problems/counting-bits/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.png" alt="" loading="lazy"></p>
@@ -1857,7 +2313,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">416.分割等和子集</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_416-分割等和子集"> 416.分割等和子集</h1>
 <p>https://leetcode-cn.com/problems/partition-equal-subset-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.png" alt="" loading="lazy"></p>
@@ -2014,7 +2470,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.%E7%9B%AE%E6%A0%87%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.%E7%9B%AE%E6%A0%87%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">494.目标和</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_494-目标和"> 494.目标和</h1>
 <p>https://leetcode-cn.com/problems/target-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.png" alt="" loading="lazy"></p>
@@ -2125,7 +2581,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">64.最小路径和</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_64-最小路径和"> 64.最小路径和</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.png" alt="" loading="lazy"></p>
@@ -2257,7 +2713,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">647.回文子串</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_647-回文子串"> 647.回文子串</h1>
 <p>https://leetcode-cn.com/problems/palindromic-substrings/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.png" alt="" loading="lazy"></p>
@@ -2346,7 +2802,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">85.最大矩形</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_85-最大矩形"> 85.最大矩形</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.png" alt="" loading="lazy"></p>
@@ -2408,7 +2864,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">96.不同的二叉搜索树</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_96-不同的二叉搜索树"> 96.不同的二叉搜索树</h1>
 <p>https://leetcode-cn.com/problems/unique-binary-search-trees/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.png" alt="" loading="lazy"></p>
@@ -2456,7 +2912,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">LeetCode 热题 HOT 100</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="leetcode-热题-hot-100"> LeetCode 热题 HOT 100</h1>
 <table>
 <thead>
@@ -2479,6 +2935,12 @@ A custom details container
 </tr>
 <tr>
 <td><a href="./139.单词拆分.html">139.单词拆分</a></td>
+</tr>
+<tr>
+<td><a href="./146.LRU缓存.html">146.LRU缓存</a></td>
+</tr>
+<tr>
+<td><a href="./297.二叉树的序列化与反序列化.html">297.二叉树的序列化与反序列化</a></td>
 </tr>
 <tr>
 <td><a href="./309.最佳买卖股票时机含冷冻期.html">309.最佳买卖股票时机含冷冻期</a></td>
@@ -2531,7 +2993,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>sql-advanced!</p>
 ]]></content:encoded>
@@ -2544,7 +3006,7 @@ A custom details container
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -2569,7 +3031,7 @@ A custom details container
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/encrypt/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -2584,7 +3046,7 @@ A custom details container
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -3089,7 +3551,7 @@ $$
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -3112,7 +3574,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">项目主页</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -3123,7 +3585,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">自定义布局</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>Note</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -3148,7 +3610,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">博客主页</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -3159,7 +3621,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">幻灯片页</source>
-      <pubDate>Wed, 09 Mar 2022 14:22:11 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 02:41:12 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/logo.svg" type="image/svg+xml"/>
