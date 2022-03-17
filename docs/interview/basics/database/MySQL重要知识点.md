@@ -1,5 +1,7 @@
 # MySQL重要知识点
 
+## 重要知识点
+
 ### 一条 SQL 语句在 MySQL 中如何被执行的?
 
 ::: details answer
@@ -31,5 +33,74 @@ MySQL主要分为**Server层**和**存储引擎层**。
 
 ::: 
 
+### MySQL三大日志详解
 
+::: details
+
+MySQL日志主要包括错误日志、二进制日志、查询日志、慢查询日志、事务日志几大类
+
+其中比较重要的还属二进制日志`binlog`和事务日志`redo log`和回滚日志`undo log`
+
+`binlog`是逻辑日志，记录内容是语句的原始逻辑
+
+`binlog`日志有三种格式，可以通过`binlog_format`参数指定。
+
+- **statement**：记录的内容是`SQL`语句原文，对数据进行修改的SQL都会记录在日志文件中
+- **row**：基于行的日志记录，记录的是每一行的数据变更。（默认）
+- **mixed**：混合了STATEMENT和ROW两种格式，默认采用STATEMENT，在某些特殊情况下会自动切换为ROW进行记录。
+
+:::
+
+### MySQL binlog的三种格式及区别？
+
+::: details
+
+| 格式      | 文件大小 | 执行速度 | 数据一致性                                                   |
+| --------- | -------- | -------- | ------------------------------------------------------------ |
+| statement | 小       | 快       | 当SQL语句里面用到一些特定功能函数，比如用到日期函数时在主从复制时可能丢失数据 |
+| row       | 大       | 慢       | 不会引起不一致                                               |
+| mixed     | 折中     | 折中     | `MySQL`会判断这条`SQL`语句是否可能引起数据不一致，如果是，就用`row`格式，否则就用`statement`格式。 |
+
+:::
+
+### 主从复制
+
+::: details
+
+**主从复制**：是指将主数据库的`DDL`和`DML`操作通过二进制日志传到从库服务器中，然后在从库上对这些日志重新执行（也叫重做），从而建立一个和主数据库完全一样的数据库环境。
+
+**复制的优点**：
+
+- 主库出现问题，可以快速切换到从库提供服务
+- 实现读写分离，降低主库的访问压力
+- 可以在从库中执行备份，以避免备份期间影响主库服务
+
+:::
+
+### 主从复制的原理
+
+::: details
+
+![](https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/interview/basics/database/MySQL主从复制.png)
+
+1. 主库将数据库中数据的变化写入到`binlog`
+2. 从库连接主库
+3. 从库创建一个`I/O`线程向主库请求更新的`binlog`
+4. 主库会创建一个`binlog dump`线程来发送`binlog`，从库中的`I/O`线程负责接收
+5. 从库的I/O线程将接收的`binlog`写入到`relay log`中
+6. 从库的SQL线程读取`relay log`同步数据到本地（即重新执行一遍SQL）
+
+![](https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/interview/basics/database/MySQL主从复制2.png)
+
+从上图来看，复制分成三步： 
+
+1. Master 主库在事务提交时，会把数据变更记录在二进制日志文件 Binlog 中
+2. 从库读取主库的二进制日志文件 Binlog ，写入到从库的中继日志 Relay Log 
+3. slave重做中继日志中的事件，将改变反映它自己的数据。
+
+:::
+
+## 参考文献
+
+[MySQL binlog的三种格式及区别 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/65743530)
 
