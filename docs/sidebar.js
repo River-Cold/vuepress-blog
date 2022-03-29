@@ -53,7 +53,7 @@ module.exports = [
                         title: '数据库', 
                         prefix: 'database/',
                         path: 'database/',
-                        children: ["/", "数据库知识手册", "MySQL重要知识点"],
+                        children: ["/", "数据库基础知识", "MySQL重要知识点"],
                     },
                     {
                         title: '计算机网络', 
