@@ -5,7 +5,7 @@ module.exports = config({
   description: "Welcome to RiverCold's blog!",
   base: "/vuepress-blog/",
   // dest: "./dist",
-  dest : "./docs/.vuepress/dist",
+  dest: "./docs/.vuepress/dist",
 
   head: [
     [
@@ -27,11 +27,15 @@ module.exports = config({
 
   locales: {
     "/": {
-      lang: "en-US",
+      // 设置正在使用的语言
+      lang: "zh-CN",
+      title: "RiverCold",
+      description: "Welcome to RiverCold's blog!",
     },
-    "/zh/": {
-      title: "Theme Demo",
-      description: "vuepress-theme-hope 的 demo",
+    "/en/": {
+      lang: 'en-US',
+      title: "RiverCold",
+      description: "Welcome to RiverCold's blog!",
     },
   },
 
@@ -55,7 +59,7 @@ module.exports = config({
     },
 
     encrypt: {
-      config:{
+      config: {
         // 加密每个school目录
         "/school/junior-high-school/": ["wmxxcd"],
         "/school/high-school/": ["wmxxcd"],
@@ -76,22 +80,22 @@ module.exports = config({
 
     nav: require('./nav.js'),
     // [
-      // { text: "Blog Home", link: "/", icon: "home" },
-      // { text: "Project Home", link: "/home/", icon: "home" },
-      // {
-      //   text: "Guide",
-      //   icon: "creative",
-      //   link: "/guide/",
-      // },
-      // {
-      //   text: "Docs",
-      //   link: "https://vuepress-theme-hope.github.io/",
-      //   icon: "note",
-      // },
+    // { text: "Blog Home", link: "/", icon: "home" },
+    // { text: "Project Home", link: "/home/", icon: "home" },
+    // {
+    //   text: "Guide",
+    //   icon: "creative",
+    //   link: "/guide/",
+    // },
+    // {
+    //   text: "Docs",
+    //   link: "https://vuepress-theme-hope.github.io/",
+    //   icon: "note",
+    // },
     // ],
     searchPlaceholder: "Search...",
 
-    sidebar: require('./sidebar.js'),
+    // sidebar: require('./sidebar.js'),
     // sidebar: {
     //   "/": [
     //     "",
@@ -109,35 +113,37 @@ module.exports = config({
 
 
     locales: {
-      "/zh/": {
-        nav: [
-          { text: "博客主页", link: "/zh/", icon: "home" },
-          { text: "项目主页", link: "/zh/home/", icon: "home" },
-          {
-            text: "如何使用",
-            icon: "creative",
-            link: "/zh/guide/",
-          },
-          {
-            text: "主题文档",
-            icon: "note",
-            link: "https://vuepress-theme-hope.github.io/zh/",
-          },
-        ],
-        sidebar: {
-          "/zh/": [
-            "",
-            "home",
-            "slides",
-            "layout",
-            {
-              title: "如何使用",
-              icon: "creative",
-              prefix: "guide/",
-              children: ["", "page", "markdown", "disable", "encrypt"],
-            },
-          ],
-        },
+      "/en/": {
+        nav: require('./nav_en.js'),
+        // nav: [
+        //   { text: "博客主页", link: "/zh/", icon: "home" },
+        //   { text: "项目主页", link: "/zh/home/", icon: "home" },
+        //   {
+        //     text: "如何使用",
+        //     icon: "creative",
+        //     link: "/zh/guide/",
+        //   },
+        //   {
+        //     text: "主题文档",
+        //     icon: "note",
+        //     link: "https://vuepress-theme-hope.github.io/zh/",
+        //   },
+        // ],
+        // sidebar: require('./sidebar.js'),
+        // sidebar: {
+        //   "/zh/": [
+        //     "",
+        //     "home",
+        //     "slides",
+        //     "layout",
+        //     {
+        //       title: "如何使用",
+        //       icon: "creative",
+        //       prefix: "guide/",
+        //       children: ["", "page", "markdown", "disable", "encrypt"],
+        //     },
+        //   ],
+        // },
       },
     },
 

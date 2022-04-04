@@ -1,7 +1,6 @@
 module.exports = [
-    // { text: "Blog Home", link: "/", icon: "home" },
-    // { text: "Project Home", link: "/home/", icon: "home" },
-    // { text: '指南', link: '/guide/' },
+    { text: "博客主页", link: "/", icon: "home" },
+    { text: "项目主页", link: "/home/", icon: "home" },
     {
         text: '人生感悟',
         prefix: '/life/',
@@ -17,15 +16,22 @@ module.exports = [
             { text: '初中', link: 'junior-high-school/' },
             { text: '高中', link: 'high-school/' },
             { text: '大学', link: 'university/' },
+            {
+                text: '研究生',
+                prefix: 'master/',
+                items: [
+                    { "text": '论文', link: 'paper/' }
+                ]
+            },
         ],
     },
     {
         text: '面试指南',
         prefix: '/interview/',
         items: [
-            {   
+            {
                 text: '八股文',
-                prefix: 'basics/', 
+                prefix: 'basics/',
                 items: [
                     { text: '计算机网络', link: 'network/' },
                     { text: '数据库', link: 'database/' },
@@ -63,6 +69,13 @@ module.exports = [
                     { text: 'SQL进阶挑战', link: 'sql-advanced/' },
                 ]
             },
+        ]
+    },
+    {
+        text: '软件教程',
+        prefix: '/software/',
+        items: [
+            { text: '编程软件', link: 'programming/' },
         ]
     },
 ]

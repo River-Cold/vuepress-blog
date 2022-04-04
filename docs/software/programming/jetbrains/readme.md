@@ -1,0 +1,2 @@
+- [idea插件](idea插件.md)
+- [idea设置](idea设置.md)

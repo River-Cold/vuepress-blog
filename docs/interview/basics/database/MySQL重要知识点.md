@@ -6,7 +6,7 @@
 
 ::: details answer
 
-![](https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/interview/basics/database/MySQL基础架构.png)
+![](https://cdn.jsdelivr.net/gh/River-Cold/vuepress-theme-hope-image/img/MySQL基础架构.png)
 
 MySQL主要分为**Server层**和**存储引擎层**。
 
@@ -55,10 +55,10 @@ MySQL日志主要包括错误日志、二进制日志、查询日志、慢查询
 
 ::: details answer
 
-| 格式      | 文件大小 | 执行速度 | 数据一致性                                                   |
-| --------- | -------- | -------- | ------------------------------------------------------------ |
-| statement | 小       | 快       | 当SQL语句里面用到一些特定功能函数，比如用到日期函数时在主从复制时可能丢失数据 |
-| row       | 大       | 慢       | 不会引起不一致                                               |
+| 格式      | 文件大小 | 执行速度 | 数据一致性                                                                                         |
+| --------- | -------- | -------- | -------------------------------------------------------------------------------------------------- |
+| statement | 小       | 快       | 当SQL语句里面用到一些特定功能函数，比如用到日期函数时在主从复制时可能丢失数据                      |
+| row       | 大       | 慢       | 不会引起不一致                                                                                     |
 | mixed     | 折中     | 折中     | `MySQL`会判断这条`SQL`语句是否可能引起数据不一致，如果是，就用`row`格式，否则就用`statement`格式。 |
 
 :::
@@ -81,7 +81,7 @@ MySQL日志主要包括错误日志、二进制日志、查询日志、慢查询
 
 ::: details answer
 
-![](https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/interview/basics/database/MySQL主从复制.png)
+![](https://cdn.jsdelivr.net/gh/River-Cold/vuepress-theme-hope-image/img/MySQL主从复制.png)
 
 1. 主库将数据库中数据的变化写入到`binlog`
 2. 从库连接主库
@@ -90,7 +90,7 @@ MySQL日志主要包括错误日志、二进制日志、查询日志、慢查询
 5. 从库的I/O线程将接收的`binlog`写入到`relay log`中
 6. 从库的SQL线程读取`relay log`同步数据到本地（即重新执行一遍SQL）
 
-![](https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/interview/basics/database/MySQL主从复制2.png)
+![](https://cdn.jsdelivr.net/gh/River-Cold/vuepress-theme-hope-image/img/MySQL主从复制2.png)
 
 从上图来看，复制分成三步： 
 
