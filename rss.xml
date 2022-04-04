@@ -6,8 +6,8 @@
     <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</link>
     <description>Welcome to RiverCold's blog!</description>
     <language>en-US</language>
-    <pubDate>Wed, 23 Mar 2022 08:14:39 GMT</pubDate>
-    <lastBuildDate>Wed, 23 Mar 2022 08:14:39 GMT</lastBuildDate>
+    <pubDate>Mon, 04 Apr 2022 14:22:10 GMT</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2022 14:22:10 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -17,7 +17,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/C++/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>C++!</p>
 ]]></content:encoded>
@@ -27,7 +27,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Java/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Java!</p>
 ]]></content:encoded>
@@ -37,7 +37,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/Python/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Python!</p>
 ]]></content:encoded>
@@ -47,7 +47,7 @@
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/code/SQL/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>SQL!</p>
 ]]></content:encoded>
@@ -60,7 +60,7 @@
       <description>&amp;lt;p&amp;gt;You can disable some functions on the page by setting the Frontmatter of the page.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can disable some functions on the page by setting the Frontmatter of the page.</p>
 
 <p>These should be disabled on this page:</p>
@@ -85,7 +85,7 @@
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/encrypt/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Encryption article</source>
       <category>Guide</category>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="encryption-article"> Encryption article</h1>
 <p>The actual article content.</p>
 <p>Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text.</p>
@@ -100,7 +100,7 @@
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; enables more syntax in Markdown via the built-in &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt; plugin.&amp;lt;/p&amp;gt;
 </description>
       <category>Guide</category>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> enables more syntax in Markdown via the built-in <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> plugin.</p>
 
 <h2 id="enable-all"> Enable all</h2>
@@ -605,7 +605,7 @@ A custom details container
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/guide/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Guides</source>
       <category>Guide</category>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="guides"> Guides</h1>
 <ul>
 <li>
@@ -628,10 +628,78 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Project home</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p>This is an example of a normal homepage. You can place your main content here.</p>
 <p>To use this layout, you need to set <code>home: true</code> in the page front matter.</p>
 <p>For related descriptions of configuration items, please see <a href="https://vuepress-theme-hope.github.io/guide/layout/home/" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>MySQL知识点&amp;面试题总结</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/MySQL%E7%9F%A5%E8%AF%86%E7%82%B9&amp;%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/MySQL%E7%9F%A5%E8%AF%86%E7%82%B9&amp;%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">MySQL知识点&amp;面试题总结</source>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="mysql知识点-面试题总结"> MySQL知识点&amp;面试题总结</h1>
+<h2 id="关系型数据库介绍"> 关系型数据库介绍</h2>
+<h3 id="什么是关系型数据库-有哪些常见的关系型数据库"> 什么是关系型数据库？有哪些常见的关系型数据库？</h3>
+<details><summary>answer</summary>
+<p>关系型数据库就是一种建立在关系模型的基础上的数据库。关系模型表明了数据库中所存储的数据之间的联系（一对一、一对多、多对多）。</p>
+<p>关系模型是指用二维表的形式表示实体和实体间联系的数据模型。常见的关系型数据库包括MySQL、Oracle、SQL Server、SQLite</p>
+</details>
+<h2 id="mysql介绍"> MySQL介绍</h2>
+<h3 id="mysql是什么"> MySQL是什么？</h3>
+<details><summary>answer</summary>
+<p>MySQL是一种关系型数据库管理系统（RDBMS），主要用于持久化存储我们的系统中的一些数据。</p>
+</details>
+<h2 id="存储引擎"> 存储引擎</h2>
+<h3 id="存储引擎相关的命令"> 存储引擎相关的命令？</h3>
+<details><summary>answer</summary>
+<p>查看MySQL提供的所有存储引擎</p>
+<div><pre><code>show engines;
+</code></pre>
+<div><span>1</span><br></div></div><p>MySQL默认的存储引擎是InnoDB，且只有InnoDB支持事务</p>
+<p>查看MySQL当前默认的存储引擎</p>
+<div><pre><code>show variables like &#39;%storage_engine%&#39;;
+</code></pre>
+<div><span>1</span><br></div></div><p>查看表的存储引擎</p>
+<div><pre><code>show table status like &#39;table_name&#39;;
+</code></pre>
+<div><span>1</span><br></div></div></details>
+<h3 id="myisam-和-innodb-的区别"> MyISAM 和 InnoDB 的区别?</h3>
+<details><summary>answer</summary>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>InnoDB</th>
+<th>MyISAM</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>是否支持行级锁、表级锁</td>
+<td>既支持表级锁又支持行级锁</td>
+<td>支持表级锁，不支持行级锁</td>
+</tr>
+<tr>
+<td>是否支持事务</td>
+<td>支持事务</td>
+<td>不支持事务</td>
+</tr>
+<tr>
+<td>是否支持外键</td>
+<td>支持外键</td>
+<td>不支持外键</td>
+</tr>
+<tr>
+<td>是否支持数据库异常崩溃后的安全恢复</td>
+<td>支持安全恢复</td>
+<td>不支持安全恢复</td>
+</tr>
+</tbody>
+</table>
+</details>
 ]]></content:encoded>
     </item>
     <item>
@@ -639,7 +707,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/MySQL%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/MySQL%E9%87%8D%E8%A6%81%E7%9F%A5%E8%AF%86%E7%82%B9/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">MySQL重要知识点</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="mysql重要知识点"> MySQL重要知识点</h1>
 <h2 id="重要知识点"> 重要知识点</h2>
 <h3 id="一条-sql-语句在-mysql-中如何被执行的"> 一条 SQL 语句在 MySQL 中如何被执行的?</h3>
@@ -810,33 +878,33 @@ A custom details container
       <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/interview/basics/database/MySQL基础架构.png" type="image/png"/>
     </item>
     <item>
-      <title>计算机网络</title>
+      <title>数据库</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/</guid>
-      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">数据库</source>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="数据库"> 数据库</h1>
 <ul>
-<li><a href="./数据库知识手册.html">数据库知识手册</a></li>
+<li><a href="./数据库基础知识.html">数据库基础知识</a></li>
 <li><a href="./MySQL重要知识点.html">MySQL重要知识点</a></li>
+<li><a href="./MySQL知识点&amp;面试题总结.html">MySQL知识点&amp;面试题总结</a></li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
       <title>数据库知识手册</title>
-      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</link>
-      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9F%A5%E8%AF%86%E6%89%8B%E5%86%8C/</guid>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/database/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">数据库知识手册</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="数据库知识手册"> 数据库知识手册</h1>
 <h2 id="数据库基础概念"> 数据库基础概念</h2>
-<h3 id="什么是数据库"> 什么是数据库？</h3>
+<h3 id="什么是数据库-数据库管理系统-数据库系统-数据库管理员"> 什么是数据库？数据库管理系统？数据库系统？数据库管理员？</h3>
 <details><summary>answer</summary>
-<p>数据库（Database）是保存有组织的数据的容器（通常是一个文件或一组文件），是通过数据库管理系统（DataBase-Management System，DBMS）创建和操纵的容器。</p>
-</details>
-<h3 id="什么是数据库管理系统"> 什么是数据库管理系统？</h3>
-<details><summary>answer</summary>
-<p>一种操纵和管理数据库的大型软件，简称DBMS</p>
+<p><strong>数据库</strong>：数据库（Database）是保存有组织的数据的容器（通常是一个文件或一组文件），是通过数据库管理系统（DataBase-Management System，DBMS）创建和操纵的容器。</p>
+<p><strong>数据库管理系统</strong>：一种操纵和管理数据库的大型软件，（DataBase Management System，简称DBMS）。</p>
+<p><strong>数据库系统</strong>：数据库系统（DataBase System，简称DBS）通常由软件、数据库（DataBase）和数据库管理员（DBA）组成。其软件主要包括操作系统、宿主语言、实用程序以及数据库管理系统。</p>
+<p><strong>数据库管理员</strong>：数据库管理员（Database Administrator，简称DBA）负责全面管理和控制数据库系统。</p>
 </details>
 <h3 id="为什么要使用数据库"> 为什么要使用数据库？</h3>
 <details><summary>answer</summary>
@@ -856,9 +924,51 @@ A custom details container
 <p>数据库范式是设计数据库时，需要遵循的一些规范。越高的范式数据库冗余越小。常用的数据库三大范式为：</p>
 <ul>
 <li>**第一范式（1NF）：**每个列都不可以再拆分，强调列的原子性。第一范式要求数据库中的表都是二维表。</li>
-<li><strong>第二范式（2NF）：<strong>在第一范式的基础上，一个表必须有一个主键，非主键列</strong>完全依赖</strong>于主键，而不能是依赖于主键的一部分。</li>
-<li>**第三范式（3NF）：**在第二范式的基础上，非主键列只依赖于（直接依赖）于主键，不依赖于其他非主键。</li>
+<li>**第二范式（2NF）：**在第一范式的基础上，一个表必须有一个主键，非主键列（非主属性）<strong>完全依赖</strong>于主键，而不能是依赖于主键的一部分。</li>
+<li>**第三范式（3NF）：**在第二范式的基础上，非主键列（非主属性）只依赖于（直接依赖）于主键，不依赖于其他非主键。</li>
 </ul>
+<p><strong>函数依赖（functional dependency）</strong>：在一张表中，在属性（或属性组）X的值确定的情况下，必定能确定属性Y的值，那么就可以说Y函数依赖于X，写作X-&gt;Y。</p>
+<p><strong>部分函数依赖（partial functional dependency）</strong>：如果X-&gt;Y，并且存在X的一个真子集X0，使得X0-&gt;Y，则称Y对X部分函数依赖。</p>
+<p><strong>完全函数依赖（fully functional dependency）</strong>：在一个关系中，若某个非主属性数据项依赖于全部关键字则称为完全函数依赖。</p>
+<p><strong>传递函数依赖（transitive functional dependency）</strong>：在关系模式R (U) 中, 如果X→Y, Y→Z, Z不是Y的子集, Y不函数决定X, 则称Z对X传递函数依赖 (Transitive Functional Dependency) 。</p>
+<p><strong>总结</strong></p>
+<ul>
+<li>1NF：属性不可再分</li>
+<li>2NF：1NF的基础之上，消除了非主属性对于码的部分函数依赖</li>
+<li>3NF：2NF的基础之上，消除了非主属性对于码的传递函数依赖</li>
+</ul>
+</details>
+<h3 id="什么是er图"> 什么是ER图？</h3>
+<details><summary>answer</summary>
+<p><strong>E-R图</strong> 也称为实体-联系图（Entity Relationship Diagram），提供了表示实体类型、属性和联系的方法，用来描述现实世界的概念模型。</p>
+<p><strong>矩形框</strong>：表示实体</p>
+<p><strong>菱形框</strong>：表示联系</p>
+<p><strong>椭圆形框</strong>：表示实体或联系的属性</p>
+<p>下图是一个学生选课的 ER 图，每个学生可以选若干门课程，同一门课程也可以被若干人选择，所以它们之间的关系是多对多（M: N）。另外，还有其他两种关系是：1 对 1（1:1）、1 对多（1: N）。</p>
+<p><img src="https://img-blog.csdnimg.cn/img_convert/4717673e36966e0e4b33fccfd753f6ea.png" alt="ER图示例" loading="lazy"></p>
+</details>
+<h3 id="数据库设计通常分为哪几步"> 数据库设计通常分为哪几步？</h3>
+<details><summary>answer</summary>
+<ol>
+<li>
+<p><strong>需求分析</strong>：分析用户需求，包括数据、功能和性能需求</p>
+</li>
+<li>
+<p><strong>概念结构设计</strong>：主要采用E-R模型进行设计，包括画E-R图</p>
+</li>
+<li>
+<p><strong>逻辑结构设计</strong>：通过将E-R图转换成表，实现从E-R模型到关系模型的转换</p>
+</li>
+<li>
+<p><strong>物理结构设计</strong>：为所设计的数据库选择合适的存储结构和存取路径</p>
+</li>
+<li>
+<p><strong>数据库实施</strong>：包括编程、测试和试运行</p>
+</li>
+<li>
+<p><strong>数据库的运行和维护</strong>：系统的运行与数据库的日常维护</p>
+</li>
+</ol>
 </details>
 <h2 id="索引"> 索引</h2>
 <h3 id="索引的优缺点"> 索引的优缺点</h3>
@@ -1090,12 +1200,21 @@ A custom details container
 <li>数据控制语言DCL（Data Control Language）：例如<code>GRANT</code>、<code>REVOKE</code>、<code>COMMIT</code>、<code>ROLLBACK</code>等，对数据库安全性、完整性等有操作的，可以简单的理解为权限控制等。</li>
 </ol>
 </details>
-<h3 id="什么是超键-什么是主键"> 什么是超键？什么是主键？</h3>
+<h3 id="什么是元组-键-超键-候选键-主键-外键-主属性-非主属性"> 什么是元组？键？超键？候选键？主键？外键？主属性？非主属性？</h3>
 <details><summary>answer</summary>
+<p><strong>元组</strong>：元组（tuple）是关系数据库中的基本概念，关系是一张表，表中的每行（即数据库中的每条记录）就是一个元组。在二维表中，元组也称为行。</p>
+<p><strong>键</strong>：能唯一标识元组的属性，对应表中的列</p>
 <p>**超键：**在关系中，能唯一标识元组的属性集称为关系模式的超键。一个属性可以作为一个超键，多个属性组合在一起也可以作为一个超键。超键包含候选键和主键。</p>
 <p>**候选键：**是最小超键，即没有冗余元素的超键。</p>
-<p>**主键：**主关键字（主键，Primary key）是中被挑选出来的候选键，作为表的行的唯一标识。一个数据列只能有一个主键，且主键的取值不能缺失，即不能为空值（NULL）。</p>
-<p>**外键：**在一个表中存在的另一个表的主键称为此表的外键，外键可以有重复的，可以是空值。外键是用来和其他表建立联系用的。</p>
+<p>**主键：**主关键字（主键，Primary key）是中被挑选出来的候选键，作为表的行的唯一标识。主键不能有重复，不能为空（NULL）。</p>
+<p>**外键：**在一个表（关系）中存在的另一个表（关系）的主键称为此表的外键，外键可以有重复的，可以是空值。外键是用来和其他表建立联系用的。</p>
+<p><strong>主属性</strong>：候选键中出现过的属性称为主属性。</p>
+<p><strong>非主属性</strong>：不包含在任何一个候选键中的属性称为非主属性。</p>
+</details>
+<h3 id="主键和外键有什么区别"> 主键和外键有什么区别？</h3>
+<details><summary>answer</summary>
+<p><strong>主键</strong>：主键用于唯一标识一个元组，不能有重复，不允许为空。一个表只能有一个主键。</p>
+<p><strong>外键</strong>：外键用于和其他表建立联系用，外键是另一表的主键，外键是可以有重复的，可以是空值。一个表可以有多个外键。</p>
 </details>
 <h3 id="char和varchar的区别"> char和varchar的区别？</h3>
 <details><summary>answer</summary>
@@ -1184,10 +1303,16 @@ A custom details container
 <p>子查询是一个<code>SELECT</code>语句，它嵌套在另一个<code>SELECT</code>、<code>SELECT...INTO</code>、<code>INSERT...INTO</code>、<code>DELETE</code>、<code>UPDATE</code>语句或嵌套在另一子查询中。</p>
 </details>
 <h3 id="drop、delete与truncate的区别"> DROP、DELETE与TRUNCATE的区别？</h3>
+<blockquote>
+<p>用法不同、属于不同的数据库语言、执行速度不同</p>
+</blockquote>
 <details><summary>answer</summary>
-<p><code>DROP</code>删除整张表，不保留表的结构，不能回滚，删除速度快</p>
-<p><code>TRUNCATE</code>保留表的结构但删除表的所有数据，不能回滚，删除速度快</p>
-<p><code>DELETE</code>删除表的部分数据行，可以回滚，删除速度慢</p>
+<p>drop（丢弃数据）</p>
+<p>属于DDL语言，<code>drop table 表名</code>删除整张表，不保留表的结构（定义），不能回滚，删除速度快。</p>
+<p>truncate（清空数据）</p>
+<p>属于DDL语言，<code>truncate table 表名</code>保留表的结构（定义）但删除表的所有数据，不能回滚，删除速度快</p>
+<p>delete（删除数据）</p>
+<p>属于DML语言，<code>delete from 表名 where 列名=值</code>删除表的部分数据行，如果不加<code>where</code>子句和<code>truncate table 表名</code>作用类似，可以回滚，删除速度慢</p>
 </details>
 <h3 id="union和union-all的区别"> UNION和UNION ALL的区别？</h3>
 <details><summary>answer</summary>
@@ -1198,14 +1323,14 @@ A custom details container
 <p><a href="https://baike.baidu.com/item/%E7%BA%A7%E8%81%94%E6%9B%B4%E6%96%B0/11036500?fr=aladdin." target="_blank" rel="noopener noreferrer">级联更新_百度百科 (baidu.com)</a></p>
 <p><a href="https://baike.baidu.com/item/%E6%A3%80%E6%9F%A5%E7%BA%A6%E6%9D%9F/10272981?fr=aladdin" target="_blank" rel="noopener noreferrer">检查约束_百度百科 (baidu.com)</a></p>
 ]]></content:encoded>
-      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/interview/basics/databaseB-树.png" type="image/png"/>
+      <enclosure url="https://img-blog.csdnimg.cn/img_convert/4717673e36966e0e4b33fccfd753f6ea.png" type="image/png"/>
     </item>
     <item>
       <title>计算机网络</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络"> 计算机网络</h1>
 <ul>
 <li><a href="./计算机网络面试突击.html">计算机网络面试突击</a></li>
@@ -1217,7 +1342,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/interview/basics/network/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E9%9D%A2%E8%AF%95%E7%AA%81%E5%87%BB/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">计算机网络面试突击</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="计算机网络面试突击"> 计算机网络面试突击</h1>
 <h2 id="第三部分-传输层"> 第三部分：传输层</h2>
 <h3 id="三次握手和四次挥手机制"> 三次握手和四次挥手机制</h3>
@@ -1330,7 +1455,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/intro/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Intro Page</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -1340,7 +1465,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/layout/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Custom Layout</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>Note</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -1365,7 +1490,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Annual-Summary/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content:encoded>
     </item>
@@ -1374,7 +1499,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/life/Travel-Records/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 ]]></content:encoded>
     </item>
@@ -1383,7 +1508,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Blog Home</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
@@ -1392,7 +1517,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/high-school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello High-School!</p>
 ]]></content:encoded>
@@ -1402,7 +1527,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/junior-high-school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello Junior-High-School!</p>
 ]]></content:encoded>
@@ -1412,7 +1537,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme in school</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme-in-school"> readme in school</h1>
 ]]></content:encoded>
     </item>
@@ -1421,7 +1546,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/school/university/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">readme</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="readme"> readme</h1>
 <p>Hello University!</p>
 ]]></content:encoded>
@@ -1431,7 +1556,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">Slide page</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/logo.svg" type="image/svg+xml"/>
@@ -1441,7 +1566,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">剑指offer</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="剑指offer"> 剑指offer</h1>
 <ul>
 <li><a href="./二维数组中的查找.html">二维数组中的查找</a></li>
@@ -1453,7 +1578,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/CodingInterview/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">二维数组中的查找</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="二维数组中的查找"> <a href="https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&amp;&amp;tqId=11154&amp;rp=1&amp;ru=/ta/coding-interviews&amp;qru=/ta/coding-interviews/question-ranking" target="_blank" rel="noopener noreferrer">二维数组中的查找</a></h1>
 <h2 id="题目描述"> 题目描述</h2>
 <p>在一个二维数组中（每个一维数组的长度相同），每一行都按照从左到右递增的顺序排序，每一列都按照从上到下递增的顺序排序。请完成一个函数，输入这样的一个二维数组和一个整数，判断数组中是否含有该整数。</p>
@@ -1549,7 +1674,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/Cracking-the-Coding-Interview/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>Cracking-the-Coding-Interview!</p>
 ]]></content:encoded>
@@ -1559,7 +1684,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.两数之和</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-两数之和"> <a href="https://leetcode-cn.com/problems/two-sum/" target="_blank" rel="noopener noreferrer">1.两数之和</a></h1>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/1.png" alt="" loading="lazy"></p>
 <h2 id="方法一-哈希表"> 方法一：哈希表</h2>
@@ -1620,7 +1745,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">121.买卖股票的最佳时机</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_121-买卖股票的最佳时机"> 121.买卖股票的最佳时机</h1>
 <p>https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/121.png" alt="" loading="lazy"></p>
@@ -1686,7 +1811,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">139.单词拆分</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_139-单词拆分"> 139.单词拆分</h1>
 <p>https://leetcode-cn.com/problems/word-break/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/139.png" alt="" loading="lazy"></p>
@@ -1811,7 +1936,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/146.LRU%E7%BC%93%E5%AD%98/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/146.LRU%E7%BC%93%E5%AD%98/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">146.LRU缓存</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_146-lru缓存"> 146.LRU缓存</h1>
 <p>https://leetcode-cn.com/problems/lru-cache/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/146.png" alt="" loading="lazy"></p>
@@ -2035,7 +2160,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/148.%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/148.%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">647.回文子串</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_647-回文子串"> 647.回文子串</h1>
 <p>https://leetcode-cn.com/problems/sort-list/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/solution/leetcode/LeetCode-hot-topic-HOT-100/148.png" alt="" loading="lazy"></p>
@@ -2179,7 +2304,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">206.反转链表</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_206-反转链表"> 206.反转链表</h1>
 <p>https://leetcode-cn.com/problems/reverse-linked-list/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/solution/leetcode/LeetCode-hot-topic-HOT-100/206.png" alt="" loading="lazy"></p>
@@ -2226,6 +2351,7 @@ A custom details container
 <li>返回<code>pre</code>即为反转链表的头结点</li>
 </ul>
 </div>
+<CodeGroupItem title="c++">
 <div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
 <span>public</span><span>:</span>
     ListNode<span>*</span> <span>reverseList</span><span>(</span>ListNode<span>*</span> head<span>)</span> <span>{</span>
@@ -2243,7 +2369,7 @@ A custom details container
     <span>}</span>
 <span>}</span><span>;</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div><p>:::</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></CodeGroupItem>
 <p>::::</p>
 <h2 id="参考文献"> 参考文献</h2>
 <p><a href="https://leetcode-cn.com/problems/reverse-linked-list/solution/yi-bu-yi-bu-jiao-ni-ru-he-yong-di-gui-si-67c3/" target="_blank" rel="noopener noreferrer">一步一步教你如何用递归思想反转链表 - 反转链表 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
@@ -2252,11 +2378,66 @@ A custom details container
       <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/solution/leetcode/LeetCode-hot-topic-HOT-100/206.png" type="image/png"/>
     </item>
     <item>
+      <title>236.二叉树的最近公共祖先</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/236.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">236.二叉树的最近公共祖先</source>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_236-二叉树的最近公共祖先"> 236.二叉树的最近公共祖先</h1>
+<p>https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/solution/leetcode/LeetCode-hot-topic-HOT-100/236.png" alt="" loading="lazy"></p>
+<h2 id="方法一-递归"> 方法一：递归</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<p>定义子问题：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8889em;vertical-align:-0.1944em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span> 表示左右子树分别包含<code>p,q</code></p>
+<p>定义 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8889em;vertical-align:-0.1944em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.1514em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> 表示 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>x</span></span></span></span> 节点的子树中是否包含 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.1944em;"></span><span>p</span></span></span></span> 节点或 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.1944em;"></span><span style="margin-right:0.03588em;">q</span></span></span></span> 节点，如果包含为 <code>true</code>，否则为<code>false</code>。</p>
+<p>符合条件的最近公共祖先 <code>x</code> 一定满足条件：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.3361em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.01968em;">l</span><span>so</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>&amp;&amp;</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.1514em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>rso</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span><span>∣∣</span><span>(</span><span>x</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>p</span><span>∣∣</span><span>x</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">q</span><span>)</span><span>&amp;&amp;</span><span>(</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.3361em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.01968em;">l</span><span>so</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣∣</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.1514em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>rso</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span></span></span></span></span></p>
+<p>其中 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.6944em;"></span><span style="margin-right:0.01968em;">l</span><span>so</span><span>n</span></span></span></span> 和 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>rso</span><span>n</span></span></span></span> 分别代表 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>x</span></span></span></span> 节点的左孩子和右孩子。</p>
+<ul>
+<li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.3361em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.01968em;">l</span><span>so</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>&amp;&amp;</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.1514em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>rso</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span></span></span></span> 说明左子树和右子树均包含 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.1944em;"></span><span>p</span></span></span></span> 节点或 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.1944em;"></span><span style="margin-right:0.03588em;">q</span></span></span></span> 节点</li>
+<li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>x</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>p</span><span>∣∣</span><span>x</span><span style="margin-right:0.2778em;"></span><span>==</span><span style="margin-right:0.2778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">q</span><span>)</span><span>&amp;&amp;</span><span>(</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.3361em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.01968em;">l</span><span>so</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣∣</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.1514em;"><span style="top:-2.55em;margin-left:-0.1076em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>rso</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span></span></span></span>说明 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.4306em;"></span><span>x</span></span></span></span> 恰好是 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.1944em;"></span><span>p</span></span></span></span> 节点或 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.1944em;"></span><span style="margin-right:0.03588em;">q</span></span></span></span> 节点且它的左子树或右子树有一个包含了另一个节点的情况</li>
+</ul>
+</div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    TreeNode<span>*</span> ans<span>;</span>
+    <span>bool</span> <span>dfs</span><span>(</span>TreeNode<span>*</span> root<span>,</span> TreeNode<span>*</span> p<span>,</span> TreeNode<span>*</span> q<span>)</span><span>{</span>
+        <span>if</span><span>(</span>root <span>==</span> <span>nullptr</span><span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>bool</span> flson <span>=</span> <span>dfs</span><span>(</span>root<span>-></span>left<span>,</span> p<span>,</span> q<span>)</span><span>;</span>
+        <span>bool</span> frson <span>=</span> <span>dfs</span><span>(</span>root<span>-></span>right<span>,</span> p<span>,</span> q<span>)</span><span>;</span>
+        <span>if</span><span>(</span><span>(</span>flson <span>&amp;&amp;</span> frson<span>)</span> <span>||</span> <span>(</span>root<span>-></span>val <span>==</span> p<span>-></span>val <span>||</span> root<span>-></span>val <span>==</span> q<span>-></span>val<span>)</span> <span>&amp;&amp;</span> <span>(</span>flson <span>||</span> frson<span>)</span><span>)</span><span>{</span>
+            ans <span>=</span> root<span>;</span>
+        <span>}</span>
+        <span>return</span> root<span>-></span>val <span>==</span> p<span>-></span>val <span>||</span> root<span>-></span>val <span>==</span> q<span>-></span>val <span>||</span> flson <span>||</span> frson<span>;</span>
+    <span>}</span>
+    TreeNode<span>*</span> <span>lowestCommonAncestor</span><span>(</span>TreeNode<span>*</span> root<span>,</span> TreeNode<span>*</span> p<span>,</span> TreeNode<span>*</span> q<span>)</span> <span>{</span>
+        <span>if</span><span>(</span>root <span>==</span> <span>nullptr</span><span>)</span><span>{</span>
+            <span>return</span> <span>nullptr</span><span>;</span>
+        <span>}</span>
+        <span>dfs</span><span>(</span>root<span>,</span> p<span>,</span> q<span>)</span><span>;</span>
+        <span>return</span> ans<span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h2 id="参考文献"> 参考文献</h2>
+<p><a href="https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/er-cha-shu-de-zui-jin-gong-gong-zu-xian-by-leetc-2/" target="_blank" rel="noopener noreferrer">二叉树的最近公共祖先 - 二叉树的最近公共祖先 - 力扣（LeetCode） (leetcode-cn.com)</a></p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/solution/leetcode/LeetCode-hot-topic-HOT-100/236.png" type="image/png"/>
+    </item>
+    <item>
       <title>297.二叉树的序列化与反序列化</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/297.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/297.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%8F%E5%88%97%E5%8C%96%E4%B8%8E%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">297.二叉树的序列化与反序列化</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_297-二叉树的序列化与反序列化"> 297.二叉树的序列化与反序列化</h1>
 <p>https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/297.png" alt="" loading="lazy"></p>
@@ -2439,7 +2620,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">309.最佳买卖股票时机含冷冻期</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_309-最佳买卖股票时机含冷冻期"> 309.最佳买卖股票时机含冷冻期</h1>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/309.png" alt="" loading="lazy"></p>
 <h2 id="方法一-动态规划"> 方法一：动态规划</h2>
@@ -2515,7 +2696,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8DIII/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">337.打家劫舍III</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_337-打家劫舍iii"> 337.打家劫舍III</h1>
 <p>https://leetcode-cn.com/problems/house-robber-iii/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/337.png" alt="" loading="lazy"></p>
@@ -2614,7 +2795,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.%E6%AF%94%E7%89%B9%E4%BD%8D%E8%AE%A1%E6%95%B0/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">338.比特位计数</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_338-比特位计数"> 338.比特位计数</h1>
 <p>https://leetcode-cn.com/problems/counting-bits/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/338.png" alt="" loading="lazy"></p>
@@ -2661,7 +2842,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.%E5%88%86%E5%89%B2%E7%AD%89%E5%92%8C%E5%AD%90%E9%9B%86/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">416.分割等和子集</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_416-分割等和子集"> 416.分割等和子集</h1>
 <p>https://leetcode-cn.com/problems/partition-equal-subset-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/416.png" alt="" loading="lazy"></p>
@@ -2818,7 +2999,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.%E7%9B%AE%E6%A0%87%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.%E7%9B%AE%E6%A0%87%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">494.目标和</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_494-目标和"> 494.目标和</h1>
 <p>https://leetcode-cn.com/problems/target-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/494.png" alt="" loading="lazy"></p>
@@ -2929,7 +3110,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">64.最小路径和</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_64-最小路径和"> 64.最小路径和</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/64.png" alt="" loading="lazy"></p>
@@ -3061,7 +3242,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">647.回文子串</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_647-回文子串"> 647.回文子串</h1>
 <p>https://leetcode-cn.com/problems/palindromic-substrings/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/647.png" alt="" loading="lazy"></p>
@@ -3150,7 +3331,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">85.最大矩形</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_85-最大矩形"> 85.最大矩形</h1>
 <p>https://leetcode-cn.com/problems/minimum-path-sum/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/85.png" alt="" loading="lazy"></p>
@@ -3212,7 +3393,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">96.不同的二叉搜索树</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_96-不同的二叉搜索树"> 96.不同的二叉搜索树</h1>
 <p>https://leetcode-cn.com/problems/unique-binary-search-trees/</p>
 <p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.png" alt="" loading="lazy"></p>
@@ -3256,11 +3437,64 @@ A custom details container
       <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/96.png" type="image/png"/>
     </item>
     <item>
+      <title>98.验证二叉搜索树</title>
+      <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/98.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</link>
+      <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/98.%E9%AA%8C%E8%AF%81%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91/</guid>
+      <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">98.验证二叉搜索树</source>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_98-验证二叉搜索树"> 98.验证二叉搜索树</h1>
+<p>https://leetcode-cn.com/problems/validate-binary-search-tree/</p>
+<p><img src="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/solution/leetcode/LeetCode-hot-topic-HOT-100/98.png" alt="" loading="lazy"></p>
+<h2 id="方法一-递归"> 方法一：递归</h2>
+<h3 id="思路分析"> 思路分析</h3>
+<div><p>Tips</p>
+<p>如果二叉树的左子树不为空，则左子树上所有节点的值均小于它的根节点的值；若它的右子树不空，则右子树上所有节点的值均大于它的根节点的值；它的左右子树也为二叉搜索树。</p>
+<p><strong>递归函数</strong></p>
+<p><code>helper(root,lower,upper)</code>函数表示考虑以<code>root</code>为根的子树，判断子树中所有节点的值是否都在 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span style="margin-right:0.01968em;">l</span><span>,</span><span style="margin-right:0.1667em;"></span><span style="margin-right:0.02778em;">r</span><span>)</span></span></span></span> 的范围内</p>
+<p><strong>递归终止条件</strong></p>
+<p>根节点为空</p>
+<p>左子树节点的值大于根节点的值，右子树节点的值小于根节点的值</p>
+</div>
+<h3 id="参考代码"> 参考代码</h3>
+<CodeGroup>
+<CodeGroupItem title="c++">
+<div><pre><code><span>class</span> <span>Solution</span> <span>{</span>
+<span>public</span><span>:</span>
+    <span>bool</span> <span>helper</span><span>(</span>TreeNode<span>*</span> root<span>,</span> <span>long</span> lower<span>,</span> <span>long</span> upper<span>)</span><span>{</span>
+        <span>if</span><span>(</span>root <span>==</span> <span>nullptr</span><span>)</span><span>{</span>
+            <span>return</span> <span>true</span><span>;</span>
+        <span>}</span>
+        <span>if</span><span>(</span>root<span>-></span>val <span>&lt;=</span> lower <span>||</span> root<span>-></span>val <span>>=</span> upper<span>)</span><span>{</span>
+            <span>return</span> <span>false</span><span>;</span>
+        <span>}</span>
+        <span>return</span> <span>helper</span><span>(</span>root<span>-></span>left<span>,</span> lower<span>,</span> root<span>-></span>val<span>)</span> <span>&amp;&amp;</span> <span>helper</span><span>(</span>root<span>-></span>right<span>,</span> root<span>-></span>val<span>,</span> upper<span>)</span><span>;</span>
+    <span>}</span>
+    <span>bool</span> <span>isValidBST</span><span>(</span>TreeNode<span>*</span> root<span>)</span> <span>{</span>
+        <span>if</span><span>(</span>root <span>==</span> <span>nullptr</span><span>)</span><span>{</span>
+            <span>return</span> <span>true</span><span>;</span>
+        <span>}</span>
+        <span>return</span> <span>helper</span><span>(</span>root<span>,</span> LONG_MIN<span>,</span> LONG_MAX<span>)</span><span>;</span>
+    <span>}</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<h3 id="复杂度分析"> 复杂度分析</h3>
+<ol>
+<li>时间复杂度：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span></li>
+<li>空间复杂度：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span></li>
+</ol>
+<h2 id="参考文献"> 参考文献</h2>
+<p><a href="https://leetcode-cn.com/problems/validate-binary-search-tree/solution/yan-zheng-er-cha-sou-suo-shu-by-leetcode-solution/" target="_blank" rel="noopener noreferrer">验证二叉搜索树 - 验证二叉搜索树 - 力扣（LeetCode） (leetcode-cn.com)</a>https://leetcode-cn.com/problems/target-sum/solution/dong-tai-gui-hua-si-kao-quan-guo-cheng-by-keepal/)</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/River-Cold/pictureBed/vuepress-blog/docs/solution/leetcode/LeetCode-hot-topic-HOT-100/98.png" type="image/png"/>
+    </item>
+    <item>
       <title>LeetCode 热题 HOT 100</title>
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/leetcode/LeetCode-hot-topic-HOT-100/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">LeetCode 热题 HOT 100</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="leetcode-热题-hot-100"> LeetCode 热题 HOT 100</h1>
 <table>
 <thead>
@@ -3292,6 +3526,9 @@ A custom details container
 </tr>
 <tr>
 <td><a href="./206.反转链表.html">206.反转链表</a></td>
+</tr>
+<tr>
+<td><a href="./236.二叉树的最近公共祖先.html">236.二叉树的最近公共祖先</a></td>
 </tr>
 <tr>
 <td><a href="./297.二叉树的序列化与反序列化.html">297.二叉树的序列化与反序列化</a></td>
@@ -3347,7 +3584,7 @@ A custom details container
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/solution/nowcoder/sql-advanced/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">1.md</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="_1-md"> 1.md</h1>
 <p>sql-advanced!</p>
 ]]></content:encoded>
@@ -3360,7 +3597,7 @@ A custom details container
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -3385,7 +3622,7 @@ A custom details container
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/encrypt/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -3400,7 +3637,7 @@ A custom details container
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -3905,7 +4142,7 @@ $$
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/guide/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -3928,7 +4165,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/home/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">项目主页</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -3939,7 +4176,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/layout/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">自定义布局</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>Note</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -3964,7 +4201,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">博客主页</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -3975,7 +4212,7 @@ $$
       <link>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</link>
       <guid>https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/zh/slides/</guid>
       <source url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/rss.xml">幻灯片页</source>
-      <pubDate>Wed, 23 Mar 2022 08:11:36 GMT</pubDate>
+      <pubDate>Mon, 04 Apr 2022 14:19:55 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://vuepress-theme-hope-demo.mrhope.site/vuepress-blog/logo.svg" type="image/svg+xml"/>
